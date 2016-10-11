@@ -1,0 +1,13 @@
+{"description" "An improved EAM alloy potential describing properties of several phases of the Ni-Al system. Obtained by crossing the previously developed EAM potentials for pure Ni and Al (Y. Mishin, D. Farkas, M.J. Mehl, and D.A. Papaconstantopoulos, \"Interatomic potentials for monoatomic metals from experimental data and ab initio calculations,\" Phys. Rev. B 59, 3393 (1999)). The potential has been tested for many properties, including the melting temperatures of several phases."
+ "disclaimer" "The paper reporting on this potential (G.P. Purja Pun and Y. Mishin, \"Development of an interatomic potential for the Ni-Al system,\" Phil. Mag. 89, 3245 (2009)) contains an error in Table 6. The generalized stacking fault energies in Ni3Al listed in this table are incorrect. The correct energies computed with the new potential are (in J/m2):\nAPB (111)  180\nCSF (111) 229\nSISF (111) 21\nAPB (100) 20"
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_PurjaPun_Mishin_NiAl__MO_751354403791_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "G.P. Purja Pun and Y. Mishin, \"Development of an interatomic potential for the Ni-Al system,\" Phil. Mag. 89, 3245 (2009)."
+ "species" ["Ni" "Al"]
+ "title" "EAM alloy potential for the Ni-Al system."
+ "author" "Yuri Mishin"
+ "contributer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "maintainer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "publication-year" "2016"}

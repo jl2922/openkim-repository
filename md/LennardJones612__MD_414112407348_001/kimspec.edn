@@ -1,0 +1,10 @@
+{"description" "This is a driver, tuned for efficiency, for the Lennard-Jones (LJ) 6-12 pair potential model.  It supports the option to be truncated to have zero energy above a specified cutoff radius or shifted to have a continuous energy at the cutoff radius.  The driver is capable of supporting multiple species interactions.  If only \"like-like\" interactions are specified then the driver use the Lorentz-Berthelot mixing rules to generate the unlike interaction parameters.  See the README file for details.  Version 001 fixes a bug where the global cutoff value could, in some cases, be set to a value that is smaller than the cutoff for some individual LJ interactions."
+ "domain" "openkim.org"
+ "extended-id" "LennardJones612__MD_414112407348_001"
+ "kim-api-version" "1.6"
+ "source-citations" "J. E. Jones, \"On the Determination of Molecular Fields. I. From the Variation of the Viscosity of a Gas with Temperature\", Proc. R. Soc. London, Ser. A, 106(738):441-462, 1924.\n\n J. E. Jones, \"On the Determination of Molecular Fields. II. From the Equation of State of a Gas\", Proc. R. Soc. London, Ser. A, 106(738):463-477, 1924.\n\nJ. E. Lennard-Jones, \"On the Forces between Atoms and Ions\", Proc. R. Soc. London, Ser. A, 109(752):584-597, 1925."
+ "title" "Efficient KIM model driver for the multi-species Lennard-Jones model with truncated or shifted cutoff"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2015"}

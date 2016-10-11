@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "MEAM_2NN_Fe_to_Ga__MO_145522277939_001"
+    "event-type" "metadata-update"
+    "user-id" "c8ad0beb-f4c8-4ddc-8a25-372f5cc4a17e"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8a0a9a433078543f6b26f2bb040bb6cfe2e7ebba"
+      "README" "c92f8a90a51e38230539d712530730fae0e88b66"
+      "eam_db.tdb" "a2f7fdb0cbfa10e1dbcc0933111c73d52845b05f"
+      "kimspec.edn" "2bdf6b5873a98c3e4889c72a800fa1863a499f6a"
+    }
+  }
+
+  {
+    "extended-id" "MEAM_2NN_Fe_to_Ga__MO_145522277939_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c8ad0beb-f4c8-4ddc-8a25-372f5cc4a17e"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8a0a9a433078543f6b26f2bb040bb6cfe2e7ebba"
+      "README" "c92f8a90a51e38230539d712530730fae0e88b66"
+      "eam_db.tdb" "a2f7fdb0cbfa10e1dbcc0933111c73d52845b05f"
+      "kimspec.edn" "c860ec686619675b8b171f26164b08f520d7941e"
+    }
+  }
+
+  {
+    "extended-id" "MEAM_2NN_Fe_to_Ga__MO_145522277939_000"
+    "event-type" "initial-creation"
+    "user-id" "c8ad0beb-f4c8-4ddc-8a25-372f5cc4a17e"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "64d3019a9a0e45e56e564e63434248d423b37f29"
+      "README" "c92f8a90a51e38230539d712530730fae0e88b66"
+      "eam_db.tdb" "a2f7fdb0cbfa10e1dbcc0933111c73d52845b05f"
+      "kimspec.edn" "f0749b7fd78da77e6466d4f383163d16987a9cc4"
+    }
+  }
+]

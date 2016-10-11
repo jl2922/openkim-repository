@@ -1,0 +1,10 @@
+{"description" "This is a three-body Stillinger-Weber (SW) potential model driver.  This is an extension of the 001 version to support multiple species.  The use of a subset of the supported species is valid."
+ "domain" "openkim.org"
+ "extended-id" "Three_Body_Stillinger_Weber__MD_335816936951_002"
+ "kim-api-version" "1.6"
+ "source-citations" "1. F. H. Stillinger and T. A. Weber, \"Computer simulation of local order in condensed phases of silicon\", Phys. Rev. B, 31, 5262-5271, 1985\n\n2. Ellad B. Tadmor and Ronald E. Miller, Modeling Materials: Continuum, Atomistic and Multiscale Techniques, Cambridge University Press, 2011\n\n3. X. W. Zhou, D. K. Ward, and J. E. Martin, et al, \"Stillinger-Weber potential for the II-VI elements Zn-Cd-Hg-S-Se-Te\" Phys. Rev. B, 88, 085309, 2013."
+ "title" "Three-body Stillinger-Weber (SW) Model Driver"
+ "author" "Mingjian Wen"
+ "contributer-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+ "maintainer-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+ "publication-year" "2016"}

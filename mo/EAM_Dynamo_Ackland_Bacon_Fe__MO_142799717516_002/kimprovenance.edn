@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Bacon_Fe__MO_142799717516_002"
+    "event-type" "metadata-update"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Fe.eam.fs" "4921a5d2abaa86d0d01a85a9f8000e38915f54a3"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e47a0923cdcc8ff0160a232c848e8f0b61b30fbc"
+      "kimspec.edn" "d65456c9c5c2e078a17b4b77018b274dd4851a7d"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Bacon_Fe__MO_142799717516_002"
+    "event-type" "revised-version-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2016-07-19 21:55:43"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "Fe.eam.fs" "4921a5d2abaa86d0d01a85a9f8000e38915f54a3"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e47a0923cdcc8ff0160a232c848e8f0b61b30fbc"
+      "kimspec.edn" "d5382ce570c84e81669a65250fe211fd267c25dc"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Bacon_Fe__MO_142799717516_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "Fe.eam.fs" "4921a5d2abaa86d0d01a85a9f8000e38915f54a3"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b8c6c0d7bb1b40afe26b9b4aa9058a0d121242c6"
+      "kimspec.edn" "5198fd5f1944e2e82ecbd6421aa85c72006000d7"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Bacon_Fe__MO_142799717516_000"
+    "event-type" "initial-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "Fe.eam.fs" "4921a5d2abaa86d0d01a85a9f8000e38915f54a3"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b07141662aff8515e8712b42845f560d4a22c20f"
+      "kimspec.edn" "85cf47f4cd7a97257f15cca7787b7bcc075ca1b1"
+    }
+  }
+]

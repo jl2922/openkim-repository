@@ -1,0 +1,43 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Foiles_Baskes_Universal3_Cu__MO_666348409573_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Cu_u3.eam" "24460204f5a1cd8f3d548e7a2f4fe4cfc5c0acd5"
+      "LICENSE" "3127907a7623734f830e8c69ccee03b693bf993e"
+      "Makefile" "a14ba1a462548bc1645a3a24cc0843a21f3035fe"
+      "kimspec.edn" "1d5c8456a47e3cd322c044c174408d7f23380e15"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Foiles_Baskes_Universal3_Cu__MO_666348409573_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:58:15"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "Cu_u3.eam" "24460204f5a1cd8f3d548e7a2f4fe4cfc5c0acd5"
+      "LICENSE" "3127907a7623734f830e8c69ccee03b693bf993e"
+      "Makefile" "a14ba1a462548bc1645a3a24cc0843a21f3035fe"
+      "kimspec.edn" "a7de51de53da0ba09ea81daca719378ecd147e85"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Foiles_Baskes_Universal3_Cu__MO_666348409573_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015-07-26 13:17:01"
+    "comments" ""
+    "checksums" {
+      "Cu_u3.eam" "24460204f5a1cd8f3d548e7a2f4fe4cfc5c0acd5"
+      "LICENSE" "3127907a7623734f830e8c69ccee03b693bf993e"
+      "Makefile" "44f5140a7b6b9aead65035dd0d4c154cadc78e75"
+      "kimspec.edn" "60ac94a382b695a5f70a84bc85d8466740b064bc"
+    }
+  }
+]

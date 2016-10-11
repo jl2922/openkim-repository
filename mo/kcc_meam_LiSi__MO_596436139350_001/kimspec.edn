@@ -1,0 +1,13 @@
+{"description" "It's a 2nn MEAM potential for Li-Si alloys."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "kcc_meam_LiSi__MO_596436139350_001"
+ "model-driver" "kcc_meam_driver__MD_111291751625_001"
+ "source-citations" ""
+ "species" ["Li" "Si"]
+ "title" "meam potential for Li-Si alloys"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2014"}

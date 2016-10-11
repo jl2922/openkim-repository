@@ -1,0 +1,13 @@
+{"description" "Parameterization by Dudarev and Derlet (J. Phys. Condens. Matter, 2005), for bcc Fe of an EAM cubic splines potential - fitted to various point defect energies and bulk properties. Also includes short-range coulomb potential (and required interpolating function to outer EAM part) - suitable for studying displacement cascades."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "model_Fe_PF_DudarevDerlet__MO_135034229282_001"
+ "model-driver" "model_driver_PF_cubic_splines__MD_620624592962_001"
+ "source-citations" "S. L. Dudarev and P. M. Derlet, 2005, J. Phys.: Condens. Matter, 17, 7097–7118"
+ "species" ["Fe"]
+ "title" "Model parameterization for the cubic splines EAM model driver: model_driver_PF_cubic_splines__MD_620624592962_001"
+ "author" "Mark R. Gilbert"
+ "contributer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "maintainer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "publication-year" "2014"}

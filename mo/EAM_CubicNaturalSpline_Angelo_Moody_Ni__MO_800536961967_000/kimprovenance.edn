@@ -1,0 +1,29 @@
+[
+  {
+    "extended-id" "EAM_CubicNaturalSpline_Angelo_Moody_Ni__MO_800536961967_000"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ebf0db1b7e193f28f2379cf5c5fd2f28add1b330"
+      "kimspec.edn" "38f38538a3748bb1fd6b34335035b012988e943d"
+      "ni_amb.fcn" "8b23412896e031c2441bb10dfe3fab90d6eee0a5"
+    }
+  }
+
+  {
+    "extended-id" "EAM_CubicNaturalSpline_Angelo_Moody_Ni__MO_800536961967_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:55:13"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ebf0db1b7e193f28f2379cf5c5fd2f28add1b330"
+      "kimspec.edn" "a987f8d75dfa218ab5ca4cad4fa1578bad7e3684"
+      "ni_amb.fcn" "8b23412896e031c2441bb10dfe3fab90d6eee0a5"
+    }
+  }
+]

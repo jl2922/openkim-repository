@@ -1,0 +1,12 @@
+{"description" "Tangney-Scandolo model with dipole representing charge polarization for oxides."
+ "disclaimer" "Designed for cubic and tetragonal phases (2-6 mol% yttria) and oxygen migration."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Dipole_Umeno_YSZ__MO_394669891912_001"
+ "source-citations" "ECS Transactions 57-1 (2013) pp.2799-2809"
+ "species" ["Zr" "O" "Y"]
+ "title" "Dipole model potential optimized for YSZ (Yttria-stabilized zirconia)"
+ "author" "Yoshi Umeno"
+ "contributer-id" "2f3b5993-e42e-4e2f-842a-7cab6a2c72cb"
+ "maintainer-id" "2f3b5993-e42e-4e2f-842a-7cab6a2c72cb"
+ "publication-year" "2014"}

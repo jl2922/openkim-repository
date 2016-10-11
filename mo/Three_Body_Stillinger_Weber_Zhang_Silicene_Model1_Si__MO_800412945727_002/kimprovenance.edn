@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si__MO_800412945727_002"
+    "event-type" "metadata-update"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "dbea2b495ca2cfafd5a22c83163273baec57992b"
+      "README" "519a594ecaba90136381afd22b55afd311272c4b"
+      "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si.params" "04a210cc348116afc22987bafce3028b5caba819"
+      "kimspec.edn" "8c9ffb028326d4d6274a21fa6c3e1cfb8c478a0f"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si__MO_800412945727_002"
+    "event-type" "revised-version-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-04-22 15:53:23"
+    "comments" "This version update is to make this model compatible with the model driver update to support multiple species."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "dbea2b495ca2cfafd5a22c83163273baec57992b"
+      "README" "519a594ecaba90136381afd22b55afd311272c4b"
+      "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si.params" "04a210cc348116afc22987bafce3028b5caba819"
+      "kimspec.edn" "e77f9fcf28d59c69494072f3e00c2cc743fdeeed"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si__MO_800412945727_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "89a5025446ba455b4b90e9450a62305f3ef97d7a"
+      "README" "92a0038b16b1aef3e7be8974b460b93690fcf7ec"
+      "Three_Body_Stillinger_Weber_Zhang_Silicine_Model1_Si.params" "0affde59097ae872fa6bd4b0852df2894f35b6ff"
+      "kimspec.edn" "3b76ad9c99a64e7ba1c5943757bec51534af1b17"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si__MO_800412945727_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-08 10:35:37"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e1e6d83e29a5ab8537c22bebd6fdd703cafb20da"
+      "README" "a7213ebed7caab67745ef2b24e5d6b552b4c8f41"
+      "Three_Body_Stillinger_Weber_Zhang_Silicine_Model1_Si.params" "0affde59097ae872fa6bd4b0852df2894f35b6ff"
+      "kimspec.edn" "30de65038373af45c8fd32680738d82cb033aed9"
+    }
+  }
+]

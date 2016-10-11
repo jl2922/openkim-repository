@@ -1,0 +1,36 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the Common Development
+# and Distribution License Version 1.0 (the "License").
+#
+# You can obtain a copy of the license at
+# http://www.opensource.org/licenses/CDDL-1.0.  See the License for the
+# specific language governing permissions and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each file and
+# include the License file in a prominent location with the name LICENSE.CDDL.
+# If applicable, add the following below this CDDL HEADER, with the fields
+# enclosed by brackets "[]" replaced with your own identifying information:
+#
+# Portions Copyright (c) [yyyy] [name of copyright owner]. All rights reserved.
+#
+# CDDL HEADER END
+#
+#
+#
+# Author: Junhao Li (implementation adapted from Daniel S. Karls's original code)
+#
+# Copyright (c) 2012, Regents of the Cornell University.  All rights reserved.
+#
+
+This Model implements the EDIP bond-order potential for pure germanium.  The parameter values are taken from:
+
+V.I. Belko, V.E. Gusakov, N.N. Dorozhkin. Potential EDIP for germanium: parameterization and molecular dynamics simulation of point defects, Proc. IV International Conference, Materials and Structures of Modern Electronics. Minsk, Belarus, September 23-24, 2010. – pp. 15-18. 
+
+See also, for further reference on EDIP:
+
+M. Z. Bazant and E. Kaxiras, Phys. Rev. Lett. 77, 4370 (1996).
+M. Z. Bazant, E. Kaxiras, J. F. Justo, Phys. Rev. B 56, 8542 (1997).
+
+and http://web.mit.edu/bazant/www/EDIP/index.html.

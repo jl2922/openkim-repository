@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_PurjaPun_Mishin_NiAl__MO_751354403791_002"
+    "event-type" "metadata-update"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3efb5ebdf72b4c0a87a0c502026d2fffac1fc3ce"
+      "Mishin-Ni-Al-2009.eam.alloy" "7d3bbc4f4179ed9bc3617da46e7689a572c9ee9b"
+      "kimspec.edn" "00e990494919598c340a4a7a6887b801efa6d0cb"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_PurjaPun_Mishin_NiAl__MO_751354403791_002"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-07-19 21:56:52"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3efb5ebdf72b4c0a87a0c502026d2fffac1fc3ce"
+      "Mishin-Ni-Al-2009.eam.alloy" "7d3bbc4f4179ed9bc3617da46e7689a572c9ee9b"
+      "kimspec.edn" "3a12a4a0943c187e5008cac33c6ccbdb4d983f73"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_PurjaPun_Mishin_NiAl__MO_751354403791_001"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "32ea79311e815c5fb913a862b6ee771c28b96299"
+      "Mishin-Ni-Al-2009.eam.alloy" "7d3bbc4f4179ed9bc3617da46e7689a572c9ee9b"
+      "kimspec.edn" "aebbb4e19dcf7e71029ad13eec22ea914ceecb9a"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_PurjaPun_Mishin_NiAl__MO_751354403791_000"
+    "event-type" "initial-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f104cb8baac2abade1afe34a6fd38f010c7515aa"
+      "Mishin-Ni-Al-2009.eam.alloy" "7d3bbc4f4179ed9bc3617da46e7689a572c9ee9b"
+      "kimspec.edn" "1dcf0c4a3cdbbde7d24735722f3a2218d0d5a0ed"
+    }
+  }
+]

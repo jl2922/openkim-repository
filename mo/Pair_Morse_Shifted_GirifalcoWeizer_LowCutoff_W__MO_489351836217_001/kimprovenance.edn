@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_LowCutoff_W__MO_489351836217_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "14638ff6add633b4dcdb79b639050e4778b74482"
+      "README" "a13fe4495b16507079094f71d9852c52c0da2fa1"
+      "W.params" "b3e5307a01cc1c1a196d97cb54e997e17a87d544"
+      "kimspec.edn" "a803b89ad1b3046b1f08f3cb1f412033d0e63f43"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_LowCutoff_W__MO_489351836217_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "14638ff6add633b4dcdb79b639050e4778b74482"
+      "README" "a13fe4495b16507079094f71d9852c52c0da2fa1"
+      "W.params" "b3e5307a01cc1c1a196d97cb54e997e17a87d544"
+      "kimspec.edn" "8e62b6dd81f4789855d4f4f4687921d9073bb246"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_LowCutoff_W__MO_489351836217_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "a500706594eaf906840645839522a2ead1608e51"
+      "README" "e293385bd7a27e45e198141acf1d71192751605a"
+      "W.params" "953c9f7d72f5a83774e7b5396e38f48c08fab97e"
+      "kimspec.edn" "3bc983f232bab9a86a3d80f03c565a4dce60114a"
+    }
+  }
+]

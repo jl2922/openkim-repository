@@ -1,0 +1,63 @@
+[
+  {
+    "extended-id" "EAM_Dynamo__MD_120291908751_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:54:47"
+    "comments" "Removed double-parameter publishing. Fixed energy problems with ghost atoms when using NEIGH_PURE_F"
+    "checksums" {
+      "CreateDispatch.sh" "04bfca685c4c5e4adc2f4c4a308a27d162b7d097"
+      "EAM.cpp" "12fd704fa0713496849be58bad3d0f0b230571b0"
+      "EAM.hpp" "7e3206e1e32271c8effea0968e44fc6f1ff1154b"
+      "EAM.kim.tpl" "7e43a19688dbe11b0a24b2ff30fde010bdb987e5"
+      "EAM_DynamoCubicHermiteSpline.cpp" "7358fa1aeeb77dcb0de54bb00c6face0539d64ca"
+      "EAM_DynamoCubicHermiteSpline.hpp" "000dd5f4c197f0460d4af8b14985332b537b37db"
+      "EAM_Implementation.cpp" "44727250effb1480eec483f5183ef95728ebc7d3"
+      "EAM_Implementation.hpp" "499521dacb99f8210f0b96d7573d993d8efb5c86"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "36d69e1bc597b30986d4677c0db5b08c65f77c3f"
+      "README" "4221a3afa4123fa88b18ca280782aff3b2f94738"
+      "kimspec.edn" "d9ed6c98dacd7998d0127e0e01e7740320a45c2b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo__MD_120291908751_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "CreateDispatch.sh" "9bac7ccf105ffaf8bf34654bfd94694ea5ac6b89"
+      "EAM_Dynamo.cpp" "3e743a364a4ee79673ef13c26861742ecfb3c54c"
+      "EAM_Dynamo.hpp" "c83fcfad3915abc00cd557de5c895847350a92cd"
+      "EAM_Dynamo.kim.tpl" "b721a2eaacdd9258711844c347f2664a02cce17e"
+      "EAM_DynamoImplementation.cpp" "66b6b008c800a2d963b206df6711f2514b39d0b6"
+      "EAM_DynamoImplementation.hpp" "cf4f88f273f6f9687aaa11f478512c32e9751ae6"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "51e2c7e33da442bf3b39b0b9225b525f924497a6"
+      "README" "ed966039293bf5f97eedd58080a29388cce89271"
+      "kimspec.edn" "7c704c0e40a68d1f9acec922d75467cdb99c5b14"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo__MD_120291908751_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "CreateDispatch.sh" "af3b2fffb096ea435449f9fc2827bfcd08a2479c"
+      "EAM_Dynamo.cpp" "2e3c96864f9b9fc0a53b15cd71b68cdd20979232"
+      "EAM_Dynamo.hpp" "a4745580342c03c5c78d4f5707318ff757055e0e"
+      "EAM_DynamoImplementation.cpp" "4ce6db1f38c176ccae5595abef8a8bd68f913ffc"
+      "EAM_DynamoImplementation.hpp" "506118829afd2e0533b68069b274ccf4181aa3c1"
+      "EAM_Dynamo__MD_120291908751_000.kim" "c8d2b3a72767530df093917048fe95f6567a6ffb"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c82969caba34c93fcefa82dc772ec22b766eebb9"
+      "README" "6aef7c119c3f8d1d4d7a701ffa52af4b478e8eec"
+      "kimspec.edn" "12ea1345c0c9659e29ea1710e89c4784900f3fae"
+    }
+  }
+]

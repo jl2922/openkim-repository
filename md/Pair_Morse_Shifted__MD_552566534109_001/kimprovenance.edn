@@ -1,0 +1,49 @@
+[
+  {
+    "extended-id" "Pair_Morse_Shifted__MD_552566534109_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b041ce0dfb34cb1c72fa777b7a229e065d91fb80"
+      "Pair_Morse_Shifted.kim.tpl" "2d9aaa40874f21f7e92442f8d12fbadf807766cf"
+      "Pair_Morse_Shifted__MD_552566534109.c" "193e897fea0c835da4de59773ea1a8884fd708b6"
+      "README" "a3a8ce776102467cf9b343e889b93eab7bed3eb4"
+      "kimspec.edn" "66a1d13e7845caba317fd6f37e7dd8876b00a21c"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted__MD_552566534109_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b041ce0dfb34cb1c72fa777b7a229e065d91fb80"
+      "Pair_Morse_Shifted.kim.tpl" "2d9aaa40874f21f7e92442f8d12fbadf807766cf"
+      "Pair_Morse_Shifted__MD_552566534109.c" "193e897fea0c835da4de59773ea1a8884fd708b6"
+      "README" "a3a8ce776102467cf9b343e889b93eab7bed3eb4"
+      "kimspec.edn" "3552c832b195b54d49bf7c8f367665442ebe5c67"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted__MD_552566534109_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "36984215ae50e1606d3e5e918adc91bfc252bdac"
+      "Pair_Morse_Shifted__MD_552566534109_000.c" "e477a3a2e87068b63fbcf09a0362fb0943e52401"
+      "Pair_Morse_Shifted__MD_552566534109_000.kim" "83982820fb8d5c79b3e2e6b9673c58e49012c46a"
+      "README" "9f16153a79a6af8931cfbb2643d033e1d701bb21"
+      "kimspec.edn" "176cffc849af8fd54c062f6904db9060fb331b68"
+    }
+  }
+]

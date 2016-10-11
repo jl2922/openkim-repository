@@ -1,0 +1,13 @@
+{"description" "FS potential to simulate the Cu-Zr alloys - we are working on new versions - please, check."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mendelev_Kramer_CuZr__MO_600021860456_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "M.I. Mendelev,  M.J. Kramer, R.T. Ott,  D.J. Sordelet, D. Yagodin and P. Popel, Phil. Mag. 89, 967-987 (2009)."
+ "species" ["Cu" "Zr"]
+ "title" "FS potential for Cu-Zr"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}

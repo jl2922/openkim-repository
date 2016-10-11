@@ -1,0 +1,13 @@
+{"description" "Parameterization for bcc Nb for the cubic splines EAM model driver: model_driver_PF_cubic_splines__MD_620624592962_001. Fitted to various point defect energies and bulk properties (see Derlet et al. PRB 2007, for more details)."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "model_Nb_PF_cubicsplines__MO_218026715338_001"
+ "model-driver" "model_driver_PF_cubic_splines__MD_620624592962_001"
+ "source-citations" "P. M. Derlet, D. Nguyen-Manh, and S. L. Dudarev, PHYSICAL REVIEW B 76 (2007) 054107"
+ "species" ["Nb"]
+ "title" "Model parameterization for Nb for the cubic splines EAM model driver: model_driver_PF_cubic_splines__MD_620624592962_001"
+ "author" "Mark R. Gilbert"
+ "contributer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "maintainer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "publication-year" "2014"}

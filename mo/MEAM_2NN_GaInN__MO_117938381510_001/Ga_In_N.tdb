@@ -1,0 +1,35 @@
+El Ref.St     mass       Ec       Re          B        A     beta(0)  beta(1)
+            beta(2)  beta(3)    t(1)      t(2)      t(3)    Rho_zero  Cmin
+N  DIMER   14.007d+00 4.88d+00 1.100d+00 5.9600d+00 1.80d+00 2.20d+00 1.70d+00
+   .000 4.00 1.65d+00 4.00d+00  0.05d+00  1.00d+00  0.00d+00 2.70d+01 2.002.80
+In FCC_A1 114.820d+00 2.51d+00 3.328d+00 0.2700d+00 1.00d+00 5.06d+00 5.50d+00
+   .050 4.50 5.46d+00 2.00d+00  3.00d+00  3.10d+00  2.50d+00 1.00d+00 1.502.80
+Ga FCC_A1  69.720d+00 2.90d+00 3.003d+00 0.329d+00  0.97d+00 4.80d+00 3.10d+00
+   .097 5.00 6.00d+00 0.50d+00  2.72d+00  2.06d+00 -4.00d+00 1.00d+00 1.402.80
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Alloy  Ref.St    delta_Ec      Re          B       Eu_d Ciji Cjij Ciij Cijj AU
+Ga-N   ZnS_B3 -0.5600d+00  1.9400d+00  1.2482d+00 -0.01 0.00 0.00 0.00 2.00 EC
+                                                   4.00 2.80 2.80 2.80 2.80
+In-N   ZnS_B3 -0.1650d+00  2.1564d+00  0.8613d+00 -0.01 0.00 0.00 0.00 2.00 EC
+                                                   4.00 2.80 2.80 2.80 2.80
+Ga-In  FCC_B1  0.1355d+00  0.0000d+00  0.0000d+00  0.00 0.00 0.78 0.00 2.30 EC
+                                                   4.00 0.00 0.00 0.00 0.00
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Cmax 2.80 XXXX Cmin Aver XXXXXXX
+Ternary                             Rcut Cikj Cijk Cjik Cikj Cijk Cjik      AU
+Ga-In-N                             4.00 2.80 2.80 2.80 1.45 1.71 1.71      EC
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Multicomponent
+Rcutoff = 5.20
+EOF
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+In:
+"A Modified Embedded Atom Method Interatomic Potential for Indium,"
+Eun Cheol Do, Young-Han Shin and Byeong-Joo Lee, CALPHAD 32, 82-88 (2008).
+
+Ga-N, In-N, Ga-In & Ga-In-N:
+"Atomistic modeling of III-V nitrides: modified embedded-atom method interatomic potentials
+for GaN, InN and Ga1-xInxN,"
+Eun Cheol Do, Young-Han Shin and Byeong-Joo Lee, J. Phys.: Condensed Matter 21, 325801 (2009).
+
+EOF
+

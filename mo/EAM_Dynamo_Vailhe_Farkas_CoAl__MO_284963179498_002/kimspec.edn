@@ -1,0 +1,13 @@
+{"description" "EAM"
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Vailhe_Farkas_CoAl__MO_284963179498_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Shear faults and dislocation core structures in B2 CoAl\"\nC. Vailhé  and D. Farkas Journal of Materials Research / Volume 12 / Issue 10 / 1997, pp 2559-2570"
+ "species" ["Co" "Al"]
+ "title" "EAM"
+ "author" "Diana Farkas"
+ "contributer-id" "334e0d1f-993e-4ccc-8bd7-3abc2847ce45"
+ "maintainer-id" "334e0d1f-993e-4ccc-8bd7-3abc2847ce45"
+ "publication-year" "2016"}

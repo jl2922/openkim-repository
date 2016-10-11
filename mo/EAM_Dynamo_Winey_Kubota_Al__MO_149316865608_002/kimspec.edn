@@ -1,0 +1,13 @@
+{"description" "This model is the EAM inter-atomic potential developed by Winey, Kubota and Gupta (Modelling Simul. Mater. Sci. Eng. v 17, 055004, 2009; MSMSE, v 18, 029801, 2010) developed for shock compression of Aluminum at room and somewhat higher temperatures."
+ "disclaimer" "Model was fit to room temperature properties and extrapolated, classical (i.e. non-quantum) low temperature properties. The intended application is for shock compression simulations, but validation against shock pressure conditions is limited. The model appears to provide accurate results in the elastic shock regime (i.e. pressure ~ 5 to 10 GPa), as documented in the paper by Zimmerman, Winey and Gupta (Phys. Rev. B, 2011). Behavior at higher pressures and in the elastic-plastic regime is unknown."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Winey_Kubota_Al__MO_149316865608_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Winey, Kubota and Gupta, Modelling Simul. Mater. Sci. Eng. v 17, 055004, 2009\n\nWiney, Kubota and Gupta, Modelling Simul. Mater. Sci. Eng. v 18, 029801, 2010\n\nZimmerman, Winey and Gupta, Phys. Rev. B v 83, 184113, 2011"
+ "species" ["Al"]
+ "title" "EAM inter-atomic potential for Al developed for shock compression at room and higher temperatures"
+ "author" "Jonathan A Zimmerman"
+ "contributer-id" "58ffc68c-c4b6-4972-a9dd-ecc48374e731"
+ "maintainer-id" "58ffc68c-c4b6-4972-a9dd-ecc48374e731"
+ "publication-year" "2016"}

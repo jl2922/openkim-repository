@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "model_Fe_PF_DudarevDerlet__MO_135034229282_001"
+    "event-type" "metadata-update"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "0a7ed5ceea8d2f30f02e3c57bf2a5cacfc48c997"
+      "README" "b1d08ac11720ae8e4823f9e9634d4027a4696fd8"
+      "kimspec.edn" "006e8a2f5e715d75a289ae8c9382f0a7ebd2098c"
+      "model_Fe_PF_DudarevDerlet.params" "1b5ace5fe8bf82f23fc21c6a2c040dd68342207f"
+    }
+  }
+
+  {
+    "extended-id" "model_Fe_PF_DudarevDerlet__MO_135034229282_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "0a7ed5ceea8d2f30f02e3c57bf2a5cacfc48c997"
+      "README" "b1d08ac11720ae8e4823f9e9634d4027a4696fd8"
+      "kimspec.edn" "7ad6559079c351965b57b689a4cdf1bd7229a075"
+      "model_Fe_PF_DudarevDerlet.params" "1b5ace5fe8bf82f23fc21c6a2c040dd68342207f"
+    }
+  }
+
+  {
+    "extended-id" "model_Fe_PF_DudarevDerlet__MO_135034229282_000"
+    "event-type" "initial-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8f6f139259c2676dfa92097576d95c429d8f2767"
+      "README" "b1d08ac11720ae8e4823f9e9634d4027a4696fd8"
+      "kimspec.edn" "ec37dcfe46681e5febf19adbdd6c883e0b0726f8"
+      "model_Fe_PF_DudarevDerlet.params" "1b5ace5fe8bf82f23fc21c6a2c040dd68342207f"
+    }
+  }
+]

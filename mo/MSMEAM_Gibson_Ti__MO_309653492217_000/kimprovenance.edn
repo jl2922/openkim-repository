@@ -1,0 +1,29 @@
+[
+  {
+    "extended-id" "MSMEAM_Gibson_Ti__MO_309653492217_000"
+    "event-type" "metadata-update"
+    "user-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE" "6f0cf67361b36d7972bb3f798c3c3e8d8dd37ff0"
+      "Makefile" "2463308948567e5c2c93082558165f0167d9cf89"
+      "Ti.meatable" "95381c00fa61688e00822f172bfbcf11db9f9cf1"
+      "kimspec.edn" "c1398237254b8a095d9434e769f5d6ae56eb0a9c"
+    }
+  }
+
+  {
+    "extended-id" "MSMEAM_Gibson_Ti__MO_309653492217_000"
+    "event-type" "initial-creation"
+    "user-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+    "timestamp" "2016-02-25 16:19:03"
+    "comments" ""
+    "checksums" {
+      "LICENSE" "6f0cf67361b36d7972bb3f798c3c3e8d8dd37ff0"
+      "Makefile" "2463308948567e5c2c93082558165f0167d9cf89"
+      "Ti.meatable" "95381c00fa61688e00822f172bfbcf11db9f9cf1"
+      "kimspec.edn" "f9367e93c2ccf3c0e47def5a8efe237039413ab5"
+    }
+  }
+]

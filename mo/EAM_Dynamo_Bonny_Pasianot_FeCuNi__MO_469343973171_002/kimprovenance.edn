@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_002"
+    "event-type" "metadata-update"
+    "user-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "FeCuNi.eam.alloy" "f1eb4d7f998c2b4f2676bf204b2eee17c419e01c"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "eabd204791b9fb8394c8dd4e13214a0ef0c0bf0e"
+      "kimspec.edn" "9e977d346cdfbdfe37c919305c60eea365ae0cdc"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_002"
+    "event-type" "revised-version-creation"
+    "user-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+    "timestamp" "2016-07-19 21:55:16"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "FeCuNi.eam.alloy" "f1eb4d7f998c2b4f2676bf204b2eee17c419e01c"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "eabd204791b9fb8394c8dd4e13214a0ef0c0bf0e"
+      "kimspec.edn" "6be77ff522bf874db394ada03edca5113f9e4014"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_001"
+    "event-type" "revised-version-creation"
+    "user-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "FeCuNi.eam.alloy" "f1eb4d7f998c2b4f2676bf204b2eee17c419e01c"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3f1248db36df32e170cbcfceb11610e9cc5259f0"
+      "kimspec.edn" "17068bce291a82fb978ed69231b691663621b222"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_000"
+    "event-type" "initial-creation"
+    "user-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "FeCuNi.eam.alloy" "f1eb4d7f998c2b4f2676bf204b2eee17c419e01c"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "de73948c30c4a55bc9b96a1d07e495aada3a4643"
+      "kimspec.edn" "6dbbaaf3bd13e5f8c388e9f46080eba8a2c19af6"
+    }
+  }
+]

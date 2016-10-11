@@ -1,0 +1,13 @@
+{"description" "CaCd EAM potential  for the the IMD_EAM model driver, fitted for quasicrystal approximants."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "IMD_EAM_Schopf_CaCd__MO_145183423516_002"
+ "model-driver" "IMD_EAM__MD_113599595631_002"
+ "source-citations" "P. Brommer, F. Gähler, and M. Mihalkovič, Ordering and correlation of cluster orientations in CaCd6, Phil. Mag. 87 (18–21), pp. 2671–2677 (2007)"
+ "species" ["Ca" "Cd"]
+ "title" "CaCd potential for the IMD_EAM model driver."
+ "author" "Daniel Schopf"
+ "contributer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "maintainer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "publication-year" "2016"}

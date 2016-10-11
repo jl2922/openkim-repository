@@ -1,0 +1,33 @@
+[
+  {
+    "extended-id" "Pair_LJ_Smooth__MD_716364606252_000"
+    "event-type" "metadata-update"
+    "user-id" "1ca2116a-8ef0-4f27-baa5-c6bd14160e05"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "be91cdfe6084ffc1f0961c78a356917f72ed3e8d"
+      "Pair_LJ_Smooth.F03" "cd25fe2bbd88d52c7a1083bed2e9a2f2bd03fbf0"
+      "Pair_LJ_Smooth.kim.tpl" "4f213567547ee797bcecfc995d4acfd82dda38c7"
+      "README" "64ad7d7da7a0ae75ac631ae26d577808f1c13526"
+      "kimspec.edn" "788f00e7d2f2a0ffcd24cc5b641586401065bb47"
+    }
+  }
+
+  {
+    "extended-id" "Pair_LJ_Smooth__MD_716364606252_000"
+    "event-type" "initial-creation"
+    "user-id" "1ca2116a-8ef0-4f27-baa5-c6bd14160e05"
+    "timestamp" "2015-06-15 22:17:05"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "be91cdfe6084ffc1f0961c78a356917f72ed3e8d"
+      "Pair_LJ_Smooth.F03" "cd25fe2bbd88d52c7a1083bed2e9a2f2bd03fbf0"
+      "Pair_LJ_Smooth.kim.tpl" "4f213567547ee797bcecfc995d4acfd82dda38c7"
+      "README" "64ad7d7da7a0ae75ac631ae26d577808f1c13526"
+      "kimspec.edn" "62caa7999f2af72e95d3c9ef4abb753655ace790"
+    }
+  }
+]

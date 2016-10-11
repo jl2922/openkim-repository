@@ -1,0 +1,12 @@
+{"description" "It contains the modified Johnson pair potential for Fe. The parameters for this model are taken from the following reference:\n\nJ. R. Morris, R. S. Aga, V. Levashov and T. Egami, \"Many-body effects in bcc metals: An embedded atom model extension of the modified Johnson pair potential for iron\"\nPhys. Rev. B 77, 174201 (2008)."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Pair_Johnson_Fe__MO_857282754307_002"
+ "source-citations" ""
+ "species" ["Fe"]
+ "title" "Implementation of the Modified Johnson pair potential for Fe."
+ "author" "Sung-Yup Kim"
+ "contributer-id" "ac9a600a-f97e-4e71-83cd-d25d7e2bab9c"
+ "maintainer-id" "ac9a600a-f97e-4e71-83cd-d25d7e2bab9c"
+ "publication-year" "2016"}

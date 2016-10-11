@@ -1,0 +1,12 @@
+{"description" "This Model contains parameters for the EDIP three-body bond-order potential for pure germanium, as given in V.I. Belko, V.E. Gusakov, N.N. Dorozhkin. Potential EDIP for germanium: parameterization and molecular dynamics simulation of point defects, Proc. IV International Conference, Materials and Structures of Modern Electronics. Minsk, Belarus, September 23-24, 2010. – pp. 15-18. This is a general purpose potential for studying a wide array of bulk structures and defects in germanium."
+ "domain" "openkim.org"
+ "extended-id" "EDIP_BOP_Belko_Gusakov_Dorozhkin_Ge__MO_129433059219_000"
+ "kim-api-version" "1.6"
+ "model-driver" "EDIP_BOP_C__MD_506186535567_001"
+ "source-citations" "V.I. Belko, V.E. Gusakov, N.N. Dorozhkin, Potential EDIP for germanium: parameterization and molecular dynamics simulation of point defects, Proc. IV International Conference, Materials and Structures of Modern Electronics. Minsk, Belarus, September 23-24, 2010. – pp. 15-18."
+ "species" ["Ge"]
+ "title" "EDIP Potential for Germanium from Belko et al 2010"
+ "author" "Junhao Li"
+ "contributer-id" "c429164b-1b03-4ce3-a3a8-2568dd2bc449"
+ "maintainer-id" "c429164b-1b03-4ce3-a3a8-2568dd2bc449"
+ "publication-year" "2015"}

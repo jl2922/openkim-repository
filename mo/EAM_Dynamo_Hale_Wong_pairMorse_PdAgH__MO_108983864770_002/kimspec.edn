@@ -1,0 +1,13 @@
+{"description" "EAM alloy potential developed to accurately reproduce properties of the Pd-Ag-H alloy system."
+ "disclaimer" "Potential developed for the Pd-Ag-H system, where Ag is substitutional for Pd, and H is interstitial.  Application of this potential to pure H, or other Pd-Ag-H compounds is not recommended."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Hale_Wong_pairMorse_PdAgH__MO_108983864770_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "LM Hale, BM Wong, JA Zimmerman and XW Zhou, \"Atomistic potentials for palladium-silver hydrides\", Modell. Simul. Mater. Sci. Eng. 21, 045005 (2013). XW Zhou, JA Zimmerman, BM Wong and JJ Hoyt, \"An embedded-atom method interatomic potential for Pd-H alloys\", J. Mater. Res. 23, 704 (2008)."
+ "species" ["Ag" "H" "Pd"]
+ "title" "EAM potential for Pd-Ag-H ternary alloy system"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2016"}

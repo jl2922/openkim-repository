@@ -1,0 +1,12 @@
+{"description" "This is a glue potential (which has the same functional form as EAM) for pure aluminum due to F. Ercolessi and J. B. Adams.  The potential was developed using the \"force-matching method\", which includes forces from first-principles calculations in the fitting data base.  The potential was fitted to properties of face-centered cubic (fcc) crystals."
+ "disclaimer" "By design, this potential is not expected to be accurate for geometries with extremely low coordination -- such as small molecules -- which were not included in the input set."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Glue_Ercolessi_Adams_Al__MO_324507536345_001"
+ "source-citations" "F. Ercolessi and J. B. Adams, \"Interatomic Potentials from First-Principles Calculations: the Force-Matching Method\", Europhys. Lett., 26:583-588 (1994)."
+ "species" ["Al"]
+ "title" "A glue potential (EAM-style) for Al due to Ercolessi and Adams"
+ "author" "Ellad Tadmor"
+ "contributer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+ "maintainer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+ "publication-year" "2014"}

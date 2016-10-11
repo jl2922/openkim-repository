@@ -1,0 +1,43 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Mehl_Cu__MO_346334655118_002"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-07-19 21:57:27"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "Cu01.eam.alloy" "6f858238607fd40c944d251038088f4fbf1c07ce"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d7b469c9873c46f4b42e95a77b5ec33a60c32e52"
+      "kimspec.edn" "8c28b18645398fe12cf50575712a55a9d628c900"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Mehl_Cu__MO_346334655118_001"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "Cu01.eam.alloy" "6f858238607fd40c944d251038088f4fbf1c07ce"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "34852a4d323edae9fcf08ade7359bd4977d703c9"
+      "kimspec.edn" "d4decb65fc438fe8d825fc9285dc930ae60a8c50"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Mehl_Cu__MO_346334655118_000"
+    "event-type" "initial-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "Cu01.eam.alloy" "6f858238607fd40c944d251038088f4fbf1c07ce"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "64511ddda3c39bd00db59d14ec6c217ad402d5bb"
+      "kimspec.edn" "a57642eae1c59124770a8cde48760340bff38f49"
+    }
+  }
+]

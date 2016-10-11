@@ -1,0 +1,13 @@
+{"description" "The 2000 parameterization of the AIREBO reactive bond-order potential for systems containing C and/or H. (SJ Stuart et al, JCP 122 6472 '00)"
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "executables" ["configure_kim"]
+ "extended-id" "model_ArCHHeXe_BOP_AIREBO__MO_154399806462_001"
+ "source-citations" "S. J. Stuart, A. B. Tutein and J. A. Harrison, \"A Reactive Potential for Hydrocabons with Intermolecular Interactions\", J. Chem. Phys. 112, 6472-6486 (2000)."
+ "species" ["H" "He" "C" "Ar" "Xe"]
+ "title" "AIREBO reactive potential for carbon and hydrocarbon systems"
+ "author" "Steven J. Stuart"
+ "contributer-id" "e2494780-1bae-4847-adb3-c96367492dd5"
+ "maintainer-id" "e2494780-1bae-4847-adb3-c96367492dd5"
+ "publication-year" "2014"}

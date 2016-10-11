@@ -1,0 +1,29 @@
+[
+  {
+    "extended-id" "Pair_LJ_Smooth_Bernardes_Ar__MO_764178710049_000"
+    "event-type" "metadata-update"
+    "user-id" "1ca2116a-8ef0-4f27-baa5-c6bd14160e05"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7eb7ac3c25f189d8b5b88eb37f21e1c73b7d3c52"
+      "Pair_LJ_Smooth.params" "e3f305f927cafca064b0cb7c42482ff4eb07df03"
+      "kimspec.edn" "5e0360f1bc85ac5ec56fa94d098949c500e04119"
+    }
+  }
+
+  {
+    "extended-id" "Pair_LJ_Smooth_Bernardes_Ar__MO_764178710049_000"
+    "event-type" "initial-creation"
+    "user-id" "1ca2116a-8ef0-4f27-baa5-c6bd14160e05"
+    "timestamp" "2015-06-15 22:17:03"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7eb7ac3c25f189d8b5b88eb37f21e1c73b7d3c52"
+      "Pair_LJ_Smooth.params" "e3f305f927cafca064b0cb7c42482ff4eb07df03"
+      "kimspec.edn" "e0157872e76cca6c8c3eae672469b0f0ff14c1a7"
+    }
+  }
+]

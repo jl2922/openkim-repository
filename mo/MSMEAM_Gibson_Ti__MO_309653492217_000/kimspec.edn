@@ -1,0 +1,12 @@
+{"description" "Titanium model for multi-state modfied embedded atom method model driver. Fitted to first principles VASP data set that includes seven variable coordinations and two transformation paths. Ti_pv POTCAR was utilized to generate first princples VASP data."
+ "domain" "openkim.org"
+ "extended-id" "MSMEAM_Gibson_Ti__MO_309653492217_000"
+ "kim-api-version" "1.6"
+ "model-driver" "MSMEAM_Dynamo_Gibson_Baskes__MD_080127949983_000"
+ "species" ["Ti"]
+ "disclaimer" "The cutoff radius, in Å, can be varied by the user via modification of the value on line 4 within the Ti.meatable model file. The recommended range for the cutoff radius is between a minimum of 5.843 Ångstroms (two times the lattice scaling constant) and maximum of 11.686 Ångstroms. (four times the lattice scaling constant). The lattice and energy scaling constants are given as the third and fourth values, respectively, on line five of the Ti.meatable model file."
+ "title" "Titanium model for multi-state modified embedded atom method"
+ "author" "Joshua Gibson"
+ "contributer-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+ "maintainer-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+ "publication-year" "2016"}

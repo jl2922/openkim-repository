@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_King_Cu__MO_748636486270_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d27123b1c96c2f9075d6a31936bc1f44cd2e181c"
+      "Mendelev_Cu2_2012.eam.fs" "db240a1641d7a57b59514d0a890bbe4b8a4262e8"
+      "kimspec.edn" "6192a41c3c34968add5ebd37f4e97c538d896f96"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_King_Cu__MO_748636486270_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:57:17"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d27123b1c96c2f9075d6a31936bc1f44cd2e181c"
+      "Mendelev_Cu2_2012.eam.fs" "db240a1641d7a57b59514d0a890bbe4b8a4262e8"
+      "kimspec.edn" "13d226379d5d6bb34d82c9e432a8761e3c2b450f"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_King_Cu__MO_748636486270_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "5d2a3286b9ac4dfa0623118d245e67d102250e3b"
+      "Mendelev_Cu2_2012.eam.fs" "db240a1641d7a57b59514d0a890bbe4b8a4262e8"
+      "kimspec.edn" "16d15f80ef4b0300420659980923e1eeca9150e7"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_King_Cu__MO_748636486270_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "83a57a1be10f71a3a0d2bbe24f364c13f4916f9f"
+      "Mendelev_Cu2_2012.eam.fs" "db240a1641d7a57b59514d0a890bbe4b8a4262e8"
+      "kimspec.edn" "70da24b1d36390cd845730440586d0bc3b4d7619"
+    }
+  }
+]

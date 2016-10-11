@@ -1,0 +1,13 @@
+{"description" "This is a Cr Morse Model Parameterization by Girifalco and Weizer using a high accuracy cutoff distance."
+ "disclaimer" "None"
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_HighCutoff_Cr__MO_859700307573_001"
+ "model-driver" "Pair_Morse_Shifted__MD_552566534109_001"
+ "source-citations" "L. A. Girifalco, V. G. Weizer, Phys. Rev., Vol 114, no 3, 1959, pp687--690"
+ "species" ["Cr"]
+ "title" "This is a Cr Morse Model Parameterization by Girifalco and Weizer using a high accuracy cutoff distance."
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2014"}

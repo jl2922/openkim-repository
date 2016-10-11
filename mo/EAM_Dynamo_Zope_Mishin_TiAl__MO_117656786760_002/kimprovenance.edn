@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Zope_Mishin_TiAl__MO_117656786760_002"
+    "event-type" "metadata-update"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "af433c4c8c08e701bd7a3cd8f704dd6ed68e3856"
+      "Zope-Ti-Al-2003.eam.alloy" "d448fce94dbae275b80a6ebca345b9f37f166e44"
+      "kimspec.edn" "f88b54ff36aeec3eec045e4dd14f067008c28e45"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zope_Mishin_TiAl__MO_117656786760_002"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-07-19 21:55:35"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "af433c4c8c08e701bd7a3cd8f704dd6ed68e3856"
+      "Zope-Ti-Al-2003.eam.alloy" "d448fce94dbae275b80a6ebca345b9f37f166e44"
+      "kimspec.edn" "1379a4bdb8c199748173f42b447afe6235dcbdc6"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zope_Mishin_TiAl__MO_117656786760_001"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b73ea25a7c88d259a160b56c2aaff2cb154fcb86"
+      "Zope-Ti-Al-2003.eam.alloy" "d448fce94dbae275b80a6ebca345b9f37f166e44"
+      "kimspec.edn" "54cfd18627d4e9ba89befe41053be2e8c9755e82"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zope_Mishin_TiAl__MO_117656786760_000"
+    "event-type" "initial-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d5cb77fee0a9f6a8d04f88c3f0929d24a7b9c0a1"
+      "Zope-Ti-Al-2003.eam.alloy" "d448fce94dbae275b80a6ebca345b9f37f166e44"
+      "kimspec.edn" "a03e210249585ff0eb183972b9badf4ca5fed09c"
+    }
+  }
+]

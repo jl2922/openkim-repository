@@ -1,0 +1,13 @@
+{"description" "This is an EAM potential for Cu-Ag intended for the study of Cu adatom surface diffusion on Ag(111)."
+ "disclaimer" "This potential is only intended for the study of Cu diffusion on the Ag(111) surface."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Wu_Trinkle_CuAg__MO_270337113239_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "H.H. Wu and D.R. Trinkle, \"Cu/Ag EAM potential optimized for heteroepitaxial diffusion from ab initio data,\" Comp. Mat. Sci. 47, 577-583 (2009)."
+ "species" ["Cu" "Ag"]
+ "title" "EAM potential for Cu/Ag(111) Surface Diffusion."
+ "author" "Henry Wu"
+ "contributer-id" "8a50bfd1-bb09-4cb8-aaee-745d92e37eda"
+ "maintainer-id" "8a50bfd1-bb09-4cb8-aaee-745d92e37eda"
+ "publication-year" "2016"}

@@ -1,0 +1,13 @@
+{"description" "EAM potential for the ξ phases of Al-Pd-Mn."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "IMD_EAM_Schopf_AlMnPd__MO_878712978062_002"
+ "model-driver" "IMD_EAM__MD_113599595631_002"
+ "source-citations" "D. Schopf, P. Brommer, B. Frigan, and H.-R. Trebin, Embedded atom method potentials for Al-Pd-Mn phases, Phys. Rev. B 85 (5), 054201 (2012)"
+ "species" ["Al" "Mn" "Pd"]
+ "title" "AlMnPd potential for the IMD_EAM model driver."
+ "author" "Daniel Schopf"
+ "contributer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "maintainer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "publication-year" "2016"}

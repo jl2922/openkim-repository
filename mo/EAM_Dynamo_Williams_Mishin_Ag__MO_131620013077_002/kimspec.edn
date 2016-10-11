@@ -1,0 +1,13 @@
+{"description" "EAM Ag potential fit to experimental and first-principles data. Accurately reproduces many properties, including the melting temperature."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Williams_Mishin_Ag__MO_131620013077_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "P.L. Williams, Y. Mishin, and J.C. Hamilton, \"An embedded-atom potential for the Cu-Ag system,\" Modelling Simul. Mater. Sci. Eng. 14, 817 (2006)."
+ "species" ["Ag"]
+ "title" "EAM Ag potential fit to experimental and first-principles data"
+ "author" "Yuri Mishin"
+ "contributer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "maintainer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "publication-year" "2016"}

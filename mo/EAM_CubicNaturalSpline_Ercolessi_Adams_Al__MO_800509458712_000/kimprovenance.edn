@@ -1,0 +1,29 @@
+[
+  {
+    "extended-id" "EAM_CubicNaturalSpline_Ercolessi_Adams_Al__MO_800509458712_000"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Al_EA.eam.alloy" "ec7b7a8dabdaf375a9d690b7632bae2879330ad2"
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "f6c6a79e42d271f7a84108cb425be00b71ffb473"
+      "kimspec.edn" "b138cd4aa0eaa2cfba95b0ed7da7c29da2361e23"
+    }
+  }
+
+  {
+    "extended-id" "EAM_CubicNaturalSpline_Ercolessi_Adams_Al__MO_800509458712_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:56:28"
+    "comments" ""
+    "checksums" {
+      "Al_EA.eam.alloy" "ec7b7a8dabdaf375a9d690b7632bae2879330ad2"
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "f6c6a79e42d271f7a84108cb425be00b71ffb473"
+      "kimspec.edn" "fbb13fbe58d43ed4a6f926760504731ca48d189b"
+    }
+  }
+]

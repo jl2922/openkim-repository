@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Landa_Wynblatt_AlPb__MO_699137396381_002"
+    "event-type" "metadata-update"
+    "user-id" "ef8a3037-b0a8-400a-9eb2-096acbc02685"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "23e31785597062401e5d0f14d170a9a258a208cd"
+      "alpb-setfl.eam.alloy" "ff1be41662cfcc9cd9a2e2d136e5f87be519ef1f"
+      "kimspec.edn" "9122a73de393081fecd963742e927d0423634ab2"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Landa_Wynblatt_AlPb__MO_699137396381_002"
+    "event-type" "revised-version-creation"
+    "user-id" "ef8a3037-b0a8-400a-9eb2-096acbc02685"
+    "timestamp" "2016-07-19 21:56:03"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "23e31785597062401e5d0f14d170a9a258a208cd"
+      "alpb-setfl.eam.alloy" "ff1be41662cfcc9cd9a2e2d136e5f87be519ef1f"
+      "kimspec.edn" "99f52f22b710b90fe9ec0cc93832be1f40a6c293"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Landa_Wynblatt_AlPb__MO_699137396381_001"
+    "event-type" "revised-version-creation"
+    "user-id" "ef8a3037-b0a8-400a-9eb2-096acbc02685"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "1194d9f6342e0235f12485fb33750fcea4c7a07b"
+      "alpb-setfl.eam.alloy" "ff1be41662cfcc9cd9a2e2d136e5f87be519ef1f"
+      "kimspec.edn" "473f468fecffac430e4287c82773f219ce744f2b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Landa_Wynblatt_AlPb__MO_699137396381_000"
+    "event-type" "initial-creation"
+    "user-id" "ef8a3037-b0a8-400a-9eb2-096acbc02685"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e9089c3563a037ebc8c0023c17761d2e49bb0ada"
+      "alpb-setfl.eam.alloy" "ff1be41662cfcc9cd9a2e2d136e5f87be519ef1f"
+      "kimspec.edn" "73b76cc3e2805a0ad2fbcdd17a9231b6a5bb1890"
+    }
+  }
+]

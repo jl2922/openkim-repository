@@ -1,0 +1,10 @@
+{"description" "This is a four-body Mistriotis-Flytzanis-Farantos potential model driver.  This is intended to calculate lattice constant, cohesive energy, elastic constants, thermal conductivities and several other material properties. The driver can handle maximum two different species."
+ "domain" "openkim.org"
+ "extended-id" "Four_Body_Mistriotis_Flytzanis_Farantos__MD_514777050453_000"
+ "kim-api-version" "1.6"
+ "source-citations" "1. A. D. Mistriotis, N. Flytzanis, and S. C. Farantos, \"Potential model for silicon clusters\", Phys. Rev. B, vol. 39, 1212-1218, 1989\n2. Ellad B. Tadmor and Ronald E. Miller, Modeling Materials: Continuum, Atomistic and Multiscale Techniques, Cambridge University Press, 2011"
+ "title" "A four-body Mistriotis-Flytzanis-Farantos potential"
+ "author" "Amit K Singh"
+ "contributer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "maintainer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "publication-year" "2016"}

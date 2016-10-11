@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_NiZr__MO_149104665840_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "0274df3e8cb3f3645d378b380ce684382301cca9"
+      "Ni-Zr_Mendelev_2010.eam.fs" "fc86fa3342143cd0dfd12b3d79d72460d7d847d5"
+      "kimspec.edn" "381bae9edd0eeb612376bc7f01af783b42d64b9b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_NiZr__MO_149104665840_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:56:20"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "0274df3e8cb3f3645d378b380ce684382301cca9"
+      "Ni-Zr_Mendelev_2010.eam.fs" "fc86fa3342143cd0dfd12b3d79d72460d7d847d5"
+      "kimspec.edn" "d532b78c8024f9dd996dafeb4c770aace8c7b67a"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_NiZr__MO_149104665840_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "40f2155b2dc21086863ebd9700632eebacefea48"
+      "Ni-Zr_Mendelev_2010.eam.fs" "fc86fa3342143cd0dfd12b3d79d72460d7d847d5"
+      "kimspec.edn" "d98068dbab5a107194ae2f1c796b783af08a2800"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_NiZr__MO_149104665840_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "628981da5f3c5de1ad4506a46794ad30b2db0fa4"
+      "Ni-Zr_Mendelev_2010.eam.fs" "fc86fa3342143cd0dfd12b3d79d72460d7d847d5"
+      "kimspec.edn" "e650a792ac286db98e4192ab592e87594351547a"
+    }
+  }
+]

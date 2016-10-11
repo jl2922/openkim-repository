@@ -1,0 +1,13 @@
+{"description" "This is a Ar Morse Model Parameterization by Jelinek."
+ "disclaimer" "None"
+ "domain" "openkim.org"
+ "extended-id" "Pair_Morse_Sigmoid_Jelinek_Ar__MO_071460865933_000"
+ "kim-api-version" "1.6"
+ "model-driver" "Pair_Morse_Sigmoid__MD_199191711608_000"
+ "source-citations" "G. E. Jelinek, Phys. Rev. B, Vol 5, no 8, 1972, pp3210--3217"
+ "species" ["Ar"]
+ "title" "This is a Ar Morse Model Parameterization by Jelinek"
+ "author" "Hao"
+ "contributer-id" "ea8e6409-6510-463e-99c8-bebd0947f897"
+ "maintainer-id" "ea8e6409-6510-463e-99c8-bebd0947f897"
+ "publication-year" "2015"}

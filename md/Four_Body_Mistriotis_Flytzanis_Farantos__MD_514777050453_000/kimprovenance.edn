@@ -1,0 +1,33 @@
+[
+  {
+    "extended-id" "Four_Body_Mistriotis_Flytzanis_Farantos__MD_514777050453_000"
+    "event-type" "metadata-update"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Four_Body_Mistriotis_Flytzanis_Farantos.c" "1287fc40837e6dde2f3cda3a5c6314ab48a2ddc0"
+      "Four_Body_Mistriotis_Flytzanis_Farantos.kim.tpl" "06efc93c590a6a2a6a141c374f09abf218524782"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e65bb32a1ce52a648914bbb4e8098b1f4d81df27"
+      "README" "83b8d0098282c24622d5be2d70b25f342f40529a"
+      "kimspec.edn" "cb6af512b71b1d6a3e3abb1d3b5946c6569aae0a"
+    }
+  }
+
+  {
+    "extended-id" "Four_Body_Mistriotis_Flytzanis_Farantos__MD_514777050453_000"
+    "event-type" "initial-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-04-22 15:28:17"
+    "comments" ""
+    "checksums" {
+      "Four_Body_Mistriotis_Flytzanis_Farantos.c" "1287fc40837e6dde2f3cda3a5c6314ab48a2ddc0"
+      "Four_Body_Mistriotis_Flytzanis_Farantos.kim.tpl" "06efc93c590a6a2a6a141c374f09abf218524782"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e65bb32a1ce52a648914bbb4e8098b1f4d81df27"
+      "README" "83b8d0098282c24622d5be2d70b25f342f40529a"
+      "kimspec.edn" "16f4cb877123a3caa6c5803aeb4ac5046a962fe2"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{"description" "This model driver provides a C-based implementation of the three-body Environment Dependent Interatomic Potential (EDIP) developed by Martin Bazant and Efthemios Kaxiras and published in 1996.  EDIP is a bond-order potential primarily used to simulate a wide variety of structures and defects associated with silicon and carbon.  For more information on EDIP, please see http://web.mit.edu/bazant/www/EDIP/."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EDIP_BOP_C__MD_506186535567_001"
+ "source-citations" "M. Z. Bazant and E. Kaxiras, Phys. Rev. Lett. 77, 4370 (1996).\n\nM. Z. Bazant, E. Kaxiras, J. F. Justo, Phys. Rev. B 56, 8542 (1997).\n\nJ. F. Justo, M. Z. Bazant, E. Kaxiras, V. V. Bulatov, and S. Yip, Phys. Rev. B 58, 2539 (1998)."
+ "title" "A C-based implementation of the EDIP three-body bond-order potential of Bazant and Kaxiras."
+ "author" "Daniel Karls"
+ "contributer-id" "4d62befd-21c4-42b8-a472-86132e6591f3"
+ "maintainer-id" "4d62befd-21c4-42b8-a472-86132e6591f3"
+ "publication-year" "2014"}

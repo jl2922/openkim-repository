@@ -1,0 +1,8 @@
+{"description" "EAM, Al-Cu alloy, Al3Cu, AlCu3 considered, deposition and thin film growth simulation"
+ "domain" "openkim.org"
+ "extended-id" "EAM_QuinticClampedSpline_Cai_Ye_AlCu__MO_246347493730_000"
+ "kim-api-version" "1.6"
+ "model-driver" "EAM_QuinticClampedSpline__MD_532469991695_001"
+ "source-citations" "Journal of Applied Physics 105, 114312 (2009)."
+ "species" ["Al" "Cu"]
+ "title" "EAM potential for Al-Cu binary system"}

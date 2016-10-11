@@ -1,0 +1,13 @@
+{"description" "EAM type potential, fitted to elasticity.  Gives good plastic behaviour, and fitted with cross potentials for the Ni-Al system, describing the strong bonding and Ni3Al NiAl phases.  Strong ordering tendency: contrast with CuAu for disordering energy.   For radiation damage, add a Biersack-Ziegler function in the pairwise part."
+ "disclaimer" "no tratment of antiferromarnetism, although this doesn't seem to affect performance."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_Tichy_Ni__MO_977363131043_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Simple N-body potentials for the noble metals and nickel\" G.J.Ackland, G.I.Tichy, V.Vitek, and M.W.Finnis, Phil.Mag.A, 56, 735. (1987) \n\"Vibrational Entropy of ordered and disordered alloys\" G.J.Ackland, in Alloy Modeling and Design, edited by G. M. Stocks and F. E. A. Turchi (The Minerals, Metals, and Materials Society, Warrendale, PA, 1994), p. 149."
+ "species" ["Ni"]
+ "title" "Interatomic potential for Nickel"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

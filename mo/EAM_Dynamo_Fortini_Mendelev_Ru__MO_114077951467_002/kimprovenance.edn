@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Fortini_Mendelev_Ru__MO_114077951467_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "04ff19b3d6fe89ce4231f685835a27a245d95163"
+      "Ru.eam.fs" "aa0840d6a437262c4a0098e2aac7cd13fb3e52a6"
+      "kimspec.edn" "6c9e9de5822b4f7f1391b7280b571347f641955b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Fortini_Mendelev_Ru__MO_114077951467_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:57:51"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "04ff19b3d6fe89ce4231f685835a27a245d95163"
+      "Ru.eam.fs" "aa0840d6a437262c4a0098e2aac7cd13fb3e52a6"
+      "kimspec.edn" "a0a95a59ef504fb46b7ab36a6214e659d84c09b5"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Fortini_Mendelev_Ru__MO_114077951467_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "1f54fe2ff048fe4274bf7741a821d635f5e49caf"
+      "Ru.eam.fs" "aa0840d6a437262c4a0098e2aac7cd13fb3e52a6"
+      "kimspec.edn" "532a8c2158f3851b325ca002229c161d85f3b50f"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Fortini_Mendelev_Ru__MO_114077951467_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4fcf1df95d974d541d4a9efbcd69baa16960eac5"
+      "Ru.eam.fs" "aa0840d6a437262c4a0098e2aac7cd13fb3e52a6"
+      "kimspec.edn" "7f8a7dddcad8d29ab508ec15b97b20ca91c9a8f4"
+    }
+  }
+]

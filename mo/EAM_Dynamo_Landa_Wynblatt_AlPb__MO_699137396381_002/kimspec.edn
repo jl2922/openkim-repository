@@ -1,0 +1,13 @@
+{"description" "glue potential, Al, Pb, Al-Pb. Developed at Carnegie Mellon University to study the Al-Pb phase diagram and Pb/Al interfaces."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Landa_Wynblatt_AlPb__MO_699137396381_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "A. Landa, P. Wynblatt, D. J. Siegel, J. B. Adams, O. N. Mryasov, X-Y. Liu, Acta materialia, Vol. 48, Issue 8, (2000), p. 1753-1761; Corrigendum, Ibid, Vol. 48, Issue 13 (2000) p. 3621.\n\nA. Landa, P. Wynblatt, E. Johnson, U. Dahmen, Acta Materialia, Vol 48, Issue 10 (2000) p. 2557-2563."
+ "species" ["Al" "Pb"]
+ "title" "glue potential for Al-Pb system"
+ "author" "Alexander Landa"
+ "contributer-id" "ef8a3037-b0a8-400a-9eb2-096acbc02685"
+ "maintainer-id" "ef8a3037-b0a8-400a-9eb2-096acbc02685"
+ "publication-year" "2016"}

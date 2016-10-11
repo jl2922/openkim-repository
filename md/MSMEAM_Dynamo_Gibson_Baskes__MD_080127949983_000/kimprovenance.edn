@@ -1,0 +1,31 @@
+[
+  {
+    "extended-id" "MSMEAM_Dynamo_Gibson_Baskes__MD_080127949983_000"
+    "event-type" "metadata-update"
+    "user-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE" "6f0cf67361b36d7972bb3f798c3c3e8d8dd37ff0"
+      "MSMEAM_model_driver.F03" "168f09c7a22bb8a54d482eec11ee68c1be3294df"
+      "MSMEAM_model_driver.kim.tpl" "8d64e1f2c2df3ff6d6e5b7680345297424af418c"
+      "Makefile" "4b7d765b4284f23bc99364fa8965d1da0bc5765e"
+      "kimspec.edn" "9f4ae8f83ebc189ddd1a18fbc5eff08820df8254"
+    }
+  }
+
+  {
+    "extended-id" "MSMEAM_Dynamo_Gibson_Baskes__MD_080127949983_000"
+    "event-type" "initial-creation"
+    "user-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+    "timestamp" "2016-02-25 16:19:10"
+    "comments" ""
+    "checksums" {
+      "LICENSE" "6f0cf67361b36d7972bb3f798c3c3e8d8dd37ff0"
+      "MSMEAM_model_driver.F03" "168f09c7a22bb8a54d482eec11ee68c1be3294df"
+      "MSMEAM_model_driver.kim.tpl" "8d64e1f2c2df3ff6d6e5b7680345297424af418c"
+      "Makefile" "4b7d765b4284f23bc99364fa8965d1da0bc5765e"
+      "kimspec.edn" "8d06b0e23f061a4a4efd032bd504c367dcbb7b58"
+    }
+  }
+]

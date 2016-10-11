@@ -1,0 +1,8 @@
+{"description" "EAM Model Driver which reads 'Dynamo setfl', 'Dynamo funcfl', and 'Finnis Sinclair setfl' table files for the Embedded-Atom Method (EAM) and Finnis Sinclair potentials.  The driver is written in C++.  The driver is designed to mimic/reproduce the behavior of LAMMPS's eam, eam/alloy, and eam/fs pair_styles.  The type of table file provided is automatically detected. This Model Driver complies with the KIM API interface standard, using any NBC and iterator or locator mode, publishes its parameters, and supports optional computation of `energy', `forces', `particleEnergy', `process_dEdr', and `process_d2Edr2'.  Its initialization routine takes a KIM API object pointer, a pointer to a two-dimensional character array (each row of which contains the full path to a parameter file) of the form a[b][c], a pointer to the value of c, and a pointer to the value of b.  This Model Driver expects b > 1 when multiple funcfl files are used to define a multi-species Model.  Otherwise, it expects b = 1.  In this case it determines the type of provided table file by the file's contents."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "executables" ["CreateDispatch.sh"]
+ "extended-id" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" ""
+ "title" "EAM Model Driver with Hermite cubic spline interpolation"}

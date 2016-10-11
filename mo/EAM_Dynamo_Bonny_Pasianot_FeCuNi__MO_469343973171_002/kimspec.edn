@@ -1,0 +1,13 @@
+{"description" "Ternary FeCuNi EAM-type potential.\nThe fitting was focussed on solute-point defect interaction in the bcc Fe matrix. With respect to thermodynamics the following was accounted for: experimentally observed intermetallic compounds in the FeNi alloys, the Cu solubility in the FeCu binary and the CuNi miscibility gap. The potential is designed to model radiation damage in the FeCuNi model alloy which represents reactor pressure vessel steels. FeNi cross potential is taken from [Bonny et. al., Modelling Simul. Mater. Sci. Eng. 17 (2009) 025010]. FeCu cross potential is taken from [Pasianot and Malerba, J. Nucl. Mater. 360 (2007) 118]. Fe potential is taken from [Mendelev et al., Philos. Mag. 83 (2003) 3977]. Ni potential is taken from [Voter and Chen, Mater. Res. Soc. Symp. Proc. 82 (1987) 175]. Cu potential is taken from [Mishin et al., Phys. Rev. B 63 (2001) 224106]."
+ "disclaimer" "The potential is stiffened."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "FeCuNi potential: G. Bonny, R.C. Pasianot, N. Castin and L. Malerba, Philos. Mag. 89 (2009) 3531\nFeNi cross potential:"
+ "species" ["Fe" "Cu" "Ni"]
+ "title" "FeCuNi potential to model reactor pressure vessel steels"
+ "author" "Giovanni Bonny"
+ "contributer-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+ "maintainer-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+ "publication-year" "2016"}

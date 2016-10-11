@@ -1,0 +1,13 @@
+{"description" "Simple EAM potential for bcc iron designed for radiation damage.  Fitted to elastic moduli.  Gives correct SIA (011) and widely used in radiation damage studies.  Small modification for shock waves available giving hcp/bcc transition in the correct pressure.  Also available in moldy code.google.com/p/moldy/‎\n\nParameters in ...\n\n\"Computer simulation of Point Defect Properties in dilute Fe-Cu alloy using a many-body interatomic potential\" G.J.Ackland, D.J.Bacon, A.F.Calder and T.Harry Phil.Mag.A, 75 713-732 (1997) \n\n\"Dynamic overshoot in alpha-iron by atomistic simulations\" A. Machova and G.J.Ackland Modelling and Simulation in Materials Science and Engineering. 6, 521 (1998)"
+ "disclaimer" "Mendelev Ackland potential 2003/2004 has closer fitting to interstitials and melt.\nDoes not reproduce alpha-gamma transition, which required proper treatment of paramagnetism."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_Bacon_Fe__MO_142799717516_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Computer simulation of Point Defect Properties in dilute Fe-Cu alloy using a many-body interatomic potential\" G.J.Ackland, D.J.Bacon, A.F.Calder and T.Harry Phil.Mag.A, 75 713-732 (1997) \n\n\"Dynamic overshoot in alpha-iron by atomistic simulations\" A. Machova and G.J.Ackland Modelling and Simulation in Materials Science and Engineering. 6, 521 (1998)"
+ "species" ["Fe"]
+ "title" "Finnis-Sinclair potential for bcc iron in EAM format"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

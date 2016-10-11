@@ -1,0 +1,69 @@
+[
+  {
+    "extended-id" "IMD_EAM__MD_113599595631_002"
+    "event-type" "metadata-update"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "IMD_EAM.c" "60d8ec27aa5832dc9030266d20f625c9307f5dbf"
+      "IMD_EAM.h" "834de38c30da56b9d0694a23e0e771362c56ca89"
+      "IMD_EAM.kim.tpl" "311da191436c175e40ae13c54cde69d589951149"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8ea4a8c0703a48d2637aa8a89ddb171c5c5b25b6"
+      "README" "6b6f2b13c86381b93f9c82a3cdc12e91238978e3"
+      "kimspec.edn" "6660d1ed7e33fbc514dcf2a98eb98d16622685a7"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM__MD_113599595631_002"
+    "event-type" "revised-version-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2016-07-19 21:56:14"
+    "comments" "Fixed problem of occasional crashes in KIM_API_getm_compute_by_index"
+    "checksums" {
+      "IMD_EAM.c" "60d8ec27aa5832dc9030266d20f625c9307f5dbf"
+      "IMD_EAM.h" "834de38c30da56b9d0694a23e0e771362c56ca89"
+      "IMD_EAM.kim.tpl" "311da191436c175e40ae13c54cde69d589951149"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8ea4a8c0703a48d2637aa8a89ddb171c5c5b25b6"
+      "README" "6b6f2b13c86381b93f9c82a3cdc12e91238978e3"
+      "kimspec.edn" "9eec1f9fb6b3b4e4475214e4cf5734eb02152ad5"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM__MD_113599595631_001"
+    "event-type" "revised-version-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "IMD_EAM.c" "d24d6c8a4a74c5216f34f37fa3d2a3a723a37f85"
+      "IMD_EAM.h" "834de38c30da56b9d0694a23e0e771362c56ca89"
+      "IMD_EAM.kim.tpl" "311da191436c175e40ae13c54cde69d589951149"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "32cbc1e0b7ebe412fcfcf2437449e51a38364a04"
+      "README" "a4cdf63f3a11dd7e4b12f40348f82ae54b68ca22"
+      "kimspec.edn" "5f46fcc6f74d475c976ca994d4309a0e9f778d6d"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM__MD_113599595631_000"
+    "event-type" "initial-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "IMD_EAM.c" "ae56cb517ae8eceebc8efca60e186726b2144a13"
+      "IMD_EAM.h" "8ca98b975c4f7c6f1791d3041bb26ec8549545d2"
+      "IMD_EAM__MD_113599595631_000.kim" "bcfe76bab6f134b99a7e066542f9f817692e7691"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "9a14effd0007c186b76088decfe8917d6be829fb"
+      "README" "772f986cac0f9e022290a01ad667ecc789b83f91"
+      "kimspec.edn" "613d5727583c21067d8ec436c9b22d5629803333"
+    }
+  }
+]

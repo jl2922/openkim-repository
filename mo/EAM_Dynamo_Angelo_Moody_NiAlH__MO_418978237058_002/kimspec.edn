@@ -1,0 +1,13 @@
+{"description" "EAM potential for the Ni-Al-H system.  Developed to look at H embrittlement in Ni, Al and their alloys."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Angelo_Moody_NiAlH__MO_418978237058_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "J.E. Angelo, N.R. Moody, and M.I. Baskes, \"Trapping of hydrogen to lattice-defects in nickel,\" Modelling Simul. Mater. Sci. Engr. 3, 289-307 (1995). \n\nCorrection: M.I. Baskes, X.W. Sha, J.E. Angelo, and N.R. Moody, Modelling Simul. Mater. Sci. Eng. 5, 651-652 (1997)."
+ "species" ["Ni" "Al" "H"]
+ "title" "EAM potential for the Ni-Al-H system."
+ "author" "Michael I. Baskes"
+ "contributer-id" "05936d64-2312-402a-9873-5b6799e9f6db"
+ "maintainer-id" "05936d64-2312-402a-9873-5b6799e9f6db"
+ "publication-year" "2016"}

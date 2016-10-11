@@ -1,0 +1,13 @@
+{"description" "The potential was developed specifically to address the problem of radiation damage and point defects in iron containing low concentrations of phosphorus atoms."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_Mendelev_FeP__MO_884343146310_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "G.J. Ackland,  M.I. Mendelev,  D.J. Srolovitz, S. Han and A.V. Barashev, J. Phys.: Condens. Matter 16, S2629-S2642  (2004)."
+ "species" ["Fe" "P"]
+ "title" "FS potential for Fe-P"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}

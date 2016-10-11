@@ -1,0 +1,13 @@
+{"description" "It is an EAM potential that accurately represents low temerature (hcp) and high temperature (fcc) phases of Cobalt. It is intended to develop EAM potentials for alloys of Cobalt."
+ "disclaimer" "The potential accurately represents most of the properties of the hcp and the fcc phases of Co including the phase transition temperature."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_PurjaPun_Mishin_Co__MO_885079680379_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "G.P. Purja Pun and Y. Mishin, Phys. Rev. B, 86, 134116 (2012)"
+ "species" ["Co"]
+ "title" "EAM potential for hcp and fcc Cobalt"
+ "author" "Ganga Purja Pun"
+ "contributer-id" "02eb69dc-bae3-460c-aaf4-1513724c986f"
+ "maintainer-id" "02eb69dc-bae3-460c-aaf4-1513724c986f"
+ "publication-year" "2016"}

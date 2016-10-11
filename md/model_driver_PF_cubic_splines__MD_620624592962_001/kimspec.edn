@@ -1,0 +1,11 @@
+{"description" "EAM potential for bcc metals, with cubic splines for pairwise repulsive part and embedded atom pair density. Generalized to be used with two different functional forms for embedding function. For studying atomic defects at moderate temperatures. Also includes option to read in short range Biersack-Ziegler Coloumb potential and associated interpolating function to link to outer EAM part - useful for cascade simulations."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "model_driver_PF_cubic_splines__MD_620624592962_001"
+ "source-citations" "P. M. Derlet, D. Nguyen-Manh, and S. L. Dudarev, 2007, Phys. Rev. B, 76 054107\n\nM. I. Mendelev, S. Han, D. J. Srolovitz, G. J. Ackland, D. Y. Sun, and M. Asta, 2003, Philos. Mag., 83 3977–3994"
+ "title" "EAM potential with cubic splines function for both pairwise repulsive part and atom pair density"
+ "author" "Mark R. Gilbert"
+ "contributer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "maintainer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "publication-year" "2014"}

@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_MedCutoff_Sr__MO_964297938209_002"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2aaad56981d27be0ceb369daba4da09a33a4b9a7"
+      "README" "7b301972eb864b006b37d76c806140120a473a26"
+      "Sr.params" "505d01463ab31a1cf94e6638a491396ac87cb966"
+      "kimspec.edn" "13fa65cfc98305bfacbd26afcdb119fbf099f0fd"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_MedCutoff_Sr__MO_964297938209_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:57:33"
+    "comments" "Model updated to use correct element symbol (Sr instead of St)"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2aaad56981d27be0ceb369daba4da09a33a4b9a7"
+      "README" "7b301972eb864b006b37d76c806140120a473a26"
+      "Sr.params" "505d01463ab31a1cf94e6638a491396ac87cb966"
+      "kimspec.edn" "5ed360e2114e513a2dd281caa4eb7840bb4bc42a"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_MedCutoff_St__MO_964297938209_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "111358035d5cca2243fb1bd762741298fa779de5"
+      "README" "87eba529cc01fdb8e8550579a12e8d5cf5837ffe"
+      "St.params" "65cd284b5274760b24c5ea796193a6ddd34a2b18"
+      "kimspec.edn" "36396c8a450bd931564f96c7af43d27bdea3d9d1"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_MedCutoff_St__MO_964297938209_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d4ff1b359019fa1d21c8cc96c3ec705a3163a49f"
+      "README" "c9f6199481f3c2342e3d236bc91bda8f5bde1e4b"
+      "St.params" "b3b29e194757a9ed3a32f939141960b28365974a"
+      "kimspec.edn" "2f36405e62681f32ad67383d6100da2dccd1e6c3"
+    }
+  }
+]

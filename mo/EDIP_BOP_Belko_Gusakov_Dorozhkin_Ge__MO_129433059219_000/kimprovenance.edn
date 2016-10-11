@@ -1,0 +1,31 @@
+[
+  {
+    "extended-id" "EDIP_BOP_Belko_Gusakov_Dorozhkin_Ge__MO_129433059219_000"
+    "event-type" "metadata-update"
+    "user-id" "c429164b-1b03-4ce3-a3a8-2568dd2bc449"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Ge_BOP_EDIP.params" "c2f9c656ee18da7ab92802bcb6255774fe76a353"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "09b9f1673d326614239d635af13867782eff48e3"
+      "README" "8f6c470866a71f7807ba03f1a6f2366d7dbd3827"
+      "kimspec.edn" "81a693fbf5ea1b345ff36e7ae706b5ef4ca3d713"
+    }
+  }
+
+  {
+    "extended-id" "EDIP_BOP_Belko_Gusakov_Dorozhkin_Ge__MO_129433059219_000"
+    "event-type" "initial-creation"
+    "user-id" "c429164b-1b03-4ce3-a3a8-2568dd2bc449"
+    "timestamp" "2015-11-04 17:18:14"
+    "comments" ""
+    "checksums" {
+      "Ge_BOP_EDIP.params" "c2f9c656ee18da7ab92802bcb6255774fe76a353"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "09b9f1673d326614239d635af13867782eff48e3"
+      "README" "8f6c470866a71f7807ba03f1a6f2366d7dbd3827"
+      "kimspec.edn" "9ad7c88e6dcdb36ef05d991ec1594a321a7ac65f"
+    }
+  }
+]

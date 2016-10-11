@@ -1,0 +1,13 @@
+{"description" "EAM, Al-Cu alloy, Al3Cu, AlCu3 considered, deposition and thin film growth simulation"
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Cai_Ye_AlCu__MO_942551040047_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Journal of Applied Physics 105, 114312 (2009)."
+ "species" ["Al" "Cu"]
+ "title" "EAM potential for Al-Cu binary system"
+ "author" "Sang-Pil Kim"
+ "contributer-id" "66854aaa-7f4c-496a-b76a-8a51065fef50"
+ "maintainer-id" "66854aaa-7f4c-496a-b76a-8a51065fef50"
+ "publication-year" "2016"}

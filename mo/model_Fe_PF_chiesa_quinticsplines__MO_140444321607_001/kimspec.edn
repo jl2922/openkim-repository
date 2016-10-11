@@ -1,0 +1,13 @@
+{"description" "A parameterization for bcc Fe for the EAM quintic splines model driver: model_driver_PF_quintic_splines__MD_543355979582_001.\nFitted to a database of material parameters, including ab initio-derived point defect formation energies, third-order elastic constants, and ab initio-derived string potential data, the final two controlling, respectively, the thermal expansion properties and the core structure of the 1/2111 screw dislocation. Produces a non-degenerate configuration for the relaxed 1/2111 screw dislocation."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "model_Fe_PF_chiesa_quinticsplines__MO_140444321607_001"
+ "model-driver" "model_driver_PF_quintic_splines__MD_543355979582_001"
+ "source-citations" "Chiesa, Derlet, Dudarev and Van Swygenhoven, J. Phys.: Condens. Matter 23 (2011) 206001"
+ "species" ["Fe"]
+ "title" "Model parameterization for quintic splines EAM model driver: model_driver_PF_quintic_splines__MD_543355979582_001"
+ "author" "Mark R. Gilbert"
+ "contributer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "maintainer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "publication-year" "2014"}

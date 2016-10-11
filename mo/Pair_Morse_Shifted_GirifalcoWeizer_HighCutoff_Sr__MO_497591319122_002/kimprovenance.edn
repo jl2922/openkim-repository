@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_HighCutoff_Sr__MO_497591319122_002"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "6df3192feffb2ac63b39c7c6676b407e887186fd"
+      "README" "acbbc644dd368021b496cba75ba5adc3b19f4d95"
+      "Sr.params" "3db479180b1f85818787123b4e734b892d3edb6a"
+      "kimspec.edn" "4fa9ae1c476610e6c27502a52d64e6aea1af015d"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_HighCutoff_Sr__MO_497591319122_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:57:54"
+    "comments" "Model updated to use correct element symbol (Sr instead of St)"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "6df3192feffb2ac63b39c7c6676b407e887186fd"
+      "README" "acbbc644dd368021b496cba75ba5adc3b19f4d95"
+      "Sr.params" "3db479180b1f85818787123b4e734b892d3edb6a"
+      "kimspec.edn" "21f8440fc471c5a23d8dc54f762325d02dfa7543"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_HighCutoff_St__MO_497591319122_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "cbd914dff0471f629bb22bfe7e4d12a2b395fc8d"
+      "README" "dd4a8d6f986eac84646f7b273e65e4c69c5818ab"
+      "St.params" "f7ff16f67e7cafa85de17b8bbf2a02bee54384a3"
+      "kimspec.edn" "e36079604fc46776cbd2cf1156af1e2a0750a01f"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Morse_Shifted_GirifalcoWeizer_HighCutoff_St__MO_497591319122_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "42705f9be29e5e1d36c823dd6db04c3d9629634f"
+      "README" "cae5ab7fcc2657859e3e8ca7705c3d545cc6f7eb"
+      "St.params" "2d94e7d90a459ebda55c7cefe3571c092b454d8e"
+      "kimspec.edn" "e3048a6f90c5f5e159207621d5828c3d892d423a"
+    }
+  }
+]

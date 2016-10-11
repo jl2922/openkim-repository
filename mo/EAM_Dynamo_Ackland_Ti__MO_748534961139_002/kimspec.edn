@@ -1,0 +1,13 @@
+{"description" "Titanium potential for EAM.  Widely used for radiation damage and gives a nice hcp-bcc martensitic transition.  Available with early cross potentials for complete Ti3Al TiAl and TiAl3 system."
+ "disclaimer" "Stacking fault energy in hcp is too low.  Basal dislocations can be formed, and well as prismatic.  also available for MOLDY.  code.google.com/p/moldy/"
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_Ti__MO_748534961139_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Theoretical study of titanium surfaces and defects with a new many-body potential\" G.J.Ackland, Phil.Mag.A, 66, 917. (1992) \n\nThe MOLDY short-range molecular dynamics package GJ Ackland, K D'Mellow, SL Daraszewicz, DJ Hepburn, M Uhrin and K.Stratford Computer Physics Communications, 182 2587 (2011)"
+ "species" ["Ti"]
+ "title" "Titanium potential for hcp-fcc transition in EAM format"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

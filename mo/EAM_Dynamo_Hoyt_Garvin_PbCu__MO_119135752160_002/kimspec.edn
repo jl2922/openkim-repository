@@ -1,0 +1,13 @@
+{"description" "An Embedded Atom Method (EAM) description of the Cu-Pb binary system using previous EAM descriptions of pure Pb and Cu.  The model reproduces fairly well the phase diagram of Cu-Pb including the liquid-liquid miscibility gap."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Hoyt_Garvin_PbCu__MO_119135752160_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "J. J. Hoyt, J. W. Garvin, E. B. Webb and M. Asta, Model. Simul. Mater. Sci. Eng., 11, 287 (2003)."
+ "species" ["Pb" "Cu"]
+ "title" "Embedded Atom Method parametrization of the Pb-Cu system"
+ "author" "Jeffrey Hoyt"
+ "contributer-id" "7f1c9dc9-4185-4c36-ab0b-44056f8cbf69"
+ "maintainer-id" "7f1c9dc9-4185-4c36-ab0b-44056f8cbf69"
+ "publication-year" "2016"}

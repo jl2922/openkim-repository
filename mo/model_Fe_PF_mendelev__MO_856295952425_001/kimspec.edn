@@ -1,0 +1,13 @@
+{"description" "Famous Mendelev parameterization for a generic cubic splines model driver: model_driver_PF_cubic_splines__MD_620624592962_001. See original publication for further details (Mendelev et al., Philos. Mag. 2003)."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "model_Fe_PF_mendelev__MO_856295952425_001"
+ "model-driver" "model_driver_PF_cubic_splines__MD_620624592962_001"
+ "source-citations" "M. I. Mendelev, S. Han, D. J. Srolovitz, G. J. Ackland, D. Y. Sun, and M. Asta, 2003, Philos. Mag., 83 3977–3994"
+ "species" ["Fe"]
+ "title" "Model parameterization for the cubic splines EAM model driver: model_driver_PF_cubic_splines__MD_620624592962_001"
+ "author" "Mark R. Gilbert"
+ "contributer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "maintainer-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+ "publication-year" "2014"}

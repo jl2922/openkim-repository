@@ -1,0 +1,49 @@
+[
+  {
+    "extended-id" "MorseEIP_GuthikondaElliott_2009__MD_429561112321_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7d65a406e448cc67e9d6ddc1c50ce2decbfa5523"
+      "MorseEIP_GuthikondaElliott_2009.c" "38ce592577bc39f5690b0032ff12cc9a178b91c8"
+      "MorseEIP_GuthikondaElliott_2009.kim.tpl" "12e6a704541475805a963e95646c89ebbc2c3a5c"
+      "README" "84bbc1f88c8065102dd94a10be4eddc16f2847a8"
+      "kimspec.edn" "f960732514359deab13c62857e52186808b640cd"
+    }
+  }
+
+  {
+    "extended-id" "MorseEIP_GuthikondaElliott_2009__MD_429561112321_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-03-19 19:22:32"
+    "comments" "This version (001) fixes a bug in the computation of temperture dependent parameters."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7d65a406e448cc67e9d6ddc1c50ce2decbfa5523"
+      "MorseEIP_GuthikondaElliott_2009.c" "38ce592577bc39f5690b0032ff12cc9a178b91c8"
+      "MorseEIP_GuthikondaElliott_2009.kim.tpl" "12e6a704541475805a963e95646c89ebbc2c3a5c"
+      "README" "84bbc1f88c8065102dd94a10be4eddc16f2847a8"
+      "kimspec.edn" "af9178942add58835f2a8540eab72e5b2097ed05"
+    }
+  }
+
+  {
+    "extended-id" "MorseEIP_GuthikondaElliott_2009__MD_429561112321_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015--15 08:17:04"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "167a9e02f8f0dfb2f83d4fa6d763db444790371d"
+      "MorseEIP_GuthikondaElliott_2009.c" "6fa2e9c537821f69811eae28a88cca7c59fbd394"
+      "MorseEIP_GuthikondaElliott_2009.kim.tpl" "12e6a704541475805a963e95646c89ebbc2c3a5c"
+      "README" "9a76c6a0eabb2320083a0bfbb2bb24db7f09a189"
+      "kimspec.edn" "ae443dba6a830fef579dc13e40aae22b60c1295a"
+    }
+  }
+]

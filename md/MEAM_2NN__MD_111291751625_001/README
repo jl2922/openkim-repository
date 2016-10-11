@@ -1,0 +1,337 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the Common Development
+# and Distribution License Version 1.0 (the "License").
+#
+# You can obtain a copy of the license at
+# http://www.opensource.org/licenses/CDDL-1.0.  See the License for the
+# specific language governing permissions and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each file and
+# include the License file in a prominent location with the name LICENSE.CDDL.
+# If applicable, add the following below this CDDL HEADER, with the fields
+# enclosed by brackets "[]" replaced with your own identifying information:
+#
+# Portions Copyright (c) [yyyy] [name of copyright owner]. All rights reserved.
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2012, Regents of the University of Minnesota.  All rights reserved.
+#
+# Contributors:
+#    Ryan S. Elliott
+#    Ellad B. Tadmor
+#
+
+== eam_db.tdb format ==
+- Rcutoff value for elements is in column 8-12 of the each second
+line as 'f5.2' format.
+- Rcutoff value for alloys is in column 51-55 of the each second line
+as 'f5.2' format.
+- Rcutoff value for ternary is in column 36-40 of the each second
+line as 'f5.2' format.
+- Rcutoff value for multicomponent higher than ternary can be read
+from additional part, see line 146.
+
+== Description ==
+
+This file contains the parameters for 2NN MEAM interatomic potential.
+The file name should be "eam_db.tdb". The latest version of this file
+can be obtained at http://cmse.postech.ac.kr/. This file consisted of
+four parts, the first is parameters for elements, the second for
+alloys(binary systems), the third for ternary systems and the fourth
+is cutoff distance for multicomponent system higher than ternary.
+
+1) Element parameters
+
+The parameter set of each element would be read as fixed format of
+two lines by program. You can check details about these parameters
+from the reference[Lee B-J, Baskes MI. Physical Review B
+2000;62:8564-8567].
+
+
+Name
+Description
+Format
+Line
+columns
+Unit
+Comment
+El
+Name of element
+a2
+1st
+1-2
+-
+
+Ref.St
+Reference structure
+a6
+1st
+4-9
+-
+¡°FCC_A1¡±, ¡°BCC_A2¡±, ¡°HCP_A3¡±, ¡°DIA_A4¡±, ¡°DIMER¡± are
+supported.
+mass
+Atomic mass
+d12.3
+1st
+10-21
+g/mol
+
+Ec
+Cohesive energy of Ref.St
+d9.2
+1st
+22-30
+eV/atom
+
+Re
+The nearest distance of Ref.St
+d10.3
+1st
+31-40
+angstrom
+
+B
+Bulkmodulus of Ref.St
+d11.4
+1st
+41-51
+eV/atom-angstrom^3
+Be careful of the unit.
+B in GPa should be divided by 1.6023.
+A
+Adjustable MEAM parameter
+d9.2
+1st
+52-60
+-
+
+beta(0)
+Adjustable MEAM parameter
+d9.2
+1st
+61-69
+-
+
+beta(1)
+Adjustable MEAM parameter
+d9.2
+1st
+70-78
+-
+
+beta(2)
+Adjustable MEAM parameter
+d9.2
+2nd
+13-21
+-
+
+beta(3)
+Adjustable MEAM parameter
+d9.2
+2nd
+22-30
+-
+
+t(1)
+Adjustable MEAM parameter
+d10.2
+2nd
+31-40
+-
+
+t(2)
+Adjustable MEAM parameter
+d10.2
+2nd
+41-50
+-
+
+t(3)
+Adjustable MEAM parameter
+d10.2
+2nd
+51-60
+-
+
+Rho_zero
+Background electron density
+d9.2
+2nd
+61-69
+-
+
+Cmin
+Minimum 2NN screening parameter
+f4.2
+2nd
+71-74
+-
+
+Cmax
+Maximum 2NN screening parameter
+f4.2
+2nd
+75-78
+-
+If not given, set to 2.80 automatically.
+d
+Adjustable MEAM parameter
+f5.3
+2nd
+3-7
+-
+If not given, set to 0.00 automatically.
+Rcutoff
+cutoff distance of 2NN MEAM interaction
+f5.2
+2nd
+8-12
+angstrom
+The mean value of 2NN and 3NN distance is recommended.
+
+
+2) Alloy parameters
+
+The parameter set of each element would be read as fixed format of
+two lines by program. Some parameters(Re, B, Cmin, Cmax) can be
+determined to default value automatically by giving zero value or you
+can determine them empirically. The default value depends on
+reference structure. Please check the references about 2NN MEAM of
+binary system represented in the end of eam_db.tdb file.
+
+Name
+Description
+Format
+Line
+columns
+Unit
+Comment
+Alloy
+Name of compound
+a5
+1st
+1-5
+-
+Both AA-BB and BB-AA are available.
+Ref.St
+Reference structure
+a6
+1st
+8-13
+-
+¡°FCC_B1¡±, ¡°BCC_B2¡±, ¡°L12AB3¡±, ¡°L12A3B¡±, ¡°ZnS_B3¡±, ¡°DIMER¡±
+are supported.
+delta_Ec
+Energy difference of Ref.St from mechanically mixed compound.
+d12.4
+1st
+14-25
+eV/atom
+
+Re
+The nearest distance of Ref.St
+d12.4
+1st
+26-37
+angstrom
+
+B
+Bulkmodulus of Ref.St
+d12.4
+1st
+38-49
+eV/atom-angstrom^3
+Be careful of the unit.
+B in GPa should be divided by 1.6023.
+Eu_d
+Adjustable MEAM parameter
+f5.2
+1st
+51-55
+-
+
+Ciji,min
+Minimum screening of j between i and i.
+f5.2
+1st
+56-60
+-
+
+Cjij,min
+Minimum screening of i between j and j.
+f5.2
+1st
+61-65
+-
+
+Ciij,min
+Minimum screening of i between i and j.
+f5.2
+1st
+66-70
+-
+
+Cijj,min
+Minimum screening of j between i and j.
+f5.2
+1st
+71-75
+-
+
+Rcutoff
+cutoff distance of 2NN MEAM interaction
+f5.2
+2nd
+51-55
+angstrom
+The cutoff distance of the larger element is recommended.
+Ciji,max
+Maximum screening of j between i and i.
+f5.2
+2nd
+56-60
+-
+
+Cjij,max
+Maximum screening of i between j and j.
+f5.2
+2nd
+61-65
+-
+
+Ciij,max
+Maximum screening of i between i and j.
+f5.2
+2nd
+66-70
+-
+
+Cijj,max
+Maximum screening of j between i and j.
+f5.2
+2nd
+71-75
+-
+
+
+
+3) Ternary parameters
+
+For ternary system, three more ternary parameters for each screening,
+Cmin(i-j-k) and Cmax(i-j-k), are necessary. This parameters can be
+assumed from Cmin and Cmax of binary system. You can confirm that
+from the reference[Kim H-K, Jung W-S, Lee B-J. Acta materialia
+2009;57:3140-3147].
+
+4) Multicomponent higher than ternary
+In this case, the parameters are unnecessary. You can give a proper
+cutoff distance for your multicomponent system.
+
+The end of description.

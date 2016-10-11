@@ -1,0 +1,9 @@
+{"description" "Interatomic multi-state modified embedded atom method (MSMEAM) potential which uses generalized functions to describe the pair potential, embedding function and symmetric and angular densities as a function of interatomic distance. Also, generalized functions have been employed to describe the screening functions for the symmetric and angular densities and pair potential."
+ "domain" "openkim.org"
+ "extended-id" "MSMEAM_Dynamo_Gibson_Baskes__MD_080127949983_000"
+ "kim-api-version" "1.6"
+ "title" "Multi-State Modified Embedded Atom Method (MSMEAM)"
+ "author" "Joshua Gibson"
+ "contributer-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+ "maintainer-id" "128f03aa-1c9d-4bfa-bb3d-b9cab052c5e9"
+ "publication-year" "2016"}

@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Sun_Mendelev_Mg__MO_848345414202_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8fcead80b21e5ea17496b202a068dbea0d411c91"
+      "Mg.eam.fs" "504998575ca92903da8d82e1426a587952d24c12"
+      "kimspec.edn" "e81be94ff96d7c02f8c13fd0ca9fd1c8251f5139"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Sun_Mendelev_Mg__MO_848345414202_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:56:11"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8fcead80b21e5ea17496b202a068dbea0d411c91"
+      "Mg.eam.fs" "504998575ca92903da8d82e1426a587952d24c12"
+      "kimspec.edn" "3921b14e36e6b1a76311e54b4d553ea4b370fc8b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Sun_Mendelev_Mg__MO_848345414202_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c5d2c8b26d90c1d30e25dfcfe837268a6c103a76"
+      "Mg.eam.fs" "504998575ca92903da8d82e1426a587952d24c12"
+      "kimspec.edn" "0a3f71ba861da9e4e97eb96ebb516076fb552499"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Sun_Mendelev_Mg__MO_848345414202_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f2e13f6ba310e9c1581ab121ffb523c02f9c6b66"
+      "Mg.eam.fs" "504998575ca92903da8d82e1426a587952d24c12"
+      "kimspec.edn" "fc6b2b8037461109baccc9557fa2aaf17c04f9f2"
+    }
+  }
+]

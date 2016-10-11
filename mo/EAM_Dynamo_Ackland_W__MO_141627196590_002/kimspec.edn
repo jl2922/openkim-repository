@@ -1,0 +1,13 @@
+{"description" "Finnis sinclair model for tungsten designed for radiation damage.  Built around early simulations using DFT on point defects in W, and thermodynamics.  Correctly reproduces the DFT values for self interstitials which were unknown prior to 2002.  Works well for radiation damage simulations.  Never published, but available along with other less-well tested potentials in cubic spline form at  http://www.homepages.ed.ac.uk/gja//moldy/AMISH.txt"
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_W__MO_141627196590_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Interatomic potential for vanadium suitable for radiation damage simulations Han SW, Zepeda-Ruiz LA, Ackland GJ, Car R, Srolovitz DJ J Appl Phys 93 (6): 3328-3335 2003 \n\"First-principles thermodynamics of transition metals: W, NiAl, PdTi\" G.J. Ackland, X Huang, and K. M. Rabe Phys.Rev.B 68 214104 (2004)"
+ "species" ["W"]
+ "title" "Embedded atom model for tungsten"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

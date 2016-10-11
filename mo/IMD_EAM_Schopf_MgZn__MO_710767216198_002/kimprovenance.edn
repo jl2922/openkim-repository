@@ -1,0 +1,69 @@
+[
+  {
+    "extended-id" "IMD_EAM_Schopf_MgZn__MO_710767216198_002"
+    "event-type" "metadata-update"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4d28ae1338275ae60de0720b33bae7e330544ee2"
+      "README" "de1ef791821d4bbffebf3d58e36c42c692b729a1"
+      "kimspec.edn" "fb837353dddcf67de6cea4c62f92b4e12ea51efa"
+      "mgzn.222_gga.21719_new_F.imd.pt" "fb4652843a9f156b9689788ddc6fb393a96925f2"
+      "mgzn.222_gga.21719_new_phi.imd.pt" "570569dcc2c83bffe5894d6bbe72868bbc2c4b3a"
+      "mgzn.222_gga.21719_new_rho.imd.pt" "baa4c5b32340cf438e211e59b2085f08e593ef41"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM_Schopf_MgZn__MO_710767216198_002"
+    "event-type" "revised-version-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2016-07-19 21:56:36"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4d28ae1338275ae60de0720b33bae7e330544ee2"
+      "README" "de1ef791821d4bbffebf3d58e36c42c692b729a1"
+      "kimspec.edn" "c98e319e43ce9f8b1369e85bf6dc4d8114a49f61"
+      "mgzn.222_gga.21719_new_F.imd.pt" "fb4652843a9f156b9689788ddc6fb393a96925f2"
+      "mgzn.222_gga.21719_new_phi.imd.pt" "570569dcc2c83bffe5894d6bbe72868bbc2c4b3a"
+      "mgzn.222_gga.21719_new_rho.imd.pt" "baa4c5b32340cf438e211e59b2085f08e593ef41"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM_Schopf_MgZn__MO_710767216198_001"
+    "event-type" "revised-version-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7d57bd744377cb2ed3e1a4b33fc9a6b3b9e9886d"
+      "README" "de1ef791821d4bbffebf3d58e36c42c692b729a1"
+      "kimspec.edn" "99e902816c75326855f09dd3cb8b9e8ecf361e3a"
+      "mgzn.222_gga.21719_new_F.imd.pt" "fb4652843a9f156b9689788ddc6fb393a96925f2"
+      "mgzn.222_gga.21719_new_phi.imd.pt" "570569dcc2c83bffe5894d6bbe72868bbc2c4b3a"
+      "mgzn.222_gga.21719_new_rho.imd.pt" "baa4c5b32340cf438e211e59b2085f08e593ef41"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM_Schopf_MgZn__MO_710767216198_000"
+    "event-type" "initial-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4647539b9fab1711a5c9e9953aa774fded6294d9"
+      "README" "de1ef791821d4bbffebf3d58e36c42c692b729a1"
+      "kimspec.edn" "1c486bc5289c1fa01e343f983bd88558cac161c0"
+      "mgzn.222_gga.21719_new_F.imd.pt" "fb4652843a9f156b9689788ddc6fb393a96925f2"
+      "mgzn.222_gga.21719_new_phi.imd.pt" "570569dcc2c83bffe5894d6bbe72868bbc2c4b3a"
+      "mgzn.222_gga.21719_new_rho.imd.pt" "baa4c5b32340cf438e211e59b2085f08e593ef41"
+    }
+  }
+]

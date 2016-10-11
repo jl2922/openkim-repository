@@ -1,0 +1,52 @@
+GFORTRAN module version '10' created from MEAM_2NN.F03
+MD5:3dd5efd0d68adb6c9785eda4fe9b5605 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () ()
+() () () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 'compute_energy_forces' 'kcc_meam' 'compute_energy_forces' 1 ((
+PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN 0 0 FUNCTION IS_BIND_C
+IS_C_INTEROP) (INTEGER 4 0 1 0 INTEGER ()) 3 0 (4) () 2 () () () 0 0)
+5 'destroy' 'kcc_meam' 'destroy' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 FUNCTION IS_BIND_C IS_C_INTEROP) (INTEGER 4
+0 1 0 INTEGER ()) 6 0 (7) () 5 () () () 0 0)
+8 'dim' 'kcc_meam' '' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (INTEGER 4 0 1 0 INTEGER ()) 0 0 () (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '3') () 0 () () () 0 0)
+9 'reinit' 'kcc_meam' 'reinit' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 FUNCTION IMPLICIT_PURE IS_BIND_C IS_C_INTEROP) (
+INTEGER 4 0 1 0 INTEGER ()) 10 0 (11) () 9 () () () 0 0)
+4 'pkim' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+DERIVED 12 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+7 'pkim' '' '' 6 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+DERIVED 13 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+11 'pkim' '' '' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 14 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+12 'C_ptr' '__iso_c_binding' '' 3 ((DERIVED UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0 IS_BIND_C IS_C_INTEROP IS_ISO_C) (DERIVED 12 0 1 1
+UNKNOWN ()) 0 0 () () 0 ((15 '__c_ptr_c_address' (INTEGER 8 0 1 0
+INTEGER ()) () (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0) UNKNOWN-ACCESS ())) UNKNOWN-ACCESS () () 2 42 0)
+13 'C_ptr' '__iso_c_binding' '' 6 ((DERIVED UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0 IS_BIND_C IS_C_INTEROP IS_ISO_C) (DERIVED 13 0 1 1
+UNKNOWN ()) 0 0 () () 0 ((16 '__c_ptr_c_address' (INTEGER 8 0 1 0
+INTEGER ()) () (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0) UNKNOWN-ACCESS ())) UNKNOWN-ACCESS () () 2 42 0)
+14 'C_ptr' '__iso_c_binding' '' 1 ((DERIVED UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0 IS_BIND_C IS_C_INTEROP IS_ISO_C) (DERIVED 14 0 1 1
+UNKNOWN ()) 0 0 () () 0 ((17 '__c_ptr_c_address' (INTEGER 8 0 1 0
+INTEGER ()) () (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0) UNKNOWN-ACCESS ())) UNKNOWN-ACCESS () () 2 42 0)
+)
+
+('compute_energy_forces' 0 2 'destroy' 0 5 'dim' 0 8 'reinit' 0 9)

@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Angelo_Moody_NiAlH__MO_418978237058_002"
+    "event-type" "metadata-update"
+    "user-id" "05936d64-2312-402a-9873-5b6799e9f6db"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f348df4495d6ace2cbd39ffd6191b1a6554907dd"
+      "NiAlH_jea.eam.alloy" "76bc716ea2a1283deaec38eb576f7db01601863e"
+      "kimspec.edn" "a34902facc6f48358f0a16de8e20bc23b7dc26d3"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Angelo_Moody_NiAlH__MO_418978237058_002"
+    "event-type" "revised-version-creation"
+    "user-id" "05936d64-2312-402a-9873-5b6799e9f6db"
+    "timestamp" "2016-07-19 21:55:01"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f348df4495d6ace2cbd39ffd6191b1a6554907dd"
+      "NiAlH_jea.eam.alloy" "76bc716ea2a1283deaec38eb576f7db01601863e"
+      "kimspec.edn" "c4a0a768d63e93db998d0011a2acad059245b2f8"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Angelo_Moody_NiAlH__MO_418978237058_001"
+    "event-type" "revised-version-creation"
+    "user-id" "05936d64-2312-402a-9873-5b6799e9f6db"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "92ff5123dfd0737aae02e652e40de239e3a84ce2"
+      "NiAlH_jea.eam.alloy" "76bc716ea2a1283deaec38eb576f7db01601863e"
+      "kimspec.edn" "f1deed24cf508970e0202477eacba7e32a0796dc"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Angelo_Moody_NiAlH__MO_418978237058_000"
+    "event-type" "initial-creation"
+    "user-id" "05936d64-2312-402a-9873-5b6799e9f6db"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b0622e62f6d6b2019f75eede7a5c68a163103d5c"
+      "NiAlH_jea.eam.alloy" "76bc716ea2a1283deaec38eb576f7db01601863e"
+      "kimspec.edn" "f9fcee41eea0f1cf67302daec8492f0323b69c4c"
+    }
+  }
+]

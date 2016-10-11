@@ -1,0 +1,13 @@
+{"description" "The same as the Cu potential in [M.I. Mendelev,  M.J. Kramer,  C.A. Becker and M. Asta, Phil. Mag. 88,  1723 - 1750 (2008).] except of improvement of stacking fault energy."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mendelev_King_Cu__MO_748636486270_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "M.I. Mendelev and A.H. King, Phil. Mag. 93, 1268-1278 (2013)."
+ "species" ["Cu"]
+ "title" "FS potential for Cu"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}

@@ -1,0 +1,10 @@
+{"description" "This Model Driver implements a C^2 continuous Morse pair potential with its tail given by a fifth-order polynomial.  It takes five parameters: (1) the cutoff separation in angstroms, (2) the transition percentage defining the size of the tail, (3) the epsilon parameter in eV, (4) the C parameter in inverse angstroms, and (5) the equilibrium pair separation \"Rzero\" in angstroms.  The potential is C^2 continuous and has zero for its value and first and second derivatives at the cutoff separation."
+ "domain" "openkim.org"
+ "extended-id" "Pair_Morse_Smoothed__MD_093895395358_001"
+ "kim-api-version" "1.6"
+ "source-citations" "Jones, J. E. (1924), \"On the Determination of Molecular Fields. II. From the Equation of State of a Gas\", Proc. R. Soc. Lond. A 106 (738): 463-477"
+ "title" "This is a Model Driver for a C^2 continuous Morse pair potential with polynomial tail"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2015"}

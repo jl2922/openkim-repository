@@ -1,0 +1,13 @@
+{"description" "The potential was designed to simulate solidification in Mg... people use it to study dislocations in Mg."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Sun_Mendelev_Mg__MO_848345414202_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "D.Y. Sun, M.I. Mendelev, C.A. Becker, K. Kudin, T. Haxhimali, M. Asta, J.J. Hoyt, A. Karma and D.J. Srolovitz, Phys. Rev. B 73, 024116 (2006)."
+ "species" ["Mg"]
+ "title" "FS potential for Mg"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}

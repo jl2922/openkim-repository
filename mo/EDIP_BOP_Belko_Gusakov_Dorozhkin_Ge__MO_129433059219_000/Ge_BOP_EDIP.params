@@ -1,0 +1,67 @@
+3.545981721
+8.055177156
+1.616663707
+1.064810969
+0.526748343
+1.350016851
+1.499726187
+3.545981721
+2.585917946
+0.712379841
+348.7373554
+0.15831013
+0.007104598
+3.1083847
+-0.165799
+32.557
+0.286198
+0.66
+
+# This parameter set for EDIP is intended for pure Germanium.  Values are taken from: V.I. Belko, V.E. Gusakov, N.N. Dorozhkin, Potential EDIP for germanium: parameterization and molecular dynamics simulation of point defects, Proc. IV International Conference, Materials and Structures of Modern Electronics. Minsk, Belarus, September 23-24, 2010. – pp. 15-18.
+# Parameters shown above (in order): 
+#
+#   a = 3.545981721; /* Angstroms...this is the 2-body interaction cutoff, which is also used for the 3-body interaction cutoff */
+#   A = 8.055177156; /* eV */
+#   B = 1.616663707; /* Angstroms */
+#   rh = 1.064810969; /* unitless */
+#   sig = 0.526748343; /* Angstroms */
+#   lam = 1.350016851; /* eV */
+#   gam = 1.499726187; /* Angstroms */
+#   b = 3.545981721; /* Angstroms */
+#   c = 2.585917946; /* Angstroms */
+#   mu = 0.712379841; /* unitless */
+#   Qo = 348.7373554; /* unitless */
+#   eta = 0.15831013; /* unitless */
+#   bet = 0.007104598; /* unitless */
+#   alp = 3.1083847; /* unitless */
+#   u1 = -0.165799; /* unitless */
+#   u2 = 32.557; /* unitless */
+#   u3 = 0.286198; /* unitless */
+#   u4 = 0.66; /* unitless */
+#
+
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the Common Development
+# and Distribution License Version 1.0 (the "License").
+#
+# You can obtain a copy of the license at
+# http://www.opensource.org/licenses/CDDL-1.0.  See the License for the
+# specific language governing permissions and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each file and
+# include the License file in a prominent location with the name LICENSE.CDDL.
+# If applicable, add the following below this CDDL HEADER, with the fields
+# enclosed by brackets "[]" replaced with your own identifying information:
+#
+# Portions Copyright (c) [yyyy] [name of copyright owner]. All rights reserved.
+#
+# CDDL HEADER END
+#
+#
+#
+# Author: Junhao Li (implementation adapted from Daniel S. Karls's original code)
+#
+# Copyright (c) 2015, Regents of the Cornell University.  All rights reserved.
+#

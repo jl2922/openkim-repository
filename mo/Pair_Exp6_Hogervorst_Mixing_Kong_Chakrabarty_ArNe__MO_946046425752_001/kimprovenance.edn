@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe__MO_946046425752_001"
+    "event-type" "metadata-update"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "bc12391ea4e6dedfbbe07cbd0138a4fd40e3cdd9"
+      "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe.F03" "68f3de50fbcbef5ed38bac8f1c808df32a62c61d"
+      "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe.kim" "eb7e97c401e40ea1f6ccb13e06d075adf3367074"
+      "kimspec.edn" "48af7c731684d699aecec4455f271584ee50eb09"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe__MO_946046425752_001"
+    "event-type" "revised-version-creation"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "bc12391ea4e6dedfbbe07cbd0138a4fd40e3cdd9"
+      "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe.F03" "68f3de50fbcbef5ed38bac8f1c808df32a62c61d"
+      "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe.kim" "eb7e97c401e40ea1f6ccb13e06d075adf3367074"
+      "kimspec.edn" "f4030e89ebb35a897251556b4f2839cbde4ba327"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe__MO_946046425752_000"
+    "event-type" "initial-creation"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "94e3e669fc9cded9e824397772ce7d1d3950ae04"
+      "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe.F90" "ddcb77164ea0c69b76bc3fcdd269afea0587510b"
+      "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe__MO_946046425752_000.kim" "57143d54fafd0f036359fa77275e636599a55896"
+      "kimspec.edn" "ded01887a19f662e202de94874e64cd821ccb292"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairMorse_PdAgH__MO_108983864770_002"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "e5ddab2b332606ed10e2c7c1dd044222974de171"
+      "PdAgH_MorsePd3Ag.eam" "a9b14e72e3dedced5ed607abedd0fdf16148aa1b"
+      "kimspec.edn" "cf833efe4f2b90a596bcad7027406f79ecda05c7"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairMorse_PdAgH__MO_108983864770_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:56:25"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "e5ddab2b332606ed10e2c7c1dd044222974de171"
+      "PdAgH_MorsePd3Ag.eam" "a9b14e72e3dedced5ed607abedd0fdf16148aa1b"
+      "kimspec.edn" "0a0cc3d35422e528abe87c269d1edaf3e1616a80"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairMorse_PdAgH__MO_108983864770_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "effed2c8ba2f051489d5755236890369b43eef37"
+      "PdAgH_MorsePd3Ag.eam" "a9b14e72e3dedced5ed607abedd0fdf16148aa1b"
+      "kimspec.edn" "a2a9868e5c85bb76ebdaaefa3cb20e4323ae405b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairMorse_PdAgH__MO_108983864770_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "dcfdb2e9a9b1b366d6914fa15d714508384aea83"
+      "PdAgH_MorsePd3Ag.eam" "a9b14e72e3dedced5ed607abedd0fdf16148aa1b"
+      "kimspec.edn" "7890bb2c6f3649bce38f0395e7aa5ef6333dab57"
+    }
+  }
+]

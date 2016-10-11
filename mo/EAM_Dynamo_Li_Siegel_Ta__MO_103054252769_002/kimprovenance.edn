@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Li_Siegel_Ta__MO_103054252769_002"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2bcf6d13f9746b3bd796841e36ef49e00ccf477d"
+      "kimspec.edn" "49a69d9eae806de0539ca26a1d2089a5e9fb6e14"
+      "newPP1_47-setfl.eam.alloy" "720a972c9c834d3c7ed025d93669efc4330521c8"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Li_Siegel_Ta__MO_103054252769_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:58:04"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2bcf6d13f9746b3bd796841e36ef49e00ccf477d"
+      "kimspec.edn" "f1cc140ca701206cfc71d886d0c7ad8285a2b86e"
+      "newPP1_47-setfl.eam.alloy" "720a972c9c834d3c7ed025d93669efc4330521c8"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Li_Siegel_Ta__MO_103054252769_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ca52f5e303b1504cf62c059fed96f110e7a76d18"
+      "kimspec.edn" "d64124c7c32d381ffbb403f3abfa67ce6d5c68ba"
+      "newPP1_47-setfl.eam.alloy" "720a972c9c834d3c7ed025d93669efc4330521c8"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Li_Siegel_Ta__MO_103054252769_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "bec093a3aa6c3ae721a8990e6ed345a65208f184"
+      "kimspec.edn" "22ff030ce3bedd3ef6cc7defcb97e2dea2ceadf9"
+      "newPP1_47-setfl.eam.alloy" "720a972c9c834d3c7ed025d93669efc4330521c8"
+    }
+  }
+]

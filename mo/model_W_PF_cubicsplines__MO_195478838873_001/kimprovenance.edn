@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "model_W_PF_cubicsplines__MO_195478838873_001"
+    "event-type" "metadata-update"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ff2ce43c817612ea9282ad41ae599a594f7c0b81"
+      "README" "46e8981fcf590120fc2b291bd934ad1e116c6546"
+      "kimspec.edn" "d3fec35fbd864c000c6db395397fdb38e7f3751a"
+      "model_W_PF_cubicsplines.params" "a464b53e3633dbb971b430c774f5e6e2610013e4"
+    }
+  }
+
+  {
+    "extended-id" "model_W_PF_cubicsplines__MO_195478838873_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ff2ce43c817612ea9282ad41ae599a594f7c0b81"
+      "README" "46e8981fcf590120fc2b291bd934ad1e116c6546"
+      "kimspec.edn" "3fb13f923ccc54251c6340174422aafd1f0cb508"
+      "model_W_PF_cubicsplines.params" "a464b53e3633dbb971b430c774f5e6e2610013e4"
+    }
+  }
+
+  {
+    "extended-id" "model_W_PF_cubicsplines__MO_195478838873_000"
+    "event-type" "initial-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "6d2811334f72b798addc5413069bd264a620df4f"
+      "README" "46e8981fcf590120fc2b291bd934ad1e116c6546"
+      "kimspec.edn" "4bfe62ed5e1efa76ee70597f9245c98d3e8b0735"
+      "model_W_PF_cubicsplines.params" "a464b53e3633dbb971b430c774f5e6e2610013e4"
+    }
+  }
+]

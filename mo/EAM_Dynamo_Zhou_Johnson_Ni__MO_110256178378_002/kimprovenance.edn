@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ni__MO_110256178378_002"
+    "event-type" "metadata-update"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "68ec395be062150318dfbd8e8c01d8b6871a4c76"
+      "Ni.set" "b5719f7808669081c646eefca3f0932773adc971"
+      "kimspec.edn" "321e67dff9591c2bf99d61084950d0d95180920c"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ni__MO_110256178378_002"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-07-19 21:55:32"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "68ec395be062150318dfbd8e8c01d8b6871a4c76"
+      "Ni.set" "b5719f7808669081c646eefca3f0932773adc971"
+      "kimspec.edn" "01b1c69012bc0a0e4ba5ef6ac7e32eaa6bc24ace"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ni__MO_110256178378_001"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "1ccbcf75c9970962ae6fd3522c7888f255d39b02"
+      "Ni.set" "b5719f7808669081c646eefca3f0932773adc971"
+      "kimspec.edn" "1876cb2fd459d71e85348ec9e002190c8c84dd24"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ni__MO_110256178378_000"
+    "event-type" "initial-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "315d8e7ecd147c513bd9c9d2c7d6147fffb2bdb6"
+      "Ni.set" "b5719f7808669081c646eefca3f0932773adc971"
+      "kimspec.edn" "0bb1ff9e0fac08d194513f274da74afef15ca2c5"
+    }
+  }
+]

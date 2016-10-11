@@ -1,0 +1,12 @@
+{"description" "This is a three-body Stillinger-Weber potential model for the II-VI elements Zn-Cd-Hg-S-Se-Te.  It is fitted to reproduce the experimemtal cohesive energy, lattice constant, and bulk modulus."
+ "domain" "openkim.org"
+ "extended-id" "Three_Body_Stillinger_Weber_CdTeZnSeHgS__MO_503261197030_000"
+ "kim-api-version" "1.6"
+ "model-driver" "Three_Body_Stillinger_Weber__MD_335816936951_002"
+ "source-citations" "1. F. H. Stillinger and T. A. Weber, \"Computer simulation of local order in condensed phases of silicon\", Phys. Rev. B, 31, 5262-5271, 1985\n\n2. Ellad B. Tadmor and Ronald E. Miller, Modeling Materials: Continuum, Atomistic and Multiscale Techniques, Cambridge University Press, 2011\n\n3. X. W. Zhou, D. K. Ward, and J. E. Martin, et al, \"Stillinger-Weber potential for the II-VI elements Zn-Cd-Hg-S-Se-Te\" Phys. Rev. B, 88, 085309, 2013."
+ "species" ["Cd" "Te" "Zn" "Se" "Hg" "S"]
+ "title" "A three-body Stillinger-Weber (SW) Model (Parameterization) for Zn-Cd-Hg-S-Se-Te"
+ "author" "Mingjian Wen"
+ "contributer-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+ "maintainer-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+ "publication-year" "2016"}

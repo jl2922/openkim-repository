@@ -1,0 +1,13 @@
+{"description" "EAM Al potential fit to experimental and first-principles data"
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mishin_Farkas_Al__MO_651801486679_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Y. Mishin, D. Farkas, M.J. Mehl, and D.A. Papaconstantopoulos, \"Interatomic potentials for monoatomic metals from experimental data and ab initio calculations,\" Phys. Rev. B 59, 3393 (1999)."
+ "species" ["Al"]
+ "title" "EAM Al Potential"
+ "author" "Yuri Mishin"
+ "contributer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "maintainer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "publication-year" "2016"}

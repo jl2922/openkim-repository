@@ -1,0 +1,29 @@
+[
+  {
+    "extended-id" "EAM_QuinticClampedSpline_Ercolessi_Adams_Al__MO_450093727396_000"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Al_EA.eam.alloy" "ec7b7a8dabdaf375a9d690b7632bae2879330ad2"
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "ab6505b9133416bb4ef7c40e560976b9e984bf0e"
+      "kimspec.edn" "2b86a3e3dfa4bd6508909f143033e56bbf0c3fda"
+    }
+  }
+
+  {
+    "extended-id" "EAM_QuinticClampedSpline_Ercolessi_Adams_Al__MO_450093727396_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:56:17"
+    "comments" ""
+    "checksums" {
+      "Al_EA.eam.alloy" "ec7b7a8dabdaf375a9d690b7632bae2879330ad2"
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "ab6505b9133416bb4ef7c40e560976b9e984bf0e"
+      "kimspec.edn" "a212da30037b53d3b42382e388f6883bd642af31"
+    }
+  }
+]

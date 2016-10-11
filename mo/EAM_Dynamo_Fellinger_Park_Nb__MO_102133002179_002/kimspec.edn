@@ -1,0 +1,13 @@
+{"description" "The model is an embedded-atom method potential for Nb. The potential was constructed from density-functional theory calculations of forces, energies, and stresses for Nb structures for a wide range of strains and temperatures."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Fellinger_Park_Nb__MO_102133002179_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "M. R. Fellinger, H. Park, and J. W. Wilkins, \"Force-matched embedded-atom method potential for niobium,\" Phys. Rev. B 81, 144119 (2010)."
+ "species" ["Nb"]
+ "title" "Force-matched embedded-atom potential for Nb"
+ "author" "Michael R. Fellinger"
+ "contributer-id" "883fd4df-4a8e-4100-ac4c-b10cdd0b8d72"
+ "maintainer-id" "883fd4df-4a8e-4100-ac4c-b10cdd0b8d72"
+ "publication-year" "2016"}

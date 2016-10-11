@@ -1,0 +1,108 @@
+#!/bin/sh
+
+# AIREBO configure script
+MODEL=model_CH_BOP_AIREBO
+
+echo "$MODEL: configuring"
+
+# the FORTRAN compiler and flags are passed in by the KIM Makefile
+
+FC=$1
+FFLAGS=$2
+LDLIBS=""
+COMPILE="$FC $FFLAGS $LDLIBS"
+
+# test the compiler
+echo "$MODEL: compiling with $COMPILE..."
+if ( $COMPILE -o null null.f ) 1>/dev/null 2>&1 ; then
+  echo "  ...successful"
+else
+  echo "  ...failed"
+  exit 1
+fi
+if [ -f null ] ; then
+  rm null
+fi
+
+# see whether we have access to a dgesv() routine
+
+echo "$MODEL: Looking for a Gaussian elimination routine..."
+if $COMPILE -o dgesv_test dgesv_test.f dgesv_sun.f 1>/dev/null 2>&1 ; then
+  echo "   ...found Sun Perfomance Library dgesv()"
+  cp dgesv_sun.f dgesv.f
+  ./dgesv_test
+else
+  echo "   ...cannot find library dgesv()..."
+  if $COMPILE -o dgesv_test dgesv_test.f dgesv_absent.f 1>/dev/null 2>&1 ; then
+    echo "      ...providing homemade dgesv()"
+    cp dgesv_absent.f dgesv.f
+    ./dgesv_test
+  else
+    echo "      ...and can't compile homemade version. Help!"
+    exit 1
+  fi
+fi
+[ -f dgesv_test ] && rm dgesv_test
+
+# see whether we must call block data subprograms explicitly, or whether
+# we are forbidden from doing so
+
+echo "$MODEL: Checking whether to call block data subprograms..."
+if $COMPILE -o blkdtw_test blkdtw_test_nocall.f blkdtw_test_blkdat.f 1>/dev/null 2>&1 ; then
+  out=`./blkdtw_test | sed -e 's/^ //' 2>&1`
+  if [ "$out" = "works" ] ; then
+    echo "   ...no explicit call is needed"
+    cp blkdtw_nocall.f blkdtw.f
+  else
+    if $COMPILE -o blkdtw_test blkdtw_test_call.f blkdtw_test_blkdat.f 1>/dev/null 2>&1 ; then
+      out=`./blkdtw_test | sed -e 's/^ //' 2>&1`
+      if [ "$out" = "works" ] ; then
+        echo "   ...explicit call is mandatory"
+        cp blkdtw_call.f blkdtw.f
+      else
+        echo "   ...neither call nor non-call works. Help!"
+      fi
+    else
+      echo "   ...explicit call fails, but non-call is incorrect. Help!"
+    fi
+  fi
+fi
+[ -f blkdtw_test ] && rm blkdtw_test
+
+# see whether we have a flush() routine
+
+echo "$MODEL: Checking how to flush buffered I/O..."
+if $FC -o flush_test flush_test.f 1>/dev/null 2>&1 ; then
+  echo "   ...flush() intrinsic is present"
+  cp flush_present.f flush.f
+elif [ "$ABSOFT" != "" ] && $FC -o flush_test flush_test.f flush_.f -lU77 1>/dev/null 2>&1 ; then
+  echo "   ...Absoft provides flush_() intrinsic"
+  cp flush_.f flush.f
+else
+  echo "   ...cannot find intrinsic routine..."
+  if $FC -o flush_test flush_test.f flush_absent.f 1>/dev/null 2>&1 ; then
+    echo "      ...providing stub routine"
+    cp flush_absent.f flush.f
+  else
+    echo "      ...and can't manage to compile. Help!"
+  fi
+fi
+[ -f flush_test ] && rm flush_test
+
+# see whether we have a perror() routine
+
+echo "$MODEL: Checking to see how to print I/O error messages..."
+if $FC -o perror_test perror_test.f 1>/dev/null 2>&1 ; then
+  echo "   ...perror() intrinsic is present"
+  cp perror_present.f perror.f
+else
+  echo "   ...cannot find intrinsic perror() routine, implementing by hand"
+  cp perror_absent.f perror.f
+fi
+[ -f perror_test ] && rm perror_test
+
+# configured successfully
+
+touch configured
+
+echo "$MODEL: done configuring"

@@ -1,0 +1,13 @@
+{"description" "EAM alloy potential developed to accurately reproduce properties of the  B2-NiAl phase of the Ni-Al system."
+ "disclaimer" "This potential was developed to accurately reproduce properties of a single phase of the Ni-Al system, namely, B2-NiAl. Properties of other phases of this system are reproduced less accurately. Application of this particular potential to simulations of pure Ni or pure Al is not recommended."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mishin_Mehl_NiAl__MO_109933561507_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Y. Mishin, M.J. Mehl and D.A. Papaconstantopoulos, \"Embedded-atom potential for B2-NiAl,\" Phys. Rev. B 65, 224114 (2002)."
+ "species" ["Ni" "Al"]
+ "title" "EAM potential for the B2-NiAl compound"
+ "author" "Yuri Mishin"
+ "contributer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "maintainer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "publication-year" "2016"}

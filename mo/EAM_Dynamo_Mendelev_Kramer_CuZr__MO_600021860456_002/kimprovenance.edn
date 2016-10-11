@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Kramer_CuZr__MO_600021860456_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Cu-Zr_2.eam.fs" "2aa13edcade8492f8b3edd662b3d9e9feda791c2"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c4fbe0029f07d50dfde64d94b316140ada30ceb5"
+      "kimspec.edn" "179f2395bc5b39d9ae1d1e23b07f03e7b07005ab"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Kramer_CuZr__MO_600021860456_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:54:53"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "Cu-Zr_2.eam.fs" "2aa13edcade8492f8b3edd662b3d9e9feda791c2"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c4fbe0029f07d50dfde64d94b316140ada30ceb5"
+      "kimspec.edn" "123e2761de6bb79b13c0f91c6d6d0acb293b6b43"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Kramer_CuZr__MO_600021860456_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "Cu-Zr_2.eam.fs" "2aa13edcade8492f8b3edd662b3d9e9feda791c2"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "295c9d5fc50d65cf94ebcc3304be6c21fbf1b27a"
+      "kimspec.edn" "9fe98cb6ffa2036d5023508a97077d88c741e46d"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Kramer_CuZr__MO_600021860456_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "Cu-Zr_2.eam.fs" "2aa13edcade8492f8b3edd662b3d9e9feda791c2"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7acf405c18123c9fc88517e865f5c47da0513f39"
+      "kimspec.edn" "8a87183e51b1336bb96740a39670cfd160996aa8"
+    }
+  }
+]

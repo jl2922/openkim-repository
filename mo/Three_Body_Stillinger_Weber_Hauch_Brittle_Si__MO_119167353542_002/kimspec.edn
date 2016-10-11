@@ -1,0 +1,13 @@
+{"description" "This is Hauch et al (1999) rescaled Stillinger-Weber potential Model based on the KIM Model Driver Three_Body_Stillinger_Weber. This Model implements the Stillinger-Weber (SW) potential for Si with a rescaled value of lambda parameter used in the SW potential. Hauch et al (1999) doubled the original lambda value from 21.0 to 42.0. This version update is to make this model compatible with the model driver update to support multiple species. The functional form of the SW potential is written and there is a redifinition of parameters (e.g. A := A*epsilon). Besides, costheta_0 is updated from -0.3333333 to -0.3333333333333333 to give a better approximation of -1/3."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id"  "Three_Body_Stillinger_Weber_Hauch_Brittle_Si__MO_119167353542_002"
+ "model-driver" "Three_Body_Stillinger_Weber__MD_335816936951_002"
+ "source-citations" "1. F. H. Stillinger and T. A. Weber, \"Computer simulation of local order in condensed phases of silicon\", Phys. Rev. B, vol. 31, 5262-5271, 1985\n\n2. Jens A. Hauch, Dominic Holland, M. P. Marder, and Harry L. Swinney, \"Dynamic Fracture in Single Crystal Silicon\", Phys. Rev. Lett., vol 82, 3823--3826, 1999\n\n3. Ellad B. Tadmor and Ronald E. Miller, Modeling Materials: Continuum, Atomistic and Multiscale Techniques, Cambridge University Press, 2011"
+ "species" ["Si"]
+ "title" "A three-body Stillinger-Weber (SW) Model (Parameterization) for Silicon modified by Hauch et al"
+ "author" "Amit K Singh"
+ "contributer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "maintainer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "publication-year" "2016"}

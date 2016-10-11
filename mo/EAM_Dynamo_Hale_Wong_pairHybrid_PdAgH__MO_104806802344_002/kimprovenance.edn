@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairHybrid_PdAgH__MO_104806802344_002"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "e6d558a45fe4b7f0131cc46d01bd9e1e402453b7"
+      "PdAgH_HybridPd3Ag.eam" "c0e79d95e903900883b5b789fefc9ef81675a297"
+      "kimspec.edn" "1581eb128f96a185ce1c4ca6bacc24c6a7269861"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairHybrid_PdAgH__MO_104806802344_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:57:20"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "e6d558a45fe4b7f0131cc46d01bd9e1e402453b7"
+      "PdAgH_HybridPd3Ag.eam" "c0e79d95e903900883b5b789fefc9ef81675a297"
+      "kimspec.edn" "8949a6f7512c3ab4118ba022e993286ec6a7abd7"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairHybrid_PdAgH__MO_104806802344_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "6aa9815f2b781118cb023a7ccd7ad7f9bff2ad98"
+      "PdAgH_HybridPd3Ag.eam" "c0e79d95e903900883b5b789fefc9ef81675a297"
+      "kimspec.edn" "68009ad6c0aca11346dc6b2739d16b7f4c7389a9"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hale_Wong_pairHybrid_PdAgH__MO_104806802344_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "2382bf0bfe2f0fea89ac14061953f605c09f8489"
+      "Makefile" "8cdcb973ed95fe4985b0889011f7e5717aac9ed5"
+      "PdAgH_HybridPd3Ag.eam" "c0e79d95e903900883b5b789fefc9ef81675a297"
+      "kimspec.edn" "94a790a56b36fa39c5dd94af445c0e74ae362167"
+    }
+  }
+]

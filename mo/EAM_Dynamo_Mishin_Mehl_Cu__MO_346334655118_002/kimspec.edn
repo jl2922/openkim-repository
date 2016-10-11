@@ -1,0 +1,9 @@
+{"description" "EAM Cu potential fit to experimental and first-principles data"
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mishin_Mehl_Cu__MO_346334655118_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Y. Mishin, M.J. Mehl, D.A. Papaconstantopoulos, A.F. Voter, and J.D. Kress, \"Structural stability and lattice defects in copper: Ab initio, tight-binding, and embedded-atom calculations,\" Phys. Rev. B, 63, 224106 (2001)."
+ "species" ["Cu"]
+ "title" "EAM Cu Potential"}

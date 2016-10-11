@@ -1,0 +1,31 @@
+[
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_CdTeZnSeHgS__MO_503261197030_000"
+    "event-type" "metadata-update"
+    "user-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "9591a67d0bad9d4c7682a7fbb3b5e9c9def29902"
+      "README" "a5b817956803ede28ec1e8613dd1462a3b849858"
+      "Three_Body_Stillinger_Weber_CdTeZnSeHgS.params" "c90c85548d853245c7b5b2801f0881bca3e21dfb"
+      "kimspec.edn" "c969044d24b354ca75a021fc82af22a43b574f1f"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_CdTeZnSeHgS__MO_503261197030_000"
+    "event-type" "initial-creation"
+    "user-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+    "timestamp" "2016-04-22 15:28:17"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "9591a67d0bad9d4c7682a7fbb3b5e9c9def29902"
+      "README" "a5b817956803ede28ec1e8613dd1462a3b849858"
+      "Three_Body_Stillinger_Weber_CdTeZnSeHgS.params" "c90c85548d853245c7b5b2801f0881bca3e21dfb"
+      "kimspec.edn" "ae5d9576f6b5626bb346e45b5feea3a060f27d41"
+    }
+  }
+]

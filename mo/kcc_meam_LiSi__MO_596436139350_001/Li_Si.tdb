@@ -1,0 +1,21 @@
+El Ref.St     mass       Ec       Re          B        A     beta(0)  beta(1)
+            beta(2)  beta(3)    t(1)      t(2)      t(3)    Rho_zero  Cmin
+Li BCC_A2   6.940d+00 1.65d+00 2.990d+00 0.0800d+00 0.64d+00 1.03d+00 4.88d+00
+   .140 4.80 4.15d+00 5.27d+00 -1.46d+00  4.13d+00 -0.57d+00 1.00d+00 0.311.91
+Si DIA_A4  28.086d+00 4.63d+00 2.350d+00 0.6191d+00 0.53d+00 3.00d+00 7.50d+00
+   .030 4.80 0.00d+00 3.00d+00  1.45d+00  7.61d+00 -2.10d+00 3.00d+00 0.752.60
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Alloy  Ref.St    delta_Ec      Re          B       Eu_d Ciji Cjij Ciij Cijj AU
+Li-Si  L12A3B  -0.055d+00  2.7500d+00  0.3110d+00  0.10 0.55 0.35 0.45 0.45 FG
+       rho_C=  3.0                                 4.80 2.81 2.20 2.40 2.40 FG
+EOF
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+References:
+Li-Li, Si-Si, Li-Si:
+"Developing a second nearest-neighbor modified embedded atom method interatomic potential for lithium,"
+Z. Cui, F. Gao, Z. Cui, J. Qu, Modelling Simul. Mater. Sci. Eng., 20, 015014 (2012).
+
+"A second nearest-neighbor embedded atom method interatomic potential for Li-Si alloys,"
+Z. Cui, F. Gao, Z. Cui, J. Qu, J. Power Sources, 207, 150-159 (2012).
+
+

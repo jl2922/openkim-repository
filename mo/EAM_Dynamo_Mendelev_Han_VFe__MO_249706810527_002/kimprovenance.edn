@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "987bae1f938771fa048520682ed3e08f59a1a397"
+      "V-Fe.eam.fs" "6224be85d831df7203aa78748cef7da41f491de8"
+      "kimspec.edn" "77a477592b213f6a8e5a3810d5f457387b9e9ad4"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:55:19"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "987bae1f938771fa048520682ed3e08f59a1a397"
+      "V-Fe.eam.fs" "6224be85d831df7203aa78748cef7da41f491de8"
+      "kimspec.edn" "3abeb52ed81626f08e70542164fa84c49d3e0307"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b2a8c3cbd10cc2e528c752c0b756a9b5fce8fb20"
+      "V-Fe.eam.fs" "6224be85d831df7203aa78748cef7da41f491de8"
+      "kimspec.edn" "2744f6bebafdd90526d1aea024a8b396eb5d7613"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "aadefe848ae31b9ddccda4b1ae4812cc85fb9166"
+      "V-Fe.eam.fs" "6224be85d831df7203aa78748cef7da41f491de8"
+      "kimspec.edn" "23ab5e931357abd7222c26775528bff206e72f68"
+    }
+  }
+]

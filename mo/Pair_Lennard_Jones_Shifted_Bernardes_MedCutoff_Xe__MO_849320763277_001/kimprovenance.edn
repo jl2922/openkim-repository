@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "Pair_Lennard_Jones_Shifted_Bernardes_MedCutoff_Xe__MO_849320763277_001"
+    "event-type" "metadata-update"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c5010d0667b81c2c256d8bae45955f4dbeb618b1"
+      "Pair_Lennard_Jones_Shifted_Bernardes_MedCutoff_Xe.params" "ce31e53a0051ea31ed045a9399c19e410e977cd7"
+      "README" "e2852567557f29ea5cda4ca62b89426c9cf95007"
+      "kimspec.edn" "5a9513f4d7596f96f66c6346b54bb90c9055fdb5"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Lennard_Jones_Shifted_Bernardes_MedCutoff_Xe__MO_849320763277_001"
+    "event-type" "revised-version-creation"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c5010d0667b81c2c256d8bae45955f4dbeb618b1"
+      "Pair_Lennard_Jones_Shifted_Bernardes_MedCutoff_Xe.params" "ce31e53a0051ea31ed045a9399c19e410e977cd7"
+      "README" "e2852567557f29ea5cda4ca62b89426c9cf95007"
+      "kimspec.edn" "eb61f3614e576dd3d643a7b5f879b8e4f9c3679c"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Lennard_Jones_Shifted_Bernardes_MedCutoff_Xe__MO_849320763277_000"
+    "event-type" "initial-creation"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "579a653b33013ed0d185dba85472c9633ebbb8f6"
+      "Pair_Lennard_Jones_Shifted_Bernardes_MedCutoff_Xe.params" "ce31e53a0051ea31ed045a9399c19e410e977cd7"
+      "README" "4453cabcbfd08945186f18204e2b6e276a9bb8b3"
+      "kimspec.edn" "30c20f465faeea45d101aca865fd76de88c2a6f5"
+    }
+  }
+]

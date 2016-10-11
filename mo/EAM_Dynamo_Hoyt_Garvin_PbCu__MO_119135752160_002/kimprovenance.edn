@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Hoyt_Garvin_PbCu__MO_119135752160_002"
+    "event-type" "metadata-update"
+    "user-id" "7f1c9dc9-4185-4c36-ab0b-44056f8cbf69"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2a068c24271a2ab8cc93b6d241031234d96f6b9d"
+      "kimspec.edn" "c7a62381c02e95d61d04bd298fce6579de57daa6"
+      "pbcu.setfl" "ec1104069ab18e5184c4fb2568d50d462bf4cde1"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hoyt_Garvin_PbCu__MO_119135752160_002"
+    "event-type" "revised-version-creation"
+    "user-id" "7f1c9dc9-4185-4c36-ab0b-44056f8cbf69"
+    "timestamp" "2016-07-19 21:55:08"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2a068c24271a2ab8cc93b6d241031234d96f6b9d"
+      "kimspec.edn" "6c553069a51e9ac82916855cba7730f686240355"
+      "pbcu.setfl" "ec1104069ab18e5184c4fb2568d50d462bf4cde1"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hoyt_Garvin_PbCu__MO_119135752160_001"
+    "event-type" "revised-version-creation"
+    "user-id" "7f1c9dc9-4185-4c36-ab0b-44056f8cbf69"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2d52cbf263854a151583718fcc583ee6e96f16c1"
+      "kimspec.edn" "1c83b5a9d4110a9a0d315e515f86788aaf3d1758"
+      "pbcu.setfl" "ec1104069ab18e5184c4fb2568d50d462bf4cde1"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Hoyt_Garvin_PbCu__MO_119135752160_000"
+    "event-type" "initial-creation"
+    "user-id" "7f1c9dc9-4185-4c36-ab0b-44056f8cbf69"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b5742caef4fa3b411d4b5d89ec55ff1232ffa1dc"
+      "kimspec.edn" "1de3fd8835e4c861779dfeb0cd94a796a918137b"
+      "pbcu.setfl" "ec1104069ab18e5184c4fb2568d50d462bf4cde1"
+    }
+  }
+]

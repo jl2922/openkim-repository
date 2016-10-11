@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "Tersoff_LAMMPS__MD_077075034781_001"
+    "event-type" "metadata-update"
+    "user-id" "e09f947f-5c51-4bda-a096-580e239f6064"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE" "b714427eb50a3c492581d877cf2ec67c8eafe088"
+      "Makefile" "861906fbf805066e68cbda7d22b987012e33bce1"
+      "README" "8133a6d3a20576e1300ba201194d97b2596d08ff"
+      "TODO" "4b51c786b6c4879a0144dacc4d1c74694f8bc60d"
+      "Tersoff_LAMMPS.kim.tpl" "80dcd859383721576a2f4d0c61f4835a7b96b6e2"
+      "Tersoff_LAMMPS__MD_077075034781.cpp" "600c7480c15d3ce5868f2579053abba2be92c6c7"
+      "kimspec.edn" "1727266645a683d6ef4c9999fc9332abd1845e06"
+      "ndarray.hpp" "dc06edbc9b2df53d23158f0c7b8decd2149b0ef6"
+      "pair_tersoff.cpp" "ca928a84958a18004fc3a0f883d03deabbe884e4"
+      "pair_tersoff.hpp" "4ed7ed63a664697e66182491a9c7bb7b80eeecea"
+    }
+  }
+
+  {
+    "extended-id" "Tersoff_LAMMPS__MD_077075034781_001"
+    "event-type" "revised-version-creation"
+    "user-id" "e09f947f-5c51-4bda-a096-580e239f6064"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE" "b714427eb50a3c492581d877cf2ec67c8eafe088"
+      "Makefile" "861906fbf805066e68cbda7d22b987012e33bce1"
+      "README" "8133a6d3a20576e1300ba201194d97b2596d08ff"
+      "TODO" "4b51c786b6c4879a0144dacc4d1c74694f8bc60d"
+      "Tersoff_LAMMPS.kim.tpl" "80dcd859383721576a2f4d0c61f4835a7b96b6e2"
+      "Tersoff_LAMMPS__MD_077075034781.cpp" "600c7480c15d3ce5868f2579053abba2be92c6c7"
+      "kimspec.edn" "6c782c8a0d7745dc53ab529e041aead51ca7da2c"
+      "ndarray.hpp" "dc06edbc9b2df53d23158f0c7b8decd2149b0ef6"
+      "pair_tersoff.cpp" "ca928a84958a18004fc3a0f883d03deabbe884e4"
+      "pair_tersoff.hpp" "4ed7ed63a664697e66182491a9c7bb7b80eeecea"
+    }
+  }
+
+  {
+    "extended-id" "Tersoff_LAMMPS__MD_077075034781_000"
+    "event-type" "initial-creation"
+    "user-id" "e09f947f-5c51-4bda-a096-580e239f6064"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE" "b714427eb50a3c492581d877cf2ec67c8eafe088"
+      "Makefile" "06b4135536fcc26fb3a80d29cf4bce7306a16614"
+      "README" "8133a6d3a20576e1300ba201194d97b2596d08ff"
+      "TODO" "4b51c786b6c4879a0144dacc4d1c74694f8bc60d"
+      "Tersoff_LAMMPS__MD_077075034781.cpp" "3980f7d3e15a152516cb833a8cce479838035f5c"
+      "Tersoff_LAMMPS__MD_077075034781_000.kim" "480347a170df8b7487bd6fc2fa2fc0577e0d5e8d"
+      "kimspec.edn" "9686bbb7d84a1e04a2106d886b9ec724a6f9eeb6"
+      "ndarray.hpp" "dc06edbc9b2df53d23158f0c7b8decd2149b0ef6"
+      "pair_tersoff.cpp" "ca928a84958a18004fc3a0f883d03deabbe884e4"
+      "pair_tersoff.hpp" "65acf1a5e0f6fe340c688371aad0b4a75f1bad24"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{"description" "Finnis-Sinclair (EAM) type potential published in \"Simple N-body potentials for the noble metals and nickel\" G.J.Ackland, G.I.Tichy, V.Vitek, and M.W.Finnis, Phil.Mag.A, 56, 735. (1987) and fitted alloy from  \"Many-body potentials and atomic scale relaxations in noble metal alloys\" G.J.Ackland, and V.Vitek, Phys.Rev.B, 41, 10324. (1990).  good description of  fcc silver, plastic behaviour, phonons, AgAu and AgCU phase diagram etc.  No known problems."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_Tichy_Ag__MO_212700056563_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" ""
+ "species" ["Ag"]
+ "title" "Silver interatomic potential"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

@@ -1,0 +1,13 @@
+{"description" "This is a Ne Morse Model Parameterization by Glyde."
+ "disclaimer" "None"
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Pair_Morse_Shifted_Glyde_Ne__MO_169434419764_001"
+ "model-driver" "Pair_Morse_Shifted__MD_552566534109_001"
+ "source-citations" "H. R. Glyde, J. Phys. C: Solid State Phys.. Vol 3. 1970, pp810--819"
+ "species" ["Ne"]
+ "title" "This is a Ne Morse Model Parameterization by Glyde."
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2014"}

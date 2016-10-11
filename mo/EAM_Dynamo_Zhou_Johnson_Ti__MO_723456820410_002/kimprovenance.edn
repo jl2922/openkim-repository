@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ti__MO_723456820410_002"
+    "event-type" "metadata-update"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2938935d565038bc2a9722a583a049ad9846bf8c"
+      "Ti.set" "5d3e15d1ad64f1d9b52fa7856431eda9574aaf87"
+      "kimspec.edn" "13b97432263e531adf9aeb380630e9e483689337"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ti__MO_723456820410_002"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-07-19 21:54:31"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2938935d565038bc2a9722a583a049ad9846bf8c"
+      "Ti.set" "5d3e15d1ad64f1d9b52fa7856431eda9574aaf87"
+      "kimspec.edn" "b1edc9df3c1c7ad0874af73f9007c6c76629d1ab"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ti__MO_723456820410_001"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "e3605458a3f75f37f883ce4f8e73e18d68c4c909"
+      "Ti.set" "5d3e15d1ad64f1d9b52fa7856431eda9574aaf87"
+      "kimspec.edn" "baf02622dd2dec5636cb32eaae927eb01a5178be"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Ti__MO_723456820410_000"
+    "event-type" "initial-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "826a15f14d409044d58be175967c6a6ea0b2ec3e"
+      "Ti.set" "5d3e15d1ad64f1d9b52fa7856431eda9574aaf87"
+      "kimspec.edn" "7b11e492bf7b3c9ca6378e39678000f5508fa251"
+    }
+  }
+]

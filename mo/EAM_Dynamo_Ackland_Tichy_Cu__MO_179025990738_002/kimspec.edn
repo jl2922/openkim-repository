@@ -1,0 +1,13 @@
+{"description" "Finnis Sinclair potential for Cu, very widely used, fitted to elastic constants, cohesive energy , lattice parameter, vacancy formation.  Give nice plasticity with split partial dislocations. \n\"Simple N-body potentials for the noble metals and nickel\" G.J.Ackland, G.I.Tichy, V.Vitek, and M.W.Finnis, Phil.Mag.A, 56, 735. (1987) \n\nAlloys with Ag and Au here\n\"Many-body potentials and atomic scale relaxations in noble metal alloys\" G.J.Ackland, and V.Vitek, Phys.Rev.B, 41, 10324. (1990)\n  Excellent description of alloys with iron\n\"Computer simulation of Point Defect Properties in dilute Fe-Cu alloy using a many-body interatomic potential\" G.J.Ackland, D.J.Bacon, A.F.Calder and T.Harry Phil.Mag.A, 75 713-732 (1997) \nFor initial impact in cascade simulations, a harder core pair potential  in Biersack-Zigler form is added.\nDoes not give the 9R structure for Cu precipitates in Fe, rather almost randomly stacked close packed planes.  However, this is completely consistent with the experimental data, which does not prove 9R.\n\" Phase Transitions of Copper Precipitates in Fe-Cu Alloys\" J.J.Blackstock and G.J.Ackland, Phil.Mag.A, 81, 2127-48 (2001)"
+ "disclaimer" "For initial impact in cascade simulations, a harder core pair potential  in Biersack-Zigler form is added."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Ackland_Tichy_Cu__MO_179025990738_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Simple N-body potentials for the noble metals and nickel\" G.J.Ackland, G.I.Tichy, V.Vitek, and M.W.Finnis, Phil.Mag.A, 56, 735. (1987) \n\" Phase Transitions of Copper Precipitates in Fe-Cu Alloys\" J.J.Blackstock and G.J.Ackland, Phil.Mag.A, 81, 2127-48 (2001)"
+ "species" ["Cu"]
+ "title" "Finnis Sinclair potential for Cu"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

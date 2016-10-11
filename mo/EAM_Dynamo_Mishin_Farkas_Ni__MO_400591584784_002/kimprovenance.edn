@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Farkas_Ni__MO_400591584784_002"
+    "event-type" "metadata-update"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2a1e6fe35987dc17bcefd876978ed9f79517fb72"
+      "Ni99.eam.alloy" "71da63ab954cae99851ea8b9507d6840bbd03bd1"
+      "kimspec.edn" "ea33983d05cb59ba135afc504a5f5fb157944b16"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Farkas_Ni__MO_400591584784_002"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2016-07-19 21:54:50"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2a1e6fe35987dc17bcefd876978ed9f79517fb72"
+      "Ni99.eam.alloy" "71da63ab954cae99851ea8b9507d6840bbd03bd1"
+      "kimspec.edn" "e78b1ceed3be33cc99bc3d8d93663368ccd677ac"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Farkas_Ni__MO_400591584784_001"
+    "event-type" "revised-version-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "0ac842e1ba26b8641a2f8c99063308ad92b43f52"
+      "Ni99.eam.alloy" "71da63ab954cae99851ea8b9507d6840bbd03bd1"
+      "kimspec.edn" "49dd79a76708f6a172b6995eb93bf8d2eb1e003c"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mishin_Farkas_Ni__MO_400591584784_000"
+    "event-type" "initial-creation"
+    "user-id" "201572cf-870c-477f-b34f-3a6481002dee"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "de55cbae1a72b2d9212b08c97d42d69c197a0c9a"
+      "Ni99.eam.alloy" "71da63ab954cae99851ea8b9507d6840bbd03bd1"
+      "kimspec.edn" "9469ea1c8344c9d13dc059f041faf4a242c7b0eb"
+    }
+  }
+]

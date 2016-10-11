@@ -1,0 +1,11 @@
+{"description" "This Model Driver implements the Morse pair potential.  It takes four parameters: (1) the cutoff separation in angstroms, (2) the epsilon parameter in eV, (3) the C parameter in inverse angstroms, and (4) the equilibrium pair separation \"Rzero\" in angstroms.  The potential is shifted in energy so that it takes a value of zero eV at the cutoff separation."
+ "disclaimer" "none"
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Pair_Morse_Shifted__MD_552566534109_001"
+ "source-citations" "Jones, J. E. (1924), \"On the Determination of Molecular Fields. II. From the Equation of State of a Gas\", Proc. R. Soc. Lond. A 106 (738): 463-477"
+ "title" "This is a Model Driver for the Morse pair potential shifted to zero energy at cutoff separation."
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2014"}

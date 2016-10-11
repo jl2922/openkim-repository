@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Wu_Trinkle_CuAg__MO_270337113239_002"
+    "event-type" "metadata-update"
+    "user-id" "8a50bfd1-bb09-4cb8-aaee-745d92e37eda"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "32c3a12d67370a33f82c335400201575872bb492"
+      "cu_ag_ymwu.eam.alloy" "1d4600fbe8e72361e87724f53b7cca7174fee782"
+      "kimspec.edn" "3bc82ad5b83ab0502353fdccd51e0ee271873e91"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Wu_Trinkle_CuAg__MO_270337113239_002"
+    "event-type" "revised-version-creation"
+    "user-id" "8a50bfd1-bb09-4cb8-aaee-745d92e37eda"
+    "timestamp" "2016-07-19 21:58:27"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "32c3a12d67370a33f82c335400201575872bb492"
+      "cu_ag_ymwu.eam.alloy" "1d4600fbe8e72361e87724f53b7cca7174fee782"
+      "kimspec.edn" "c8f025417a1641936e22dcea5a245ea24b394eed"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Wu_Trinkle_CuAg__MO_270337113239_001"
+    "event-type" "revised-version-creation"
+    "user-id" "8a50bfd1-bb09-4cb8-aaee-745d92e37eda"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "0bd1822c453722449dfccd9f2e1e2d55858d8dbe"
+      "cu_ag_ymwu.eam.alloy" "1d4600fbe8e72361e87724f53b7cca7174fee782"
+      "kimspec.edn" "043bb54441e357c4ff147aa1061da52df94dad42"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Wu_Trinkle_CuAg__MO_270337113239_000"
+    "event-type" "initial-creation"
+    "user-id" "8a50bfd1-bb09-4cb8-aaee-745d92e37eda"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "01f6bc5113efa5d100445141155f0e7bb80d1847"
+      "cu_ag_ymwu.eam.alloy" "1d4600fbe8e72361e87724f53b7cca7174fee782"
+      "kimspec.edn" "46dd91239eb2e26e8e36d5db69a99ca6db765d77"
+    }
+  }
+]

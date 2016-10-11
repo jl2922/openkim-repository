@@ -1,0 +1,13 @@
+{"description" "This is the Zhang et al. (2014) Stillinger-Weber potential optimized to reproduce properties of silicene (single-layer Si sheet) based on the KIM Model Driver Three_Body_Stillinger_Weber.  The authors provide two sets of parameters.  This parameterization corresponds to the parameter set referred to as \"Optimized SW1\" in Zhang et al. (2014). This version update is to make this model compatible with the model driver update to support multiple species. The functional form of the SW potential is written and there is a redifinition of parameters (e.g. A := A*epsilon). Besides, costheta_0 is updated from -0.3333333 to -0.3333333333333333 to give a better approximation of -1/3."
+ "disclaimer" "This potential is designed to reproduce the properties of silicene (single-layer Si sheet) not bulk Si."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id"  "Three_Body_Stillinger_Weber_Zhang_Silicene_Model1_Si__MO_800412945727_002"
+ "model-driver" "Three_Body_Stillinger_Weber__MD_335816936951_002"
+ "source-citations" "1. F. H. Stillinger and T. A. Weber, \"Computer simulation of local order in condensed phases of silicon\", Phys. Rev. B, vol. 31, 5262-5271, 1985\n2. X. Zhang, H. Xie, M. Hu, H. Bao, S. Yue, G. Qin and G. Su, \"Thermal conductivity of silicene calculated using an optimized Stillinger-Weber potential\", Phys. Rev. B, vol 89, 054310, 2014."
+ "species" ["Si"]
+ "title" "A three-body Stillinger-Weber (SW) Model (Parameterization) for Silicon Optimized for Silicene"
+ "author" "Amit K Singh"
+ "contributer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "maintainer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "publication-year" "2016"}

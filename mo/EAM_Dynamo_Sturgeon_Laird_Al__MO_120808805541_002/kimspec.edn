@@ -1,0 +1,13 @@
+{"description" "This EAM model for Al is based on the model developed by Mei-Davenport, which we have optimized to give the correct experimental melting temperature"
+ "disclaimer" "This model was developed as a prototype case for the Gibbs-Duhem protocol for optimizing melting points. As such, the melting point was the primary metric for its development. We have shown that the modifications to the original Mei-Davenport potential that we used to optimize T_m did not change the quality of the potential with respect to elastic constants, density, etc., but no systematic study of other properties was performed."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Sturgeon_Laird_Al__MO_120808805541_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "J.B. Sturgeon and B.B. Laird, \"Adjusting the melting point of a model system via Gibbs-Duhem integration: Application to a model of aluminum,\" Phys. Rev. B 62, 14720-14727 (2000)."
+ "species" ["Al"]
+ "title" "Melting-point optimized EAM potential for Al"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2016"}

@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Pt__MO_102190350384_002"
+    "event-type" "metadata-update"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3c7c25033dbef413e84c6a245c13ded1007b8adc"
+      "Pt.set" "98b71d85f925775f1c7961faeaacd8523dce22fd"
+      "kimspec.edn" "3a73cf8d960f12a97e616b52acdab948805cf74f"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Pt__MO_102190350384_002"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-07-19 21:56:09"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3c7c25033dbef413e84c6a245c13ded1007b8adc"
+      "Pt.set" "98b71d85f925775f1c7961faeaacd8523dce22fd"
+      "kimspec.edn" "280430d4509f35644413eccaf52e908b06c0b0aa"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Pt__MO_102190350384_001"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "a5d44785ce0b143801cc2734b339ca4a81af53b3"
+      "Pt.set" "98b71d85f925775f1c7961faeaacd8523dce22fd"
+      "kimspec.edn" "cba9f51a254ba68729fc3ba427eb748a7425817c"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Pt__MO_102190350384_000"
+    "event-type" "initial-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "36cb0a2f92adce5cea8e33361fc40aa961cf1d9e"
+      "Pt.set" "98b71d85f925775f1c7961faeaacd8523dce22fd"
+      "kimspec.edn" "bf17a6a5256d4dd7c4ac9dc796f41876c279f446"
+    }
+  }
+]

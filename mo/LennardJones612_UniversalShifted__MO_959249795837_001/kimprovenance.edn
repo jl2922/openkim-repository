@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "LennardJones612_UniversalShifted__MO_959249795837_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "LennardJones612_UniversalShifted.params" "457b23abd65219b368c1a9b84a188a30869169f0"
+      "Makefile" "c18e815a6a8c12de7f73bfe0d38625504b2eecc1"
+      "README" "d8d59b8b43d1f7a54c629b4554d46b88567e2343"
+      "kimspec.edn" "455acbb7ff927eed03e3dc0f255c71977d5771bf"
+    }
+  }
+
+  {
+    "extended-id" "LennardJones612_UniversalShifted__MO_959249795837_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015-08-22 17:17:04"
+    "comments" "This version update is make the model use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "LennardJones612_UniversalShifted.params" "457b23abd65219b368c1a9b84a188a30869169f0"
+      "Makefile" "c18e815a6a8c12de7f73bfe0d38625504b2eecc1"
+      "README" "d8d59b8b43d1f7a54c629b4554d46b88567e2343"
+      "kimspec.edn" "047f02d0093557eb9840c5b7b002d9b4b56f97a5"
+    }
+  }
+
+  {
+    "extended-id" "LennardJones612_UniversalShifted__MO_959249795837_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015-08-04 17:17:04"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "LennardJones612_UniversalShifted.params" "457b23abd65219b368c1a9b84a188a30869169f0"
+      "Makefile" "f755ba8d08b325b318715a912c087cc7ebd129d7"
+      "README" "f201a564f92e5a266201acf054b78823f604b4c5"
+      "kimspec.edn" "4d3baa9c58b1c7dc8b62cb71b62d651cc42d13c3"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "extended-id" "Pair_Lennard_Jones_Shifted__MD_498634107543_001"
+    "event-type" "metadata-update"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3d6387df3b99704653bb3496019c7e18bf291b9b"
+      "Pair_Lennard_Jones_Shifted.F03" "f47d92277d791e1909c574b246e760475fabc397"
+      "Pair_Lennard_Jones_Shifted.kim.tpl" "43f6787a45e0f1a74c2c7ce37bf11ccb6d7fa529"
+      "README" "8f0941044aeeeff35141d78070fae3aad5a788ba"
+      "kimspec.edn" "0065246f27d708056a93f01a892d40d4af51dbe1"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Lennard_Jones_Shifted__MD_498634107543_001"
+    "event-type" "revised-version-creation"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3d6387df3b99704653bb3496019c7e18bf291b9b"
+      "Pair_Lennard_Jones_Shifted.F03" "f47d92277d791e1909c574b246e760475fabc397"
+      "Pair_Lennard_Jones_Shifted.kim.tpl" "43f6787a45e0f1a74c2c7ce37bf11ccb6d7fa529"
+      "README" "8f0941044aeeeff35141d78070fae3aad5a788ba"
+      "kimspec.edn" "ab48e56e8fb1d5e2a17d893f501e97289d7ba6b5"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Lennard_Jones_Shifted__MD_498634107543_000"
+    "event-type" "initial-creation"
+    "user-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f223e3294f10cf0bbdc3eab7d78459d5883322e9"
+      "Pair_Lennard_Jones_Shifted.F90" "dd3fea79e9650c7e72bf2405cc621fffee8d796e"
+      "Pair_Lennard_Jones_Shifted__MD_498634107543_000.kim" "2c4673db77a07a8de449f8a92b22095d17a3a310"
+      "README" "19f8405934ff08d96dce35906e0e16ea13c13572"
+      "kimspec.edn" "f3037ebe1b3a83383100e46fb1d6b832fd51008f"
+    }
+  }
+]

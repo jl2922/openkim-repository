@@ -1,0 +1,13 @@
+{"description" "EAM Al potential developed as part of the Ti-Al apply potential."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Zope_Mishin_Al__MO_664470114311_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "R.R. Zope and Y. Mishin, \"Interatomic potentials for atomistic simulations of the Ti-Al system,\" Phys. Rev. B 68, 024102 (2003)."
+ "species" ["Al"]
+ "title" "EAM Al potential"
+ "author" "Yuri Mishin"
+ "contributer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "maintainer-id" "201572cf-870c-477f-b34f-3a6481002dee"
+ "publication-year" "2016"}

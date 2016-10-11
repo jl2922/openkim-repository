@@ -1,0 +1,49 @@
+[
+  {
+    "extended-id" "Dipole_Umeno_YSZ__MO_394669891912_001"
+    "event-type" "metadata-update"
+    "user-id" "2f3b5993-e42e-4e2f-842a-7cab6a2c72cb"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Dipole_Umeno_YSZ.kim" "c76d9816bf8f9b4fdb8f0452fce37bd4ab6fd9c1"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3b13ed2e966f68f83a93c15acaa2923548151363"
+      "README" "180f9ed21710d09387a2e52469cdda7396997b2a"
+      "kimspec.edn" "9550ab9605a3e09aeb479c5f8a69c1985c1f6e80"
+      "model_YSZ_PF_Dipole.cpp" "487af567722a449b03184d40c0c2bc29c6123f65"
+    }
+  }
+
+  {
+    "extended-id" "Dipole_Umeno_YSZ__MO_394669891912_001"
+    "event-type" "revised-version-creation"
+    "user-id" "2f3b5993-e42e-4e2f-842a-7cab6a2c72cb"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "Dipole_Umeno_YSZ.kim" "c76d9816bf8f9b4fdb8f0452fce37bd4ab6fd9c1"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3b13ed2e966f68f83a93c15acaa2923548151363"
+      "README" "180f9ed21710d09387a2e52469cdda7396997b2a"
+      "kimspec.edn" "4d0c6ac217905806b5362eafd561fa1ce7235521"
+      "model_YSZ_PF_Dipole.cpp" "487af567722a449b03184d40c0c2bc29c6123f65"
+    }
+  }
+
+  {
+    "extended-id" "Dipole_Umeno_YSZ__MO_394669891912_000"
+    "event-type" "initial-creation"
+    "user-id" "2f3b5993-e42e-4e2f-842a-7cab6a2c72cb"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "Dipole_Umeno_YSZ__MO_394669891912_000.kim" "28d6f601baeda4866762244b5af8304417fa3d82"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "a65080e35b3728b417c2114509a032d9e0364cda"
+      "README" "d3a6625bc76eeabd985339fc3a5cf570cb16023e"
+      "kimspec.edn" "d0401313c7508b6e820a9bd64095ae100e0702f0"
+      "model_YSZ_PF_Dipole.cpp" "56a9a44768198642460f0ac0e9f158a986599315"
+    }
+  }
+]

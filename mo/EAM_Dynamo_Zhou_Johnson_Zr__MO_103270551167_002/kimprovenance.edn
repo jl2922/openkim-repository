@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Zr__MO_103270551167_002"
+    "event-type" "metadata-update"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d15d598062e6f1e5f335f4d08db0cc2fd6631a57"
+      "Zr.set" "3c461a75a1270ad3a475b8120251e473e408569f"
+      "kimspec.edn" "17ebb06ecb7ed31efa66e1cee86aedac563c6f1c"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Zr__MO_103270551167_002"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2016-07-19 21:57:58"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d15d598062e6f1e5f335f4d08db0cc2fd6631a57"
+      "Zr.set" "3c461a75a1270ad3a475b8120251e473e408569f"
+      "kimspec.edn" "83e4c380710e7cc1de7dada2ac3d3d7a59f5706f"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Zr__MO_103270551167_001"
+    "event-type" "revised-version-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "06c16b6adf62f1a0d9dedbd30166917db12c15d0"
+      "Zr.set" "3c461a75a1270ad3a475b8120251e473e408569f"
+      "kimspec.edn" "1432c3112000c5fbc7e8d8944f195c76d1abb64f"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Zhou_Johnson_Zr__MO_103270551167_000"
+    "event-type" "initial-creation"
+    "user-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "05c6dc5f1e5f8ded876160b4e70a55aa9866a47f"
+      "Zr.set" "3c461a75a1270ad3a475b8120251e473e408569f"
+      "kimspec.edn" "0aa1c779755b5c1e9e734c55d95e67cf09c55db5"
+    }
+  }
+]

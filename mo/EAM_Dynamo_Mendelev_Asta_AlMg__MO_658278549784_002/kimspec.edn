@@ -1,0 +1,13 @@
+{"description" "FS potential to simulate solid-liquid interface properties in Al-Mg alloys. The potential properties are given in details in the paper."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mendelev_Asta_AlMg__MO_658278549784_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "M.I. Mendelev, M. Asta, M.J. Rahman and J.J. Hoyt, Phil. Mag. 89, 3269-3285 (2009)."
+ "species" ["Al" "Mg"]
+ "title" "FS potential for Al-Mg"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}

@@ -1,0 +1,11 @@
+{"description" "This is a driver for the Lennard-Jones (LJ) 6-12 pair potential model, truncated to have zero energy above a specified cutoff radius. As a result the energy and its derivatives will be discontinuous at the cutoff radius.  The driver reads in the cutoff radius and the LJ parameters energy (in eV) and sigma (in Angstrom)."
+ "disclaimer" "The original Lennard-Jones (LJ) potential does not have a cutoff.  Introducing a cutoff and truncating the potential will change its predictions.  The LJ potential is appropriate for noble gas elements and other systems where van der Waals interactions are dominant."
+ "domain" "openkim.org"
+ "extended-id" "Pair_Lennard_Jones_Truncated__MD_132729421025_000"
+ "kim-api-version" "1.6"
+ "source-citations" "J. E. Jones, \"On the Determination of Molecular Fields. I. From the Variation of the Viscosity of a Gas with Temperature\", Proc. R. Soc. London, Ser. A, 106(738):441-462, 1924.\n\n J. E. Jones, \"On the Determination of Molecular Fields. II. From the Equation of State of a Gas\", Proc. R. Soc. London, Ser. A, 106(738):463-477, 1924.\n\nJ. E. Lennard-Jones, \"On the Forces between Atoms and Ions\", Proc. R. Soc. London, Ser. A, 109(752):584-597, 1925."
+ "title" "Driver for the Lennard-Jones model truncated to have zero energy above the cutoff radius"
+ "author" "Ellad Tadmor"
+ "contributer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+ "maintainer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+ "publication-year" "2014"}

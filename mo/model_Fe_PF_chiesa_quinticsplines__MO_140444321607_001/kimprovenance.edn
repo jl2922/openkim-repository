@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "model_Fe_PF_chiesa_quinticsplines__MO_140444321607_001"
+    "event-type" "metadata-update"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "187e6228250a1b7c885d526bd02760bf174cdc33"
+      "README" "986e5d4fd48026bd68a827bde789d3aacfdc9b4a"
+      "kimspec.edn" "39ba2c383e79150ae7151a62cf19e19cb811b5e0"
+      "model_Fe_PF_chiesa_quinticsplines.params" "09c8b72f1e6a45083df0f07bf4df8e81e66274e3"
+    }
+  }
+
+  {
+    "extended-id" "model_Fe_PF_chiesa_quinticsplines__MO_140444321607_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "187e6228250a1b7c885d526bd02760bf174cdc33"
+      "README" "986e5d4fd48026bd68a827bde789d3aacfdc9b4a"
+      "kimspec.edn" "629f8de4a52a8c71c722cb3bd5a7b74b74ff3104"
+      "model_Fe_PF_chiesa_quinticsplines.params" "09c8b72f1e6a45083df0f07bf4df8e81e66274e3"
+    }
+  }
+
+  {
+    "extended-id" "model_Fe_PF_chiesa_quinticsplines__MO_140444321607_000"
+    "event-type" "initial-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "177ac7f453abb533d1611f4238923e1878665723"
+      "README" "986e5d4fd48026bd68a827bde789d3aacfdc9b4a"
+      "kimspec.edn" "c1414b3eec79ad5d71a5e3d32bba5bbf776ee70d"
+      "model_Fe_PF_chiesa_quinticsplines.params" "09c8b72f1e6a45083df0f07bf4df8e81e66274e3"
+    }
+  }
+]

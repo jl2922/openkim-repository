@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "LennardJones612__MD_414112407348_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "CreateDispatch.sh" "eca128bf599a25e418be087020145f1d09dc2529"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "LennardJones612.cpp" "8e6dc57d7b3a9db243ae4e06cff51e9c2a1216ff"
+      "LennardJones612.hpp" "b4f2ebcf8f73399eccb8106adbcfde694acc9386"
+      "LennardJones612.kim.tpl" "846731a60f9c7659c680cb12745e2116527ab323"
+      "LennardJones612Implementation.cpp" "297a7cadad1258364602422d880a507fddc81c4f"
+      "LennardJones612Implementation.hpp" "d8fe3506825f88ad728dc352ada179925ca70cea"
+      "Makefile" "682fe1db38a154ad3441634f38c4645c24834290"
+      "README" "47b1ca0b8a2b2d7cb917c563a7b4897569de791a"
+      "kimspec.edn" "aca31af6c5d110d9757505d885c376dcc2fe2149"
+    }
+  }
+
+  {
+    "extended-id" "LennardJones612__MD_414112407348_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015-08-22 17:17:06"
+    "comments" "Version 001 fixes a bug where the global cutoff value could, in some cases, be set to a value that is smaller than the cutoff for some individual LJ interactions."
+    "checksums" {
+      "CreateDispatch.sh" "eca128bf599a25e418be087020145f1d09dc2529"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "LennardJones612.cpp" "8e6dc57d7b3a9db243ae4e06cff51e9c2a1216ff"
+      "LennardJones612.hpp" "b4f2ebcf8f73399eccb8106adbcfde694acc9386"
+      "LennardJones612.kim.tpl" "846731a60f9c7659c680cb12745e2116527ab323"
+      "LennardJones612Implementation.cpp" "297a7cadad1258364602422d880a507fddc81c4f"
+      "LennardJones612Implementation.hpp" "d8fe3506825f88ad728dc352ada179925ca70cea"
+      "Makefile" "682fe1db38a154ad3441634f38c4645c24834290"
+      "README" "47b1ca0b8a2b2d7cb917c563a7b4897569de791a"
+      "kimspec.edn" "291e9e1a4740afdb6492fe4db9998ba32849f87f"
+    }
+  }
+
+  {
+    "extended-id" "LennardJones612__MD_414112407348_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015-08-04 17:17:02"
+    "comments" ""
+    "checksums" {
+      "CreateDispatch.sh" "eca128bf599a25e418be087020145f1d09dc2529"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "LennardJones612.cpp" "8e6dc57d7b3a9db243ae4e06cff51e9c2a1216ff"
+      "LennardJones612.hpp" "b4f2ebcf8f73399eccb8106adbcfde694acc9386"
+      "LennardJones612.kim.tpl" "846731a60f9c7659c680cb12745e2116527ab323"
+      "LennardJones612Implementation.cpp" "3835a8c92a8123e83e9f422737d1a59e1dedfe64"
+      "LennardJones612Implementation.hpp" "d8fe3506825f88ad728dc352ada179925ca70cea"
+      "Makefile" "2dd7b84450e61d3d91a24315e753ffb6210e09b1"
+      "README" "38d67159ab4d64fecf7541f57fcbc553bf14f039"
+      "kimspec.edn" "bb8701b1ea23cf3cdeeb589c43b75a07d4ee1a64"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{"description" "Model driver that supports parametrizations of the Tersoff-style  three-body potential. It is ported from LAMMPS and supports the same format for parameter files. The commonly used variants by Tersoff and Nord/Albe/Erhart/Nordlund are supported, see source citations for details."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Tersoff_LAMMPS__MD_077075034781_001"
+ "source-citations" "J. Tersoff, Phys Rev B, 37, 6991 (1988)\n\nJ. Nord, K. Albe, P. Erhart, and K. Nordlund, J. Phys.: Condens. Matter, 15, 5649(2003)."
+ "title" "Model driver for Tersoff-style potentials ported from LAMMPS."
+ "author" "Tobias Brink"
+ "contributer-id" "e09f947f-5c51-4bda-a096-580e239f6064"
+ "maintainer-id" "e09f947f-5c51-4bda-a096-580e239f6064"
+ "publication-year" "2014"}

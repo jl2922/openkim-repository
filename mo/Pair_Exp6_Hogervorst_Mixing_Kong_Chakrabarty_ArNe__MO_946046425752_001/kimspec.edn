@@ -1,0 +1,12 @@
+{"description" "The exp-6 pair potential has an exponential repulsive term and 1/6 power attractive term. Parameters due to W. Hogervorst for pure Ar and Ne are used. A mixing rule suggested by C. L. Kong and M. R. Chakrabarty is used to compute parameters for cross-interactions between Ar and Ne."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "Pair_Exp6_Hogervorst_Mixing_Kong_Chakrabarty_ArNe__MO_946046425752_001"
+ "source-citations" "W. Hogervorst, \"Transport and Equilibrium Properties of Simple Gases and Forces between Like and Unlike Atoms\", Physica, 51:77-89 (1971).\n\nC. L. Kong and M. R. Chakrabarty, \"Combining Rules for Intermolecular Potential Parameters: III Application to the Exp 6 Potential\", J. Phys. Chem, 77:2668-2670, (1973)."
+ "species" ["Ar" "Ne"]
+ "title" "Exp-6 pair potential for Ar-Ne with parameters due to Hogervorst and mixing rule due to Kong and Chakrabarty"
+ "author" "Ellad Tadmor"
+ "contributer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+ "maintainer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8"
+ "publication-year" "2014"}

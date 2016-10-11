@@ -1,0 +1,12 @@
+{"description" "This is an analytical NN EAM model for Cu by Johnson."
+ "disclaimer" "None"
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Johnson_NearestNeighbor_Cu__MO_887933271505_001"
+ "source-citations" "R. A. Johnson, \"Analytic nearest-neighbor model for fcc metals\", Phys. Rev. B, 37(8), 3924--3931"
+ "species" ["Cu"]
+ "title" "This is an analytical NN EAM model for Cu by Johnson."
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2014"}

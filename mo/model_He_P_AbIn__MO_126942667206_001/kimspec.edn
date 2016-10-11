@@ -1,0 +1,12 @@
+{"description" "Ab initio interaction potential for He+He, both in their ground electronic state."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "model_He_P_AbIn__MO_126942667206_001"
+ "source-citations" "Potential extracted from \nHellmann, R., Bich, E., & Vogel, E. 2007, Mol. Phys., 105, 3013."
+ "species" ["He"]
+ "title" "Ab Initio Ground State He+He Interaction Potential"
+ "author" "Nicholas R Lewkow"
+ "contributer-id" "71d034f9-750e-4d27-ae69-32bfdb8bed58"
+ "maintainer-id" "71d034f9-750e-4d27-ae69-32bfdb8bed58"
+ "publication-year" "2014"}

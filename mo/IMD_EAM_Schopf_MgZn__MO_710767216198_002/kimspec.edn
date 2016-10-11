@@ -1,0 +1,13 @@
+{"description" "MgZn EAM potential for the IMD_EAM model driver, fitted for the vibrational properties of the MgZn2 Laves phase."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "IMD_EAM_Schopf_MgZn__MO_710767216198_002"
+ "model-driver" "IMD_EAM__MD_113599595631_002"
+ "source-citations" "P. Brommer, M. de Boissieu, H. Euchner, S. Francoual, F. Gähler, M. Johnson, K. Parlinski, and K. Schmalzl, Vibrational properties of MgZn2, Z. Kristallogr. 224(1–2), pp. 97–100 (2009)"
+ "species" ["Mg" "Zn"]
+ "title" "MgZn potential for the IMD_EAM model driver."
+ "author" "Daniel Schopf"
+ "contributer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "maintainer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "publication-year" "2016"}

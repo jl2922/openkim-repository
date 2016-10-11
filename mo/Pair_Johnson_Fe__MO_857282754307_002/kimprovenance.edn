@@ -1,0 +1,65 @@
+[
+  {
+    "extended-id" "Pair_Johnson_Fe__MO_857282754307_002"
+    "event-type" "metadata-update"
+    "user-id" "ac9a600a-f97e-4e71-83cd-d25d7e2bab9c"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.MPL" "cf9a344d234ef7c061302957103d6b256bea132f"
+      "Makefile" "39dc7d146e89875f1acf30a3ba5992d9e88db605"
+      "Pair_Johnson_Fe.F03" "84162e9182a73bfd78cbdd8cd8fb6cc040919691"
+      "Pair_Johnson_Fe.kim" "3e558bf741de8d534686cd09f6a83afe6a3e1efa"
+      "README" "8aa9fbbc1d920daeb6e03646cfa7cae7854e17a4"
+      "kimspec.edn" "ec5f90f25d621f50c91eb59d5e969583b5c7103d"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Johnson_Fe__MO_857282754307_002"
+    "event-type" "revised-version-creation"
+    "user-id" "ac9a600a-f97e-4e71-83cd-d25d7e2bab9c"
+    "timestamp" "2016-07-19 21:58:25"
+    "comments" "Corrected errors in calc_phi_dphi subroutine to compute dphi."
+    "checksums" {
+      "LICENSE.MPL" "cf9a344d234ef7c061302957103d6b256bea132f"
+      "Makefile" "39dc7d146e89875f1acf30a3ba5992d9e88db605"
+      "Pair_Johnson_Fe.F03" "84162e9182a73bfd78cbdd8cd8fb6cc040919691"
+      "Pair_Johnson_Fe.kim" "3e558bf741de8d534686cd09f6a83afe6a3e1efa"
+      "README" "8aa9fbbc1d920daeb6e03646cfa7cae7854e17a4"
+      "kimspec.edn" "77422749cba0107b17c9322d35dda52820f41dbf"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Johnson_Fe__MO_857282754307_001"
+    "event-type" "revised-version-creation"
+    "user-id" "ac9a600a-f97e-4e71-83cd-d25d7e2bab9c"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.MPL" "cf9a344d234ef7c061302957103d6b256bea132f"
+      "Makefile" "26630183efe9b44c28f23f8be1d33ea2e1c26ccd"
+      "Pair_Johnson_Fe.F03" "5137bafa1fcfa38dfd6ddcaaa2a9cddc5578af6e"
+      "Pair_Johnson_Fe.kim" "3e558bf741de8d534686cd09f6a83afe6a3e1efa"
+      "README" "3124465d5f34f3709fd8a0262eb1d4c1fc14de24"
+      "kimspec.edn" "aa55e17645e724c9cd18d6b9df7163f1b2649e71"
+    }
+  }
+
+  {
+    "extended-id" "Pair_Johnson_Fe__MO_857282754307_000"
+    "event-type" "initial-creation"
+    "user-id" "ac9a600a-f97e-4e71-83cd-d25d7e2bab9c"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.MPL" "cf9a344d234ef7c061302957103d6b256bea132f"
+      "Makefile" "1a95392ae528c7148ede26340fdf67652d91bbbe"
+      "Pair_Johnson_Fe.F90" "426a25284bc997291e5d8ed5c0875e2c858a9522"
+      "Pair_Johnson_Fe__MO_857282754307_000.kim" "15f9692b2b493c664c32034c6fba4f99d883beaf"
+      "README" "46f699050239221d775f09abb951530252c635e2"
+      "kimspec.edn" "fa92caf82ee5ec8c6f60a9f2c3fe263290ca1449"
+    }
+  }
+]

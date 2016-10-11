@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Balamane_Si__MO_113686039439_002"
+    "event-type" "metadata-update"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f0e6baf77b652e45ec4ba7d086bc68cc07faa1de"
+      "README" "57cb3b897cf00c5eab30adbff108786bbee483d8"
+      "Three_Body_Stillinger_Weber_Balamane_Si.params" "dd2c91942a9d96b8ca3dd47298c73edf27e448be"
+      "kimspec.edn" "c4e3b7e85bc8f5852ca7b6c411a2480b08fc7260"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Balamane_Si__MO_113686039439_002"
+    "event-type" "revised-version-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-04-22 15:53:23"
+    "comments" "This version update is to make this model compatible with the model driver update to support multiple species."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f0e6baf77b652e45ec4ba7d086bc68cc07faa1de"
+      "README" "57cb3b897cf00c5eab30adbff108786bbee483d8"
+      "Three_Body_Stillinger_Weber_Balamane_Si.params" "dd2c91942a9d96b8ca3dd47298c73edf27e448be"
+      "kimspec.edn" "4d3dbe6f918267845420a20c8d02ab0f29d5ad7f"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Balamane_Si__MO_113686039439_001"
+    "event-type" "revised-version-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7652d41e3b60ddaacb157f29fa4d47d93bee0424"
+      "README" "d58e752dcc5dfab69a81958a53e75ecb58435f1b"
+      "Three_Body_Stillinger_Weber_Balamane_Si.params" "43638bc6adbec8c8ca31e0e74355ef0d3ec451ef"
+      "kimspec.edn" "d74d8d73b708e52d7a0992f85ab0367efdfcbdc4"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Balamane_Si__MO_113686039439_000"
+    "event-type" "initial-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "f170707db393ccc25097680da944162fb9bb7397"
+      "README" "c6f5eb44fd15e73e742ddc698409f126e9272de8"
+      "Three_Body_Stillinger_Weber_Balamane_Si.params" "43638bc6adbec8c8ca31e0e74355ef0d3ec451ef"
+      "kimspec.edn" "09603498b1682919b672b95306bfe39acd02ec1f"
+    }
+  }
+]

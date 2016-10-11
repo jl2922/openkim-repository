@@ -1,0 +1,69 @@
+[
+  {
+    "extended-id" "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552_002"
+    "event-type" "metadata-update"
+    "user-id" "cd17c370-4feb-4b65-8830-079f1ed1c17f"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552.params" "4c4958408ae955f6d66787085dabe1a70ccb9555"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4f8c1692e996746296dc637335d6d534ac4c92b6"
+      "README" "d70fde46a33483cef703a1681a8254aa31c41dc5"
+      "Species.mk" "a8abfaf0d2691baadded376a5dcc42a48ad700f7"
+      "kimspec.edn" "0f78577f5b816c3f11711d81c63738e314152c71"
+    }
+  }
+
+  {
+    "extended-id" "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552_002"
+    "event-type" "revised-version-creation"
+    "user-id" "cd17c370-4feb-4b65-8830-079f1ed1c17f"
+    "timestamp" "2015-04-20 12:19:42"
+    "comments" "* Bug fix: version 001 would crash with most tests/simulators due to an internal
+  consistency test failing.\n\n\n\n* Bug fix: version 001 reported a slightly too short cutoff, leading to small
+  inaccuracies (probably only for Au).\n\n\n\n* Bug fix: Memory leaks removed.\n\n\n\n* Enhancement: version 002 now supports ghost atoms (parallel simulations, many
+  other tests).\n\n\n\n* Enhancement: version 002 now supports all neighbor list types, although the 
+  half lists give the best performance."
+    "checksums" {
+      "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552.params" "4c4958408ae955f6d66787085dabe1a70ccb9555"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4f8c1692e996746296dc637335d6d534ac4c92b6"
+      "README" "d70fde46a33483cef703a1681a8254aa31c41dc5"
+      "Species.mk" "a8abfaf0d2691baadded376a5dcc42a48ad700f7"
+      "kimspec.edn" "95934c3b3a6ae983343b66f13dcd99fb902aa44e"
+    }
+  }
+
+  {
+    "extended-id" "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552_001"
+    "event-type" "revised-version-creation"
+    "user-id" "cd17c370-4feb-4b65-8830-079f1ed1c17f"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552.params" "4c4958408ae955f6d66787085dabe1a70ccb9555"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7199c958a28972a43741ac062e02c509a365dacc"
+      "README" "93c8c60e99f7b3b8d1b4935c004c01807cbf73b7"
+      "Species.mk" "a8abfaf0d2691baadded376a5dcc42a48ad700f7"
+      "kimspec.edn" "e19d6da69f5abf62b00d30740c40e89b66e19335"
+    }
+  }
+
+  {
+    "extended-id" "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552_000"
+    "event-type" "initial-creation"
+    "user-id" "cd17c370-4feb-4b65-8830-079f1ed1c17f"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "EMT_Asap_MetalGlass_CuMgZr__MO_655725647552_000.params" "4c4958408ae955f6d66787085dabe1a70ccb9555"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ebf8750bf5762d1f00b60b002e8069edf61a2340"
+      "README" "93c8c60e99f7b3b8d1b4935c004c01807cbf73b7"
+      "Species.mk" "a8abfaf0d2691baadded376a5dcc42a48ad700f7"
+      "kimspec.edn" "b6187ab5fc01e41e9164f450abf5454e3346204a"
+    }
+  }
+]

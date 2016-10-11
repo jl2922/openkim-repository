@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Ackland_W__MO_141627196590_002"
+    "event-type" "metadata-update"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c5fcfb4a09b95d6bccb9a945cbd1128e56f69bbc"
+      "W.eam.fs" "d9670dc26e015141f927192344eea3c3528c3805"
+      "kimspec.edn" "0dd9e66616440d4431835cacad67342a32ad26d6"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_W__MO_141627196590_002"
+    "event-type" "revised-version-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2016-07-19 21:57:04"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c5fcfb4a09b95d6bccb9a945cbd1128e56f69bbc"
+      "W.eam.fs" "d9670dc26e015141f927192344eea3c3528c3805"
+      "kimspec.edn" "4cae30961db85b26e608b8b32c250019d941867f"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_W__MO_141627196590_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4a4a1828f21ec919600f1e3b1e7420a1b25737b1"
+      "W.eam.fs" "d9670dc26e015141f927192344eea3c3528c3805"
+      "kimspec.edn" "fdb481b256982f01f0d0254b791af336e9062025"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_W__MO_141627196590_000"
+    "event-type" "initial-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d53be75a0aa4399ca5a186864182543fd99d617c"
+      "W.eam.fs" "d9670dc26e015141f927192344eea3c3528c3805"
+      "kimspec.edn" "160ff62f57b36ebe64ea13a08a4c0e57c4574330"
+    }
+  }
+]

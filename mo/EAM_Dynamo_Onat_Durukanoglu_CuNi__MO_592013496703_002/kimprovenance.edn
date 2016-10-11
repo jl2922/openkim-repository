@@ -1,0 +1,58 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Onat_Durukanoglu_CuNi__MO_592013496703_002"
+    "event-type" "metadata-update"
+    "user-id" "11006a81-8f2a-4c23-90c8-5df061ed7b6c"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "CuNi_v2.eam.alloy" "51a1ef4d306df1fd8e450f4c249a4d1fa52e6f87"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8dc3247260974da3d3c2051ceedb5569950cf916"
+      "kimspec.edn" "f631463d211acfd0f9edd747d669fe760ba7f590"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Onat_Durukanoglu_CuNi__MO_592013496703_002"
+    "event-type" "revised-version-creation"
+    "user-id" "11006a81-8f2a-4c23-90c8-5df061ed7b6c"
+    "timestamp" "2016-07-19 21:54:42"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "CuNi_v2.eam.alloy" "51a1ef4d306df1fd8e450f4c249a4d1fa52e6f87"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8dc3247260974da3d3c2051ceedb5569950cf916"
+      "kimspec.edn" "50e114b2e3fbd504f8438bd80859abe680ec368d"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Onat_Durukanoglu_CuNi__MO_592013496703_001"
+    "event-type" "revised-version-creation"
+    "user-id" "11006a81-8f2a-4c23-90c8-5df061ed7b6c"
+    "timestamp" "2014-11-05 10:14:00"
+    "comments" "The potential was retabulated using more spline points to provide 
+smoother cutoff and better accuracy for simulations."
+    "checksums" {
+      "CuNi_v2.eam.alloy" "51a1ef4d306df1fd8e450f4c249a4d1fa52e6f87"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7669ac1fd8b1c6692d6c199d48e23d79d0b0c124"
+      "kimspec.edn" "11b769f9f730549b65cc1f8a871906f56bf595a2"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Onat_Durukanoglu_CuNi__MO_592013496703_000"
+    "event-type" "initial-creation"
+    "user-id" "11006a81-8f2a-4c23-90c8-5df061ed7b6c"
+    "timestamp" "2014-10-26 10:53:41"
+    "comments" ""
+    "checksums" {
+      "CuNi.eam.alloy" "159b2d5514c44a8042851416b20653d3166b7958"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "2ac007ecccc4df2ca20af52ef4117bec28c9f259"
+      "kimspec.edn" "1a430be16a815e66715e7bb67c381e9cf4fc8179"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "extended-id" "MEAM_2NN__MD_111291751625_001"
+    "event-type" "metadata-update"
+    "user-id" "c8ad0beb-f4c8-4ddc-8a25-372f5cc4a17e"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "MEAM_2NN.F03" "9ffe17282a17d46354a995a2aeef63f2182e8fdc"
+      "MEAM_2NN.kim.tpl" "ce6f0bd6447d354741e9bf417055fb955fe4edc5"
+      "Makefile" "ad4be0f95c865ccf4ed4a136578f5a480da5f698"
+      "README" "1fee56287ce641becd794a579a8a461a0e9e5acf"
+      "kimspec.edn" "50b6d6c892f5e62d712c3b04c53c216ad673cbec"
+      "meam.F" "d811d952540cca219bfebdf57c421448e8c89d4c"
+    }
+  }
+
+  {
+    "extended-id" "MEAM_2NN__MD_111291751625_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c8ad0beb-f4c8-4ddc-8a25-372f5cc4a17e"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "MEAM_2NN.F03" "9ffe17282a17d46354a995a2aeef63f2182e8fdc"
+      "MEAM_2NN.kim.tpl" "ce6f0bd6447d354741e9bf417055fb955fe4edc5"
+      "Makefile" "ad4be0f95c865ccf4ed4a136578f5a480da5f698"
+      "README" "1fee56287ce641becd794a579a8a461a0e9e5acf"
+      "kimspec.edn" "24fcf613296d0904bc18e76aa785f4bbff5a9eaf"
+      "meam.F" "d811d952540cca219bfebdf57c421448e8c89d4c"
+    }
+  }
+
+  {
+    "extended-id" "MEAM_2NN__MD_111291751625_000"
+    "event-type" "initial-creation"
+    "user-id" "c8ad0beb-f4c8-4ddc-8a25-372f5cc4a17e"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "MEAM_2NN.F90" "8103afc49a32d0ad4379bce89ca357394f992e18"
+      "MEAM_2NN__MD_111291751625_000.kim" "843388bb659595a2226a39dd3f254debfae370ef"
+      "Makefile" "1ece1a84c5ac18c6350944001c9370aabcb6ad7e"
+      "README" "905f548a05adbeee2ecff309e8c30ec5c750c9b3"
+      "kimspec.edn" "67c9304ef68069c20d8fd91c7d4c8989b6aa79f5"
+      "meam.F" "1807a71c870c66a0fff072ca1b5aeeda3f08204b"
+    }
+  }
+]

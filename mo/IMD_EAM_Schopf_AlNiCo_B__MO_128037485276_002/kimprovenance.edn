@@ -1,0 +1,69 @@
+[
+  {
+    "extended-id" "IMD_EAM_Schopf_AlNiCo_B__MO_128037485276_002"
+    "event-type" "metadata-update"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "956d84ab6febd125fa36e46d2089c7c2cf833581"
+      "README" "45a8e66fedce3e5e66c4f07ecf31e8a6a69ba2c3"
+      "alnico.gga_short.21714_new_F.imd.pt" "1b3f4d45252ee848ea2dd2fd7d53926d33d7f265"
+      "alnico.gga_short.21714_new_phi.imd.pt" "60475cce4882e274f36f7c1eb1b7c3b02d772235"
+      "alnico.gga_short.21714_new_rho.imd.pt" "48dd2602d3c49b40bed12ff9c5e327fd83e6bd95"
+      "kimspec.edn" "5c59302b1c43ef463e53ef95bb8cd38a99086a26"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM_Schopf_AlNiCo_B__MO_128037485276_002"
+    "event-type" "revised-version-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2016-07-19 21:54:56"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "956d84ab6febd125fa36e46d2089c7c2cf833581"
+      "README" "45a8e66fedce3e5e66c4f07ecf31e8a6a69ba2c3"
+      "alnico.gga_short.21714_new_F.imd.pt" "1b3f4d45252ee848ea2dd2fd7d53926d33d7f265"
+      "alnico.gga_short.21714_new_phi.imd.pt" "60475cce4882e274f36f7c1eb1b7c3b02d772235"
+      "alnico.gga_short.21714_new_rho.imd.pt" "48dd2602d3c49b40bed12ff9c5e327fd83e6bd95"
+      "kimspec.edn" "9a82f4b3804f1088536facf4bb1c2cc9e419d725"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM_Schopf_AlNiCo_B__MO_128037485276_001"
+    "event-type" "revised-version-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "50d5fd1a761bd3e19f069572ca115e531dee9b5f"
+      "README" "45a8e66fedce3e5e66c4f07ecf31e8a6a69ba2c3"
+      "alnico.gga_short.21714_new_F.imd.pt" "1b3f4d45252ee848ea2dd2fd7d53926d33d7f265"
+      "alnico.gga_short.21714_new_phi.imd.pt" "60475cce4882e274f36f7c1eb1b7c3b02d772235"
+      "alnico.gga_short.21714_new_rho.imd.pt" "48dd2602d3c49b40bed12ff9c5e327fd83e6bd95"
+      "kimspec.edn" "6509a3b085770b4967d433968967f774f1d3b19d"
+    }
+  }
+
+  {
+    "extended-id" "IMD_EAM_Schopf_AlNiCo_B__MO_128037485276_000"
+    "event-type" "initial-creation"
+    "user-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "5c2ecb22390b9d7f19469c75664d7a9745f6c143"
+      "README" "45a8e66fedce3e5e66c4f07ecf31e8a6a69ba2c3"
+      "alnico.gga_short.21714_new_F.imd.pt" "1b3f4d45252ee848ea2dd2fd7d53926d33d7f265"
+      "alnico.gga_short.21714_new_phi.imd.pt" "60475cce4882e274f36f7c1eb1b7c3b02d772235"
+      "alnico.gga_short.21714_new_rho.imd.pt" "48dd2602d3c49b40bed12ff9c5e327fd83e6bd95"
+      "kimspec.edn" "be289e0fa3246bec26d614c8e0addd495a3fc3b1"
+    }
+  }
+]

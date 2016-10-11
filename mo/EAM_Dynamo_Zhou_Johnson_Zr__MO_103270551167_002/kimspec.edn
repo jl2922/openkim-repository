@@ -1,0 +1,13 @@
+{"description" "This elemental EAM potential is part of an EAM database that includes 16 metal elements and their alloys (source code to create an alloy potential for any combination of these elements is available in LAMMPS package directory lammps-**/tools/eam_database)."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Zhou_Johnson_Zr__MO_103270551167_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "X. W. Zhou, R. A. Johnson, and H. N. G. Wadley, Physical Review B 69, 144113 (2004)\nX. W. Zhou, H. N. G. Wadley, R. A. Johnson, D. J. Larson N. Tabat, A. Cerezo, A. K. Petford-Long, G. D. W. Smith, P. H. Clifton, R. L. Martens and T. F. Kelly, Acta Mater. 49, 4005 (2001)"
+ "species" ["Zr"]
+ "title" "EAM alloy potential set table, compatible with LAMMPS"
+ "author" "Xiaowang Zhou"
+ "contributer-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+ "maintainer-id" "4f4b2891-b27a-4e6d-aa56-6ffcb0e52407"
+ "publication-year" "2016"}

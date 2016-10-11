@@ -1,0 +1,49 @@
+[
+  {
+    "extended-id" "model_driver_PF_quintic_splines__MD_543355979582_001"
+    "event-type" "metadata-update"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "a46f620f6c572d61456d9e88a397a22d6a438f06"
+      "README" "a972a49ce824f8af570de71e9d7a07284fd804c5"
+      "kimspec.edn" "3b0821a4b00e38681b74e3e7b05c709c4ddef615"
+      "model_driver_PF_quintic_splines.F03" "7333fbdb2b5fd1dabc784b01617f7e8843f28d24"
+      "model_driver_PF_quintic_splines.kim.tpl" "0e5c77a23c552f9e45db839cffa660d26def8ddc"
+    }
+  }
+
+  {
+    "extended-id" "model_driver_PF_quintic_splines__MD_543355979582_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "a46f620f6c572d61456d9e88a397a22d6a438f06"
+      "README" "a972a49ce824f8af570de71e9d7a07284fd804c5"
+      "kimspec.edn" "e47199ebc896b2c05d2b6c2ab65466c103670a6c"
+      "model_driver_PF_quintic_splines.F03" "7333fbdb2b5fd1dabc784b01617f7e8843f28d24"
+      "model_driver_PF_quintic_splines.kim.tpl" "0e5c77a23c552f9e45db839cffa660d26def8ddc"
+    }
+  }
+
+  {
+    "extended-id" "model_driver_PF_quintic_splines__MD_543355979582_000"
+    "event-type" "initial-creation"
+    "user-id" "c2a3340e-1ed1-47b0-86d1-0fb98fa0375d"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "732ebfce25f9ff38476e02ee0f2d0a0e0e806aeb"
+      "README" "f9552e66710421bb4715e5ac761733b8e7d4a307"
+      "kimspec.edn" "4b90c5b51674723ade7231ec15dd529f93a5deb3"
+      "model_driver_PF_quintic_splines.F90" "bacc278c0e08ee5da171fa5a5ed76dbdc8f1258b"
+      "model_driver_PF_quintic_splines__MD_543355979582_000.kim" "4512cd8dab3a4ab8fc0af1a5c0f206b0dbe9e608"
+    }
+  }
+]

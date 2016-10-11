@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_002"
+    "event-type" "metadata-update"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "Al-Fe.eam.fs" "35666d83be83f939faa214a72105a0ea5a512baf"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "42e4b93ef95b6972f0dd865e3a7032d4bcff5640"
+      "kimspec.edn" "d4c42559653779f52807dfc43b910610798cfbe0"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_002"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2016-07-19 21:58:10"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "Al-Fe.eam.fs" "35666d83be83f939faa214a72105a0ea5a512baf"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "42e4b93ef95b6972f0dd865e3a7032d4bcff5640"
+      "kimspec.edn" "d87e00cdc06c9b3a755162706934aaeae68015f4"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_001"
+    "event-type" "revised-version-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "Al-Fe.eam.fs" "35666d83be83f939faa214a72105a0ea5a512baf"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "8b2c5d08b4273ef10d16afeb8b3132884777b4c8"
+      "kimspec.edn" "2454f62cde9199ec031a65c1439d15530ace1a60"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_000"
+    "event-type" "initial-creation"
+    "user-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "Al-Fe.eam.fs" "35666d83be83f939faa214a72105a0ea5a512baf"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "644c172481b7b51bcf858cb9b1eb033cde2e902f"
+      "kimspec.edn" "5fa767ce87abb6be1ddeb7c07513f0f7017a316e"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "EDIP_BOP_Bazant_Kaxiras_Si__MO_958932894036_001"
+    "event-type" "metadata-update"
+    "user-id" "4d62befd-21c4-42b8-a472-86132e6591f3"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b26f9633ace1e867d440eca1c132f1730943c235"
+      "README" "e331f51df6425963b381c47daccc1bebf802d718"
+      "Si_BOP_EDIP.params" "12aae27bffdc3303e48d39967459af9e3740fd9e"
+      "kimspec.edn" "9c5a579c067c17c71fc30b42920dbfc7f3c5203f"
+    }
+  }
+
+  {
+    "extended-id" "EDIP_BOP_Bazant_Kaxiras_Si__MO_958932894036_001"
+    "event-type" "revised-version-creation"
+    "user-id" "4d62befd-21c4-42b8-a472-86132e6591f3"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b26f9633ace1e867d440eca1c132f1730943c235"
+      "README" "e331f51df6425963b381c47daccc1bebf802d718"
+      "Si_BOP_EDIP.params" "12aae27bffdc3303e48d39967459af9e3740fd9e"
+      "kimspec.edn" "dd416854e2263a0187f00ee435b45a7595cf3681"
+    }
+  }
+
+  {
+    "extended-id" "EDIP_BOP_Bazant_Kaxiras_Si__MO_958932894036_000"
+    "event-type" "initial-creation"
+    "user-id" "4d62befd-21c4-42b8-a472-86132e6591f3"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "6797882c494686fe56b4f63098496c82fbe35d68"
+      "README" "e331f51df6425963b381c47daccc1bebf802d718"
+      "Si_BOP_EDIP.params" "12aae27bffdc3303e48d39967459af9e3740fd9e"
+      "kimspec.edn" "621e10be56cf4b0dbc660a257b70a528abda620b"
+    }
+  }
+]

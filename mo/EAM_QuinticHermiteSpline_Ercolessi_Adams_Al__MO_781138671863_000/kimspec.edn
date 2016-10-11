@@ -1,0 +1,13 @@
+{"description" "This is an EAM_Dynamo parameterization for pure aluminum due to F. Ercolessi and J. B. Adams. The potential was developed using the \"force-matching method\", which includes forces from first-principles calculations in the fitting data base. The potential was fitted to properties of face-centered cubic (fcc) crystals."
+ "disclaimer" "By design, this potential is not expected to be accurate for geometries with extremely low coordination -- such as small molecules -- which were not included in the input set."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_QuinticHermiteSpline_Ercolessi_Adams_Al__MO_781138671863_000"
+ "model-driver" "EAM_QuinticHermiteSpline__MD_029719603993_001"
+ "source-citations" "F. Ercolessi and J. B. Adams, \"Interatomic Potentials from First-Principles Calculations: the Force-Matching Method\", Europhys. Lett., 26:583-588 (1994)."
+ "species" ["Al"]
+ "title" "A EAM_Dynamo potential for Al due to Ercolessi and Adams"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2016"}

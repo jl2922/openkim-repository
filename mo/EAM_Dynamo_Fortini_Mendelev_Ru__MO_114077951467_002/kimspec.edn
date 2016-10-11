@@ -1,0 +1,13 @@
+{"description" "Basic properties of Ru at low temperatures."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Fortini_Mendelev_Ru__MO_114077951467_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "A. Fortini,  M.I. Mendelev, S. Buldyrev and  D.J. Srolovitz, J. Appl. Phys. 104, 074320 (2008)."
+ "species" ["Ru"]
+ "title" "FS/EAM potential for Ru"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}

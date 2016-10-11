@@ -1,0 +1,12 @@
+{"description" "This is a four-body Mistriotis-Flytzanis-Farantos potential model based on the KIM Model Driver  Four_Body_Mistriotis_Flytzanis_Farantos__MD_514777050453_000 . The cohesive energy of Silicon calculated through this model is 4.63 eV. With the help of molecular dynamics simulations, the melting temperature for this model was found to be around 2080 +/- 50 K which is the same as reported in Mistriotis et al. A graph between potential energy per atom vs temperature can be obtained by writing to the author. The latent heat for melting is 0.31 +/- 0.03 eV per atom whereas Mistriotis et al report 0.3 eV per atom."
+ "domain" "openkim.org"
+ "extended-id" "Four_Body_Mistriotis_Flytzanis_Farantos_Si__MO_080526771943_000"
+ "kim-api-version" "1.6"
+ "model-driver" "Four_Body_Mistriotis_Flytzanis_Farantos__MD_514777050453_000"
+ "source-citations" "1. A. D. Mistriotis, N. Flytzanis, and S. C. Farantos, \"Potential model for silicon clusters\", Phys. Rev. B, vol.   39, 1212-1218, 1989 \n2. Ellad B. Tadmor and Ronald E. Miller, \"Modeling Materials: Continuum, Atomistic and Multiscale Techniques, Cambridge University Press, 2011\""
+ "species" ["Si"]
+ "title" "A four-body Mistriotis-Flytzanis-Farantos Model for Silicon"
+ "author" "Amit K Singh"
+ "contributer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "maintainer-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+ "publication-year" "2016"}

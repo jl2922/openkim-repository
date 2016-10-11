@@ -1,0 +1,65 @@
+[
+  {
+    "extended-id" "Three_Body_Stillinger_Weber__MD_335816936951_002"
+    "event-type" "metadata-update"
+    "user-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "46511257c5835734a6b192e84cdf6c9d4e483808"
+      "README" "c1eedce4cb39877d7e41fc733865ddef697acd69"
+      "Three_Body_Stillinger_Weber.c" "c016d300de26e6191795dfc0cd3c482a0a5cc7ee"
+      "Three_Body_Stillinger_Weber.kim.tpl" "80653b7fedbf06b1ae138e029a6c8838e830a8a1"
+      "kimspec.edn" "6a9f4016e9a2db57a43bf6338a2d39a49892208b"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber__MD_335816936951_002"
+    "event-type" "revised-version-creation"
+    "user-id" "5ca58a6a-aa46-4e5a-a2e1-b3fc6bc2efa6"
+    "timestamp" "2016-04-22 15:28:17"
+    "comments" "This is an extension of the 001 version to support multiple species. The use of a subset of the supported species is valid."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "46511257c5835734a6b192e84cdf6c9d4e483808"
+      "README" "c1eedce4cb39877d7e41fc733865ddef697acd69"
+      "Three_Body_Stillinger_Weber.c" "c016d300de26e6191795dfc0cd3c482a0a5cc7ee"
+      "Three_Body_Stillinger_Weber.kim.tpl" "80653b7fedbf06b1ae138e029a6c8838e830a8a1"
+      "kimspec.edn" "e0287bcc5a2a55111f8ca520ef0804085a89794c"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber__MD_335816936951_001"
+    "event-type" "revised-version-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "3dfde302d31841f306cf2fa280a0fa640a0c2cc6"
+      "README" "fc3baad06a8ebb7f195d6e3e8e5f9f564bea05ba"
+      "Three_Body_Stillinger_Weber.c" "1e9744af31205259b5592cd17eddbe0a0f03a941"
+      "Three_Body_Stillinger_Weber.kim.tpl" "656a33fc0284fec54e1e201782fdfc416565508d"
+      "kimspec.edn" "cdba05edde610f4d75194475e8f21e6929a64cda"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber__MD_335816936951_000"
+    "event-type" "initial-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "b62b6d90e35c7d8490f6f5e73445b2c053aea341"
+      "README" "af827ad174b029dad022f73f9a79da58d870b2e2"
+      "Three_Body_Stillinger_Weber.c" "fe084dd2b4fe4f8d0491768caebac7052aba05fc"
+      "Three_Body_Stillinger_Weber__MD_335816936951_000.kim" "a29ba20e94f7af749887dc273a9ee1bc5f142434"
+      "kimspec.edn" "94a3c56a1bf1233c0d8491581b750755dd06f400"
+    }
+  }
+]

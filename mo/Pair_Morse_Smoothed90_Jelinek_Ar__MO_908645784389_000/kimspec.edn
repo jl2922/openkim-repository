@@ -1,0 +1,13 @@
+{"description" "This is a Ar Morse Model Parameterization by Jelinek."
+ "disclaimer" "None"
+ "domain" "openkim.org"
+ "extended-id" "Pair_Morse_Smoothed90_Jelinek_Ar__MO_908645784389_000"
+ "kim-api-version" "1.6"
+ "model-driver" "Pair_Morse_Smoothed__MD_093895395358_001"
+ "source-citations" "G. E. Jelinek, Phys. Rev. B, Vol 5, no 8, 1972, pp3210--3217"
+ "species" ["Ar"]
+ "title" "This is a Ar Morse Model Parameterization by Jelinek"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2015"}

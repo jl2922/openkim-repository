@@ -1,0 +1,61 @@
+[
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Hauch_Brittle_Si__MO_119167353542_002"
+    "event-type" "metadata-update"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "38e997245e62a5cc78169757081d5064475822f4"
+      "README" "fe11e7238bc555b39876b98fc354b8ae19cb832c"
+      "Three_Body_Stillinger_Weber_Hauch_Brittle_Si.params" "6dff05ecd85e5264e6fb9589836e3c89dd8b5838"
+      "kimspec.edn" "913711a20433e0f5d2f0aa3e1ba42113bf4cebaa"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Hauch_Brittle_Si__MO_119167353542_002"
+    "event-type" "revised-version-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2016-04-22 15:53:23"
+    "comments" "This version update is to make this model compatible with the model driver update to support multiple species."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "38e997245e62a5cc78169757081d5064475822f4"
+      "README" "fe11e7238bc555b39876b98fc354b8ae19cb832c"
+      "Three_Body_Stillinger_Weber_Hauch_Brittle_Si.params" "6dff05ecd85e5264e6fb9589836e3c89dd8b5838"
+      "kimspec.edn" "4a5a09da5607e2a5372f149ca6952ff2c58dd0a8"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Hauch_Brittle_Si__MO_119167353542_001"
+    "event-type" "revised-version-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "4127c880d6b4beaa2a550eeba481de2e46d2fc47"
+      "README" "e4199c066a368aa036a42d81d3519d534f6b1d1d"
+      "Three_Body_Stillinger_Weber_Hauch_Brittle_Si.params" "a27a069e88f2e1ab9129c2c0acb35be44c7cc908"
+      "kimspec.edn" "1a22262da606467695ee77a002501aa8ef2e5a6f"
+    }
+  }
+
+  {
+    "extended-id" "Three_Body_Stillinger_Weber_Hauch_Brittle_Si__MO_119167353542_000"
+    "event-type" "initial-creation"
+    "user-id" "5d8c9931-da7e-48ed-86a5-0da65b7c3f13"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "ea8b9dc9cb3827e440edc1a9a42731993a357c82"
+      "README" "e4199c066a368aa036a42d81d3519d534f6b1d1d"
+      "Three_Body_Stillinger_Weber_Hauch_Brittle_Si.params" "a27a069e88f2e1ab9129c2c0acb35be44c7cc908"
+      "kimspec.edn" "b2e794a9a3d33a9267d21b895747c22e2cf527a9"
+    }
+  }
+]

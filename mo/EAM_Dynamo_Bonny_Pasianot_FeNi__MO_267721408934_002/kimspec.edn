@@ -1,0 +1,13 @@
+{"description" "EAM potential to describe FeNi in the complete concentration range. The main focus was put on the description of experimentally observed intermetallic phases and point defect properties in a dilute Fe-rich matrix. The Fe and Ni potentials were taken from [Mendelev et al., Philos. Mag. 83 (2003) 3977] and [Voter and Chen, Mater. Res. Soc. Symp. Proc. 82 (1987) 175], respectively."
+ "disclaimer" "The potential was not stiffened to ZBL. The Fe potential is only suitable to describe alpha-Fe."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Bonny_Pasianot_FeNi__MO_267721408934_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "G. Bonny, R.C. Pasianot, L. Malerba, Modelling Simul. Mater. Sci. Eng. 17 (2009) 025010"
+ "species" ["Fe" "Ni"]
+ "title" "FeNi many-body potential"
+ "author" "Giovanni Bonny"
+ "contributer-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+ "maintainer-id" "79c9470c-5b2d-4c3a-883a-34dcca088714"
+ "publication-year" "2016"}

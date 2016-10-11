@@ -1,0 +1,289 @@
+El Ref.St     mass       Ec       Re          B        A     beta(0)  beta(1)
+            beta(2)  beta(3)    t(1)      t(2)      t(3)    Rho_zero  Cmin
+Fe BCC_A2  55.847d+00 4.29d+00 2.480d+00 1.0797d+00 0.56d+00 4.15d+00 1.00d+00
+   .050 3.60 1.00d+00 1.00d+00  2.60d+00  1.80d+00 -7.20d+00 1.00d+00 0.362.80
+Cr BCC_A2  51.960d+00 4.10d+00 2.495d+00 1.1864d+00 0.42d+00 6.81d+00 1.00d+00
+   .000 3.60 1.00d+00 1.00d+00  0.30d+00  5.90d+00 -1.04d+01 1.00d+00 0.782.80
+Mo BCC_A2  89.960d+00 6.81d+00 2.725d+00 1.6557d+00 0.46d+00 7.03d+00 1.00d+00
+   .000 3.80 1.00d+00 1.00d+00  0.50d+00  3.10d+00 -7.50d+00 1.00d+00 0.642.80
+W  BCC_A2 183.850d+00 8.66d+00 2.740d+00 1.9609d+00 0.40d+00 6.54d+00 1.00d+00
+   .000 3.80 1.00d+00 1.00d+00  -.60d+00  0.30d+00 -8.70d+00 1.00d+00 0.492.80
+V  BCC_A2  50.942d+00 5.30d+00 2.625d+00 0.9800d+00 0.73d+00 4.74d+00 1.00d+00
+   .000 3.60 2.50d+00 1.00d+00  3.30d+00  3.20d+00 -2.00d+00 1.00d+00 0.492.80
+Nb BCC_A2  92.906d+00 7.47d+00 2.860d+00 1.0797d+00 0.72d+00 5.08d+00 1.00d+00
+   .000 4.00 2.50d+00 1.00d+00  1.70d+00  2.80d+00 -1.60d+00 1.00d+00 0.362.80
+Ta BCC_A2 180.948d+00 8.09d+00 2.860d+00 1.2120d+00 0.67d+00 4.49d+00 1.00d+00
+   .000 4.00 1.00d+00 1.00d+00  1.70d+00  2.10d+00 -3.20d+00 1.00d+00 0.252.80
+Mn BCC_A2  54.940d+00 2.90d+00 2.530d+00 0.8500d+00 0.70d+00 4.30d+00 1.00d+00
+   .000 4.00 2.00d+00 6.50d+00  4.00d+00 -3.00d+00 -4.00d+00 1.00d+00 0.162.80
+Li BCC_A2   6.940d+00 1.65d+00 3.020d+00 0.0830d+00 0.95d+00 1.65d+00 1.00d+00
+   .050 3.60 4.00d+00 1.00d+00  2.30d+00  5.00d+00  0.50d+00 1.00d+00 0.162.80
+CC
+CC
+Ni FCC_A1  58.690d+00 4.45d+00 2.490d+00 1.1708d+00 0.94d+00 2.56d+00 1.50d+00
+   .050 4.00 6.00d+00 1.50d+00  3.10d+00  1.80d+00  4.36d+00 1.00d+00 0.812.80
+Pd FCC_A1 106.420d+00 3.91d+00 2.750d+00 1.2201d+00 0.94d+00 5.15d+00 2.20d+00
+   .050 4.50 6.00d+00 2.20d+00  4.50d+00  1.47d+00  4.85d+00 1.00d+00 1.692.80
+Pt FCC_A1 195.080d+00 5.77d+00 2.770d+00 1.7999d+00 0.90d+00 4.92d+00 2.20d+00
+   .050 4.50 6.00d+00 2.20d+00  3.94d+00 -2.20d+00  3.84d+00 1.00d+00 1.532.80
+CC
+CC
+Cu FCC_A1  63.546d+00 3.54d+00 2.555d+00 0.8862d+00 0.94d+00 3.83d+00 2.20d+00
+   .050 4.00 6.00d+00 2.20d+00  2.72d+00  3.04d+00  1.95d+00 1.00d+00 1.212.80
+Ag FCC_A1 107.868d+00 2.85d+00 2.880d+00 0.6784d+00 0.94d+00 4.73d+00 2.20d+00
+   .050 4.50 6.00d+00 2.20d+00  3.40d+00  3.00d+00  1.50d+00 1.00d+00 1.382.80
+Au FCC_A1 196.967d+00 3.93d+00 2.880d+00 1.1253d+00 1.00d+00 5.77d+00 2.20d+00
+   .050 4.50 6.00d+00 2.20d+00  2.90d+00  1.64d+00  2.00d+00 1.00d+00 1.532.80
+Al FCC_A1  26.982d+00 3.36d+00 2.860d+00 0.4955d+00 1.16d+00 3.20d+00 2.60d+00
+   .050 4.50 6.00d+00 2.60d+00  3.05d+00  0.51d+00  7.75d+00 1.00d+00 0.492.80
+Pb FCC_A1 207.200d+00 2.04d+00 3.500d+00 0.3046d+00 1.01d+00 5.42d+00 2.20d+00
+   .050 5.50 6.00d+00 2.20d+00  3.10d+00  3.91d+00  1.25d+00 1.00d+00 0.812.80
+CC
+CC
+C  DIA_A4  12.011d+00 7.37d+00 1.540d+00 2.7750d+00 1.18d+00 4.25d+00 2.80d+00
+   .000 4.00 2.00d+00 5.00d+00  3.20d+00  1.44d+00 -4.48d+00 6.00d+00 1.412.80
+Si DIA_A4  28.086d+00 4.63d+00 2.350d+00 0.6191d+00 0.58d+00 3.55d+00 2.50d+00
+   .000 4.50 0.00d+00 7.50d+00  1.80d+00  5.25d+00 -2.61d+00 1.88d+00 1.412.80
+Ge DIA_A4  72.590d+00 3.85d+00 2.450d+00 0.4793d+00 0.66d+00 3.95d+00 2.00d+00
+   .000 4.50 0.00d+00 7.50d+00  2.90d+00  5.77d+00 -2.20d+00 1.88d+00 1.412.80
+CC
+CC
+Ti HCP_A3  47.880d+00 4.87d+00 2.920d+00 0.6846d+00 0.66d+00 2.70d+00 1.00d+00
+   .000 4.80 3.00d+00 1.00d+00  6.80d+00 -2.00d+00 -1.20d+01 1.00d+00 1.001.44
+Zr HCP_A3  91.220d+00 6.36d+00 3.200d+00 0.6040d+00 0.68d+00 2.45d+00 1.00d+00
+   .000 5.20 3.00d+00 2.00d+00  6.30d+00 -3.30d+00 -1.00d+01 1.00d+00 1.001.44
+Co HCP_A3  58.933d+00 4.41d+00 2.500d+00 1.2157d+00 0.90d+00 3.50d+00 0.00d+00
+   .000 3.70 0.00d+00 4.00d+00  3.00d+00  5.00d+00 -1.00d+00 1.00d+00 0.492.00
+Mg HCP_A3  24.320d+00 1.55d+00 3.200d+00 0.2303d+00 0.52d+00 2.30d+00 1.00d+00
+   .000 4.80 3.00d+00 1.00d+00  9.00d+00 -2.00d+00 -9.50d+00 1.00d+00 0.492.80
+CC
+CC
+O  DIMER   16.000d+00 2.56d+00 1.210d+00 5.6000d+00 1.36d+00 4.55d+00 2.00d+00
+   .000 4.00 2.00d+00 2.00d+00  0.01d+00  0.01d+00  -.01d+00 3.75d+00 1.002.80
+N  DIMER   14.007d+00 4.88d+00 1.100d+00 5.9600d+00 1.80d+00 2.75d+00 4.00d+00
+   .000 4.00 4.00d+00 4.00d+00  0.05d+00  1.00d+00  0.00d+00 1.80d+01 2.002.80
+H  DIMER    1.008d+00 2.37d+00 0.741d+00 2.9600d+00 2.50d+00 2.96d+00 3.00d+00
+   .000 4.00 3.00d+00 2.50d+00  0.20d+00 -0.10d+00  0.00d+00 1.80d+01 2.002.80
+CC
+CC
+In FCC_A1 114.820d+00 2.51d+00 3.328d+00 0.2700d+00 1.00d+00 5.06d+00 5.50d+00
+   .050 4.50 5.46d+00 2.00d+00  3.00d+00  3.10d+00  2.50d+00 1.00d+00 1.502.80
+Ga FCC_A1  69.720d+00 2.90d+00 3.003d+00 0.329d+00  0.97d+00 4.80d+00 3.10d+00
+   .097 5.00 6.00d+00 0.50d+00  2.72d+00  2.06d+00 -4.00d+00 1.00d+00 1.402.80
+P  BCC_A2  30.974d+00 2.72d+00 2.600d+00 0.6750d+00 1.83d+00 2.44d+00 5.00d+00
+   .000 4.50 1.00d+00 1.00d+00  0.50d+00  1.80d+00 -1.00d+00 1.00d+00 1.482.80
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Alloy  Ref.St    delta_Ec      Re          B       Eu_d Ciji Cjij Ciij Cijj AU
+Fe-Cr  BCC_B2  0.0970d+00  0.0000d+00  0.0000d+00  0.00 0.00 0.00 0.00 0.00 BJ
+                                                   4.00 0.00 0.00 0.00 0.00
+Co-Cu  L12AB3  0.1150d+00  2.5550d+00  0.0000d+00  0.00 0.00 0.00 0.00 0.00 JH
+                                                   3.70 0.00 0.00 0.00 0.00
+W -Ni  L12AB3 -0.0800d+00  2.5570d+00  1.9900d+00  0.00 0.52 0.00 2.25 2.25 JH
+                                                   4.50 0.00 0.00 0.00 0.00
+Cu-Ni  L12AB3  0.0300d+00  0.0000d+00  0.0000d+00  0.00 0.00 0.00 0.00 0.00 BJ
+                                                   4.00 0.00 0.00 0.00 0.00
+Fe-Cu  L12A3B  0.1580d+00  2.5700d+00  1.0272d+00  0.00 0.00 0.00 0.00 0.00 BJ
+                                                   4.00 0.00 0.00 0.00 0.00
+Fe-C   L12A3B  0.9500d+00  2.3640d+00  1.6500d+00  0.00 0.00 0.16 0.16 0.16 BJ
+                                                   3.60 0.00 1.44 0.00 0.00
+Fe-N   FCC_B1  0.7000d+00  2.0900d+00  1.3700d+00  0.00 0.16 0.16 0.16 0.00 BJ
+                                                   3.60 1.44 0.00 0.00 0.00
+Fe-H   FCC_B1  0.1640d+00  1.8350d+00  1.8411d+00  0.00 0.00 0.00 2.15 0.00 BJ
+                                                   3.60 1.44 0.00 0.00 0.00
+Al-H   FCC_B1  0.6800d+00  1.8750d+00  0.7000d+00  0.00 0.64 0.09 0.49 0.49 WS
+                                                   4.70 2.80 2.80 2.80 1.44
+Ni-H   FCC_B1  0.0400d+00  1.8650d+00  1.0800d+00  0.00 0.04 0.49 1.80 0.00 WS
+                                                   4.00 2.00 2.80 2.80 2.80
+V -H   FCC_B1 -0.1200d+00  1.9700d+00  1.2600d+00  0.00 0.36 0.16 0.64 0.36 JH
+                                                   4.00 2.80 2.80 2.80 2.80
+Ti-C   FCC_B1 -0.7800d+00  2.2100d+00  1.5100d+00  0.00 0.64 0.64 0.00 0.00 BJ
+                                                   4.80 1.44 2.80 2.80 2.80
+Ti-N   FCC_B1 -1.7400d+00  2.1210d+00  1.9975d+00  0.00 0.16 0.09 0.81 0.00 YM
+                                                   4.80 2.80 2.80 1.44 2.80
+Nb-C   FCC_B1 -0.7300d+00  2.2800d+00  2.1220d+00  0.00 0.49 0.64 2.00 2.00 HK
+                                                   4.50 1.44 0.00 0.00 0.00
+Nb-N   FCC_B1 -1.2300d+00  2.1975d+00  2.2100d+00  0.00 0.36 0.81 0.00 0.00 HK
+                                                   4.50 2.00 0.00 0.00 0.00
+Fe-Ti  BCC_B2 -0.2200d+00  2.5800d+00  1.1800d+00  0.00 1.21 0.78 0.00 0.00 IY
+                                                   4.80 2.80 2.80 2.80 2.80
+Fe-Nb  L12AB3  0.0450d+00  2.8370d+00  1.0797d+00  0.00 1.00 0.36 0.00 0.00 IY
+                                                   4.00 2.80 2.80 2.80 2.80
+Fe-Pt  L12AB3 -0.4600d+00  2.7181d+00  1.6352d+00  0.00 0.00 0.00 0.00 0.00 JS
+                                                   4.00 0.00 0.00 0.00 0.00
+Fe-Mn  BCC_B2  0.0000d+00  2.4990d+00  0.0000d+00  0.00 0.64 0.64 0.49 0.49 YM
+                                                   4.00 0.00 0.00 0.00 0.00
+Fe-Al  L12A3B -0.1800d+00  2.5900d+00  0.0000d+00  0.00 0.00 1.21 1.00 0.00 EK
+                                                   4.00 2.80 2.80 2.80 2.80
+Fe-P   BCC_B2 -0.4200d+00  2.4350d+00  1.2500d+00  0.00 0.36 1.00 0.76 2.00 WS
+                                                   4.50 2.80 2.00 2.00 2.80
+Ti-Cu  BCC_B2 -0.0600d+00  2.7500d+00  0.8000d+00  0.00 0.49 0.49 1.15 0.49 YM
+                                                   4.50 1.44 1.44 2.80 2.80
+Zr-Cu  BCC_B2 -0.1200d+00  2.8221d+00  0.7450d+00  0.00 0.00 0.00 0.00 0.00 YM
+                                                   5.00 1.44 1.44 2.80 1.44
+Zr-Ag  BCC_B2 -0.0400d+00  2.9700d+00  0.6706d+00  0.00 1.00 1.00 0.00 0.00 IY
+                                                   5.00 1.44 1.44 2.80 2.80
+Ag-Cu  FCC_B1  0.3460d+00  2.5340d+00  0.7250d+00  0.00 0.00 0.00 0.00 0.00 IY
+                                                   4.50 0.00 0.00 0.00 0.00
+Al-Mg  L12A3B -0.0050d+00  2.9510d+00  0.3800d+00  0.00 0.49 0.49 0.36 0.36 YM
+                                                   4.80 2.80 2.80 2.80 2.80
+Mg-Li  BCC_B2 -0.0400d+00  2.9500d+00  0.1300d+00  0.00 0.81 0.16 0.00 0.00 YM
+                                                   4.80 2.80 2.80 2.80 1.44
+Ni-V   L12A3B -0.0950d+00  2.5480d+00  1.2800d+00  0.00 0.81 1.00 1.00 1.00 KK
+                                                   4.00 2.80 1.44 1.44 1.44
+Al-V   FCC_B1  0.3700d+00  2.6780d+00  0.7370d+00  0.00 0.36 0.49 0.49 0.25 HS
+                                                   4.50 2.80 2.80 2.80 2.80
+Co-Al  BCC_B2 -0.5650d+00  2.4768d+00  1.0112d+00  0.00 0.49 1.10 0.00 0.00 DW
+                                                   4.50 2.00 2.80 2.80 2.80
+CC
+CC
+Ge-Si  ZnS_B3  0.0100d+00  2.3977d+00  0.0000d+00  0.00 0.00 0.00 0.00 0.00 BJ
+                                                   4.50 0.00 0.00 0.00 0.00
+Ga-In  FCC_B1  0.1355d+00  0.0000d+00  0.0000d+00  0.00 0.00 0.78 0.00 2.30 EC
+                                                   4.00 0.00 0.00 0.00 0.00
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Cmax 2.80 XXXX Cmin Aver XXXXXXX
+Ternary                             Rcut Cikj Cijk Cjik Cikj Cijk Cjik      AU
+Zr-Ag-Cu                            5.00 2.06 2.06 1.44 1.14 1.14 1.10      KH
+Fe-Ti-C                             4.80 2.06 2.80 2.80 0.49 0.56 0.56      HK
+Fe-Ti-N                             4.80 2.06 2.06 2.06 0.16 0.42 0.42      HK
+Fe-Nb-C                             4.50 2.06 2.80 2.80 0.49 0.82 0.82      HK
+Fe-Nb-N                             4.50 1.71 2.80 2.80 0.25 0.49 0.49      HK
+CC
+Ni-V -H                             4.00 2.38 2.80 2.80 0.16 1.15 1.15      WS
+Al-V -H                             4.70 2.80 2.80 2.80 0.49 0.56 0.56      WS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Multicomponent
+Rcutoff = 5.20
+EOF
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Fe, Cr, Mo, W, V, Nb, Ta:
+"Second Nearest-Neighbor Modified Embedded Atom Method Potentials for BCC
+Transition Metals", Byeong-Joo Lee, M.I. Baskes, Hanchul Kim and Yang Koo Cho,
+Phys. Rev. B. 64, 184102 (2001).
+
+Ni, Pd, Pt, Cu, Ag, Au, Al, Pb:
+"Semi-empirical atomic potentials for the FCC metals Cu, Ag, Au, Ni, Pd, Pt,
+Al and Pb based on first and second nearest-neighbor modified embedded atom
+method," Byeong-Joo Lee, Jae-Hyeok Shim and M.I. Baskes, Phys. Rev. B. 68,
+144112 (2003).
+
+C:
+"A Modified Embedded Atom Method Interatomic Potential for Carbon,"
+Byeong-Joo Lee and Jin Wook Lee, CALPHAD 29, 7-16 (2005).
+
+Ti, Zr:
+"Modified Embedded Atom Method Interatomic Potentials for Ti and Zr,"
+Young-Min Kim, Byeong-Joo Lee and M.I. Baskes, Phys. Rev. B 74, 014101 (2006).
+
+Si:
+"A Modified Embedded Atom Method Interatomic Potential for Silicon,"
+Byeong-Joo Lee, CALPHAD 31, 95-104 (2007).
+
+Ge:
+"A Modified Embedded Atom Method Interatomic Potential for Germanium,"
+Eun-Ha Kim, Young-Han Shin and Byeong-Joo Lee, CALPHAD 32, 34-42 (2008).
+
+In:
+"A Modified Embedded Atom Method Interatomic Potential for Indium,"
+Eun Cheol Do, Young-Han Shin and Byeong-Joo Lee, CALPHAD 32, 82-88 (2008).
+
+Fe-Cr:
+"A Semi-Empirical Atomic Potential for the Fe-Cr Binary System,"
+Byeong-Joo Lee, Jae-Hyeok Shim and Hyun Min Park, CALPHAD 25, 527-534 (2001).
+
+Co-Cu:
+"Monte Carlo simulation of phase separation behavior in a Cu-Co alloy nano
+particle," Jae-Hyeok Shim, Byeong-Joo Lee, Jae-Pyoung Ahn, Young Whan Cho and
+Jong-Ku Park, J. Materials Research 17, 925-928 (2002).
+
+Ni-W:
+"Modified Embedded-Atom Method Calculation for the Ni-W System,"
+Jae-Hyeok Shim, Sung Il Park, Young Whan Cho and Byeong-Joo Lee,
+J. Materials Research 18, 1863-1867 (2003).
+
+Cu-Ni:
+"A Modified Embedded Atom Method Interatomic Potential for the Cu-Ni System,"
+Byeong-Joo Lee and Jae-Hyeok Shim, CALPHAD 28, 125-132 (2004).
+
+Fe-Cu:
+"An MEAM Interatomic Potential for the Fe-Cu Alloy System and Cascade
+Simulation on pure Fe and Fe-Cu Alloy," Byeong-Joo Lee, Brian D. Wirth,
+Jae-Hyeok Shim, Junhyun Kwon, Sang Chul Kwon, Jun-Hwa Hong,
+Phys. Rev. B. 71, 184205 (2005).
+
+Fe-C:
+"A Modified Embedded Atom Method Interatomic Potential for the Fe-C System,"
+Byeong-Joo Lee, Acta Materialia 54, 701-711 (2006).
+
+Fe-Pt:
+"Modified embedded-atom method interatomic potential for the Fe-Pt alloy
+system," Jaesong Kim, Yangmo Koo and Byeong-Joo Lee,
+J. Materials Research 21, 199-208 (2006).
+
+Fe-N:
+"A Modified Embedded-Atom Method Interatomic Potential for the Fe-N System:
+A Comparative Study with the Fe-C System,"
+Byeong-Joo Lee, Tae-Ho Lee and Sung-Joon Kim, Acta Materialia 54, 4597-4607 (2006).
+
+Fe-H:
+"A Modified Embedded-Atom Method Interatomic Potential for the Fe-H System,"
+Byeong-Joo Lee, Je-Wook Jang, Acta Materialia 55, 6779-6788 (2008).
+
+Cu-Ti:
+"A Semi-Empirical Interatomic Potential for the Cu-Ti Binary System,"
+Young-Min Kim and Byeong-Joo Lee, Materials Science and Engineering A 449-451,733-736 (2007).
+
+Cu-Zr:
+"A Modified Embedded-Atom Method Interatomic Potential for the Cu-Zr System,"
+Young-Min Kim and Byeong-Joo Lee, J. Mater. Research 23, 1095-1104 (2008).
+
+Ti-C & Ti-N:
+"Modified Embedded-Atom Method Interatomic Potentials for the Ti-C and Ti-N Systems,"
+Young-Min Kim and Byeong-Joo Lee, Acta Materialia 56, 3481-3489 (2008).
+
+Fe-Ti & Fe-Nb:
+"Modified Embedded-Atom Method Interatomic Potentials for the Ti-C and Ti-N Systems,"
+Inyoung Sa and Byeong-Joo Lee, Scripta Materialia 59, 595-598 (2008).
+
+Mn & Fe-Mn:
+"Modified Embedded-Atom Method Interatomic Potentials for pure Mn and Fe-Mn System,"
+Young-Min Kim, Young-Han Shin and Byeong-Joo Lee, Acta Materialia 57, 474-482 (2009).
+
+Fe-Ti-C & Fe-Ti-N:
+"Modified Embedded-Atom Method Interatomic Potentials for the Fe-Ti-C and Fe-Ti-N Systems,"
+Hyun-Kyu Kim, Woo-Sang Jung and Byeong-Joo Lee, Acta Materialia 57, 3140-3147 (2009).
+
+Cu-Ag, Zr-Ag & Cu-Zr-Ag:
+"An atomistic modeling of the Cu-Zr-Ag bulk metallic glass system,"
+Kyung-Han Kang, Inyoung Sa, Jae-Chul Lee, Eric Fleury and Byeong-Joo Lee,
+Scripta Materialia (2009), 61, 801-804 (2009).
+
+Mg & Mg-Al:
+"Atomistic modeling of pure Mg and Mg-Al System,"
+Young-Min Kim, Nack J. Kim and Byeong-Joo Lee, CALPHAD 33, 650-657 (2009).
+
+Fe-Al:
+"Modified embedded-atom method interatomic potential for the Fe-Al system,"
+Eunkoo Lee and Byeong-Joo Lee, J. Phys.: Condensed Matter 22, 175702 (2010).
+
+Nb-C, Nb-N, Fe-Nb-C & Fe-Nb-N:
+"Modified embedded-atom method interatomic Potentials for the Nb-C, Nb-N, Fe-Nb-C and Fe-Nb-N Systems,"
+Hyun-Kyu Kim, Woo-Sang Jung and Byeong-Joo Lee, J. Materials Research 25, 1288-1297 (2010).
+
+Al-H & Ni-H
+"Atomistic modeling of the Al-H and Ni-H systems,"
+Won-Seok Ko, Jae-Hyeok Shim and Byeong-Joo Lee, J. Mater. Res. 26, 1552-1560 (2011).
+
+V-H
+"A modified embedded-atom method interatomic potential for the V-H system,"
+Jae-Hyeok Shim, Young-Su Lee, Eric Fleury, Young Whan Cho, Won-Seok Ko, Byeong-Joo Lee, CALPHAD 35, 302-307 (2011).
+
+Mg-Li
+"Atomistic modeling of pure Li and Mg-Li system,"
+Young-Min Kim, In-Ho Jung, Byeong-Joo Lee, Modelling Simul. Mater. Sci. Eng. 20, 035005 (2012).
+
+P & Fe-P
+"Atomistic Modeling of an impurity element and a metal-impurity system: pure P and Fe-P system,"
+Won-Seok Ko, Nack. J. Kim and Byeong-Joo Lee, Journal of Physics: Condensed Matter (2012), accepted for publication.
+
+EOF
+

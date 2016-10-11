@@ -1,0 +1,22 @@
+1
+
+ 16.3197227812550     0.6022245584     4     0     2.0951000000    48.6150000000     2.5141200000  -0.3333333333333333   3.7711800000  
+
+
+#
+#   First line: number of species
+#
+#   Then the following 9 parameters:
+#   A(in ev) B p q sigma(in Angstrom) lambda(in eV) gamma(in Angstrom) costheta_0 cutoff
+#
+#   Note that the above parameters are not the standard Stillinger-Weber potential 
+#   parameters. Four of them are redefined according to:
+#
+#   A      := A*epsilon
+#   lambda := lambda*epsilon
+#   gamma  := gamma*sigma
+#   cutoff := a*sigma
+#
+#   where the left-hand side are the parameters used here, and the right-hand side are 
+#   the standard Stillinger-Weber potential parameters. 
+#

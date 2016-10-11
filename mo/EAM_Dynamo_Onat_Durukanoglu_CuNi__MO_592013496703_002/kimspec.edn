@@ -1,0 +1,13 @@
+{"description" "An optimized EAM potential for Cu–Ni alloys.\nThe potential is determined by fitting to experimental and first-principles data for Cu, Ni and Cu–Ni binary compounds, such as lattice constants, cohesive energies, bulk modulus, elastic constants, diatomic bond lengths and bond energies. The generated potentials were tested by computing a variety of properties of pure elements and the alloy of Cu, Ni: the melting points, alloy mixing enthalpy, lattice specific heat, equilibrium lattice structures, vacancy formation and interstitial formation energies, and various diffusion barriers on the (100) and (111) surfaces of Cu and Ni. The details of the fitting procedure and the predictions of the potential are published at http://dx.doi.org/10.1088/0953-8984/26/3/035404. Using the developed potential, the vibrational thermodynamic functions of Cu-Ni alloys are also investigated and the results are published at http://epjb.epj.org/articles/epjb/abs/2014/11/b140315/b140315.html."
+ "disclaimer" " The potential is tabulated using more spline points to provide smoother cutoff and better accuracy for simulations."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Onat_Durukanoglu_CuNi__MO_592013496703_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "Berk Onat and Sondan Durukanoglu, \"An optimized interatomic potential for Cu-Ni alloys with the embedded-atom method,\" J. Phys.: Condens. Matter 26, 035404 (2014)."
+ "species" ["Cu" "Ni"]
+ "title" "An optimized EAM potential for Cu–Ni alloys"
+ "author" "Berk Onat"
+ "contributer-id" "11006a81-8f2a-4c23-90c8-5df061ed7b6c"
+ "maintainer-id" "11006a81-8f2a-4c23-90c8-5df061ed7b6c"
+ "publication-year" "2016"}

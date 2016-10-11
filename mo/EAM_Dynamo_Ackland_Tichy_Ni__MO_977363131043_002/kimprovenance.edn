@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Tichy_Ni__MO_977363131043_002"
+    "event-type" "metadata-update"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c7f1677dc6f669c426c8a6314682632612bc1080"
+      "Ni.eam.fs" "1495605a634609287c9f3880dd932d14ea3a4700"
+      "kimspec.edn" "4d7ec8887e8d9e7f2f98841c73cf566d5f914a45"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Tichy_Ni__MO_977363131043_002"
+    "event-type" "revised-version-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2016-07-19 21:56:47"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "c7f1677dc6f669c426c8a6314682632612bc1080"
+      "Ni.eam.fs" "1495605a634609287c9f3880dd932d14ea3a4700"
+      "kimspec.edn" "8799f1a5676116f194bf526a7cdb6842cc2441e2"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Tichy_Ni__MO_977363131043_001"
+    "event-type" "revised-version-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "be552f80766d1044f1facd0be459b479b2044a72"
+      "Ni.eam.fs" "1495605a634609287c9f3880dd932d14ea3a4700"
+      "kimspec.edn" "67a9f3e77d5a301438faec0886eb8e7cd276acd5"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Ackland_Tichy_Ni__MO_977363131043_000"
+    "event-type" "initial-creation"
+    "user-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "dffe2642fef270a55fca0e913e4cf8f08a087a27"
+      "Ni.eam.fs" "1495605a634609287c9f3880dd932d14ea3a4700"
+      "kimspec.edn" "d6c0616deb305177fab6c236535bbbce2d313aa7"
+    }
+  }
+]

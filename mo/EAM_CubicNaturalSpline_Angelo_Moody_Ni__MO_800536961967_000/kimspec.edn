@@ -1,0 +1,14 @@
+{"description" "EAM potential for Ni.  Smoothed (by Laurent Dupuy) to obtain consistent and continuous derivatives."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_CubicNaturalSpline_Angelo_Moody_Ni__MO_800536961967_000"
+ "model-driver" "EAM_CubicNaturalSpline__MD_853402641673_000"
+ "source-citations" "J.E. Angelo, N.R. Moody, and M.I. Baskes, \"Trapping of hydrogen to lattice-defects in nickel,\" Modelling Simul. Mater. Sci. Engr. 3, 289-307 (1995)."
+ "species" ["Ni"]
+ "title" "EAM potential for Ni with consistent and smooth derivatives"
+
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2016"}

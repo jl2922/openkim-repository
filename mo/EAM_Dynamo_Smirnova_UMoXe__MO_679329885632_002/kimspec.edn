@@ -1,0 +1,13 @@
+{"description" "EAM potential for U-Mo system with Xe is developed using a force-matching technique and a dataset of ab initio atomic forces. The potential is  suitable for the investigation of alloys and compounds existing in the U-Mo system as well as for simulation of pure elements: U, Mo and Xe. Computed lattice constants, thermal expansion coefficients, elastic\nproperties and melting temperatures of U, Mo and Xe are consistent with the experimentally measured values. The energies of the point defect formation in pure U and Mo are proved to be comparable to the density-functional theory calculations."
+ "disclaimer" "The potential can be used for simulation of the structure and physical properties of BCC U-Mo alloys, nevertheless it gives insufficient description of some characteristics of point defects  in these alloys."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Smirnova_UMoXe__MO_679329885632_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "D.E. Smirnova, A.Yu. Kuksin, S.V. Starikov, V.V. Stegailov, Z. Insepov, J. Rest, and A.M. Yacout, \"A ternary EAM interatomic potential for U-Mo alloys with xenon.\" Modelling Simul. Mater. Sci. Eng., 21,035011 (2013). doi:10.1088/0965-0393/21/3/035011"
+ "species" ["U" "Mo" "Xe"]
+ "title" "A ternary EAM interatomic potential for U–Mo alloys with xenon"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2016"}

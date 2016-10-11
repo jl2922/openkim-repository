@@ -1,0 +1,13 @@
+{"description" "Potential model for iron-carbon incorporation covalent bonding effects.  At time of publication this was the only potential which binds properly to vacancies and NOT to interstitials.  This gives it the right energetics in a dislocation core, and at a surface.  Good clustering of C behavior and fct martensite.\nsolution energy -7.13eV\nmigration energy 0.89eV  (i.e. diffuses more slowly than vacancies)\n\n\nCompatible with Ackland/Mendelev '04 iron. EAM_Dynamo_Ackland_Mendelev_FeP"
+ "disclaimer" "Does not describe cementite.\nDoes not describe Carbon."
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Hepburn_Ackland_FeC__MO_143977152728_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Metallic-covalent interatomic potential for carbon in iron\" D.J.Hepburn and G.J.Ackland Physical Review B, 78, 16, 165115 (2008)"
+ "species" ["Fe" "C"]
+ "title" "EAM-type potential for FeC"
+ "author" "Graeme J. Ackland"
+ "contributer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "maintainer-id" "c3e36b7f-82b0-46cb-9af3-94f80655331e"
+ "publication-year" "2016"}

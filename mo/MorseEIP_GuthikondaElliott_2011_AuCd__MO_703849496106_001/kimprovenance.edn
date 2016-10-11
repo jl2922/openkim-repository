@@ -1,0 +1,46 @@
+[
+  {
+    "extended-id" "MorseEIP_GuthikondaElliott_2011_AuCd__MO_703849496106_001"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "AuCd.params" "74971c0b436a570aabe610189a3eacd843f5e5dc"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7c062656b5bf1f47f4dca82182f6838bde615a0f"
+      "README" "f059ce8eeedc59f6a35fa056bdcb7e44f19ff3f1"
+      "kimspec.edn" "1f5bfda2a1e5d712c66bbf72e796fd938009952a"
+    }
+  }
+
+  {
+    "extended-id" "MorseEIP_GuthikondaElliott_2011_AuCd__MO_703849496106_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-03-19 19:21:58"
+    "comments" "This version update is make the model use the updated model driver which had bug fixes"
+    "checksums" {
+      "AuCd.params" "74971c0b436a570aabe610189a3eacd843f5e5dc"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "7c062656b5bf1f47f4dca82182f6838bde615a0f"
+      "README" "f059ce8eeedc59f6a35fa056bdcb7e44f19ff3f1"
+      "kimspec.edn" "64d5ad2ef8ce9dd7c54053591bb9d5e55294faaf"
+    }
+  }
+
+  {
+    "extended-id" "MorseEIP_GuthikondaElliott_2011_AuCd__MO_703849496106_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2015--15 08:17:02"
+    "comments" ""
+    "checksums" {
+      "AuCd.params" "74971c0b436a570aabe610189a3eacd843f5e5dc"
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "1bbd03ed6bb9a44fd988d6aca42e6df798fb69ac"
+      "README" "cb88aaaf1dd3d94db15a6f4eccc72eba03446c50"
+      "kimspec.edn" "d7cc1d094313f96c68d1759d6b2d6aa599ee40b1"
+    }
+  }
+]

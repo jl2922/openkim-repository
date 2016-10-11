@@ -1,0 +1,11 @@
+{
+    "title"         "PhononDispersionCurve_fcc_Cu"
+    "test-driver"   "PhononDispersionCurve__TD_530195868545_001"
+    "species"       "Cu"
+    "extended-id"   "PhononDispersionCurve_fcc_Cu__TE_575177044018_001"
+    "disclaimer"    "Computer generated"
+    "executables"   ["runner"]
+    "domain"        "openkim.org"
+    "kim-api-version" "1.6"
+    "pipeline-api-version" "1.0"
+}

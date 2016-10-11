@@ -1,0 +1,12 @@
+{"description" "This Cu EAM potential parameter file was obtained from the LAMMPS distribution and is dated 2007-06-11.  It is the \"universal 3\" potential from the paper by Foiles, Baskes, and Daw."
+ "domain" "openkim.org"
+ "extended-id" "EAM_Dynamo_Foiles_Baskes_Universal3_Cu__MO_666348409573_001"
+ "kim-api-version" "1.6"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "\"Embedded-atom-method functions for the fcc metals Cu, Ag, Au, Ni, Pd, Pt, and their alloys,\" by S. M. Foiles, M. I. Baskes, and M. S. Daw, Phys. Rev. B 33, 7983 (1986); Erratum Phys. Rev. B 37, 10378 (1988)\nhttp://dx.doi.org/10.1103/PhysRevB.33.7983"
+ "species" ["Cu"]
+ "title" "Third universal Cu potential of Foiles, Baskes, and Daw; obtained from LAMMPS"
+ "author" "Ryan S. Elliott"
+ "contributer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "maintainer-id" "b645a915-d1fa-4155-a3da-65469f990011"
+ "publication-year" "2016"}

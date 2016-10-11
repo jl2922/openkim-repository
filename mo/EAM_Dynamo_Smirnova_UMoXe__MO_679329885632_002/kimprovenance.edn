@@ -1,0 +1,57 @@
+[
+  {
+    "extended-id" "EAM_Dynamo_Smirnova_UMoXe__MO_679329885632_002"
+    "event-type" "metadata-update"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-08-15 12:00:00"
+    "comments" "Update kimspec.edn"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d65a24fa29b31822de21684777a959824f88cb0b"
+      "U_Mo_Xe.2013.eam.alloy" "2a9450f1761babb9b490d16f842a63680b6fb624"
+      "kimspec.edn" "573440fb2786406b912fd16539bf75be1971f83b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Smirnova_UMoXe__MO_679329885632_002"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2016-07-19 21:55:54"
+    "comments" "Model updated to use the updated model driver which had bug fixes"
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d65a24fa29b31822de21684777a959824f88cb0b"
+      "U_Mo_Xe.2013.eam.alloy" "2a9450f1761babb9b490d16f842a63680b6fb624"
+      "kimspec.edn" "6637414754e950ffcb4cabe139d5cb38bc8f7e95"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Smirnova_UMoXe__MO_679329885632_001"
+    "event-type" "revised-version-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-07-23 10:33:41"
+    "comments" "Upgrade from openkim-api-v1.5 to kim-api-v1.6."
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "5e3f4a2743a234613b250e1fe3d52e888553502b"
+      "U_Mo_Xe.2013.eam.alloy" "2a9450f1761babb9b490d16f842a63680b6fb624"
+      "kimspec.edn" "2afdc4ad9b61db7833d4c68fb65166c75b790b0b"
+    }
+  }
+
+  {
+    "extended-id" "EAM_Dynamo_Smirnova_UMoXe__MO_679329885632_000"
+    "event-type" "initial-creation"
+    "user-id" "b645a915-d1fa-4155-a3da-65469f990011"
+    "timestamp" "2014-06-25 11:19:24"
+    "comments" ""
+    "checksums" {
+      "LICENSE.CDDL" "ab021ec11127dedf19c4219e70c9ad22318b7ab7"
+      "Makefile" "d967a1c81335b00506928fe21c1085587f2cbf7c"
+      "U_Mo_Xe.2013.eam.alloy" "2a9450f1761babb9b490d16f842a63680b6fb624"
+      "kimspec.edn" "b60d7e663c3d48776c014fde414150c41a95f83c"
+    }
+  }
+]

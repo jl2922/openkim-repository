@@ -1,0 +1,13 @@
+{"description" "AlNiCo EAM potential for the IMD EAM model driver, fitted for quasicrystal approximants."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "IMD_EAM_Schopf_AlNiCo_B__MO_128037485276_002"
+ "model-driver" "IMD_EAM__MD_113599595631_002"
+ "source-citations" "P. Brommer and F. Gähler, Effective potentials for quasicrystals from ab-initio data, Phil. Mag. 86(6–8), pp. 753–758 (2006)"
+ "species" ["Al" "Ni" "Co"]
+ "title" "AlNiCo potential for the IMD_EAM model driver."
+ "author" "Daniel Schopf"
+ "contributer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "maintainer-id" "a795e742-41a5-47a1-9586-dc507c1f5f3f"
+ "publication-year" "2016"}

@@ -1,0 +1,13 @@
+{"description" "The potential was designed to simulate the solidification in Al."
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.6"
+ "extended-id" "EAM_Dynamo_Mendelev_Kramer_Al__MO_106969701023_002"
+ "model-driver" "EAM_Dynamo__MD_120291908751_002"
+ "source-citations" "M.I. Mendelev,  M.J. Kramer,  C.A. Becker and M. Asta, Phil. Mag. 88,  1723 - 1750 (2008)."
+ "species" ["Al"]
+ "title" "FS potential for Al"
+ "author" "Mikhail I. Mendelev"
+ "contributer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "maintainer-id" "f3251c9e-5721-45a2-a0fc-1e48977d95e2"
+ "publication-year" "2016"}
